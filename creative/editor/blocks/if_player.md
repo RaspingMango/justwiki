@@ -103,6 +103,8 @@ layout:
 | <p><img src="../../../.gitbook/assets/item_frame.png" alt="" data-size="line"> <strong>Слот в хот-баре равен</strong><br><code>if_player_hotbar_slot_equals</code></p>   | Проверяет, совпадает ли текущий слот хот-бара игрока со слотом от 1 до 9 в сундуке. | [<img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line">](../arguments/number.md) **Номер слота для проверки**                                                                                                                                                                                                                                                                                     |               |
 | <p><img src="../../../.gitbook/assets/brewing_stand.png" alt="" data-size="line"> <strong>Имеет эффект от зелья</strong><br><code>if_player_has_potion_effect</code></p> | Проверяет, имеет ли игрок эффект от зелья.                                          | <p><a href="../arguments/potion.md"><img src="../../../.gitbook/assets/dragon_breath.png" alt="" data-size="line"></a> <strong>Зелья для проверки</strong><br><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Режим проверки</strong> <a data-footnote-ref href="#user-content-fn-20"><strong><code>-></code></strong></a></p>            |               |
 | <p><img src="../../../.gitbook/assets/saddle.png" alt="" data-size="line"> <strong>Оседлал существо</strong><br><code>if_player_is_riding_entity</code></p>              | Проверяет, оседлал ли игрок существо (включая транспорт).                           | <p><a href="../arguments/text.md"><img src="../../../.gitbook/assets/book.png" alt="" data-size="line"></a> <strong>Имя, UUID или тип существа для проверки</strong><br><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Режим сравнения</strong> <a data-footnote-ref href="#user-content-fn-21"><strong><code>-></code></strong></a></p> |               |
+| <p><img src="../../../.gitbook/assets/painting.png" alt="" data-size="line"> <strong>Открыт инвентарь типа</strong><br><code>if_player_inventory_type_open</code></p>    | Проверяет, открыт ли инвентарь определённого типа у игрока.                         | [<img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line">](../arguments/enum.md) **Тип инвентаря** [**`->`**](#user-content-fn-22)[^22]                                                                                                                                                                                                                                                       |               |
+| <p><img src="../../../.gitbook/assets/golden_pickaxe.png" alt="" data-size="line"> <strong>Режим игры равен</strong><br><code>if_player_gamemode_equals</code></p>       | Проверяет, равен ли режим игры игрока выбранному.                                   | [<img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line">](../arguments/enum.md) **Режим игры** [**`->`**](#user-content-fn-23)[^23]                                                                                                                                                                                                                                                          |               |
 {% endtab %}
 {% endtabs %}
 
@@ -200,3 +202,40 @@ layout:
 
 [^21]: * Тип существа
     * Имя или UUID
+
+[^22]: * Сундук
+    * Раздатчик
+    * Выбрасыватель
+    * Печь
+    * Верстак
+    * Не открыт
+    * Чародейский стол
+    * Зельеварка
+    * Инвентарь игрока
+    * Инвентарь креатива
+    * Торговец
+    * Эндер-сундук
+    * Наковальня
+    * Стол кузнеца (старый)
+    * Маяк
+    * Воронка
+    * Шалкеровый ящик
+    * Бочка
+    * Плавильная печь
+    * Кафедра
+    * Коптильня
+    * Ткацкий станок
+    * Стол картографа
+    * Точило
+    * Камнерез
+    * Компостер
+    * Резная книжная полка
+    * Нотный блок
+    * Ваза
+    * Сборщик
+    * Стол кузнеца
+
+[^23]: * Выживание
+    * Творческий
+    * Приключение
+    * Наблюдатель
