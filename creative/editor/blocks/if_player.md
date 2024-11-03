@@ -94,6 +94,15 @@ layout:
 
 {% tab title="Прочие условия" %}
 <img src="../../../.gitbook/assets/bedrock.png" alt="" data-size="line"> **Если имя равно, если имеет эффект и т.д.**
+
+***
+
+| Опция                                                                                                                                                                    | Описание                                                                            | Аргументы                                                                                                                                                                                                                                                                                                                                                                                                              | Доп. сведения |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| <p><img src="../../../.gitbook/assets/name_tag.png" alt="" data-size="line"> <strong>Имя равно</strong><br><code>if_player_name_equals</code></p>                        | Проверяет, равно ли имя игрока имени в сундуке.                                     | [<img src="../../../.gitbook/assets/book.png" alt="" data-size="line">](../arguments/text.md) **Имена или UUID для проверки**                                                                                                                                                                                                                                                                                          |               |
+| <p><img src="../../../.gitbook/assets/item_frame.png" alt="" data-size="line"> <strong>Слот в хот-баре равен</strong><br><code>if_player_hotbar_slot_equals</code></p>   | Проверяет, совпадает ли текущий слот хот-бара игрока со слотом от 1 до 9 в сундуке. | [<img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line">](../arguments/number.md) **Номер слота для проверки**                                                                                                                                                                                                                                                                                     |               |
+| <p><img src="../../../.gitbook/assets/brewing_stand.png" alt="" data-size="line"> <strong>Имеет эффект от зелья</strong><br><code>if_player_has_potion_effect</code></p> | Проверяет, имеет ли игрок эффект от зелья.                                          | <p><a href="../arguments/potion.md"><img src="../../../.gitbook/assets/dragon_breath.png" alt="" data-size="line"></a> <strong>Зелья для проверки</strong><br><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Режим проверки</strong> <a data-footnote-ref href="#user-content-fn-20"><strong><code>-></code></strong></a></p>            |               |
+| <p><img src="../../../.gitbook/assets/saddle.png" alt="" data-size="line"> <strong>Оседлал существо</strong><br><code>if_player_is_riding_entity</code></p>              | Проверяет, оседлал ли игрок существо (включая транспорт).                           | <p><a href="../arguments/text.md"><img src="../../../.gitbook/assets/book.png" alt="" data-size="line"></a> <strong>Имя, UUID или тип существа для проверки</strong><br><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Режим сравнения</strong> <a data-footnote-ref href="#user-content-fn-21"><strong><code>-></code></strong></a></p> |               |
 {% endtab %}
 {% endtabs %}
 
@@ -185,3 +194,9 @@ layout:
     * Верхний инвентарь
     * Хот-бар
     * Броня
+
+[^20]: * Любой эффект
+    * Все эффекты
+
+[^21]: * Тип существа
+    * Имя или UUID
