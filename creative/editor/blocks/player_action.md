@@ -82,6 +82,18 @@ layout:
 | <p><img src="../../../.gitbook/assets/painting.png" alt="" data-size="line"> <strong>Показать экран титров</strong><br><code>player_show_win_screen</code></p>                    | Показывает игроку экран титров.                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | » Действие "Закрыть Меню" закрывает титры. |
 | <p><img src="../../../.gitbook/assets/name_tag.png" alt="" data-size="line"> <strong>Показать экран демо-режима</strong><br><code>player_show_demo_screen</code></p>              | Показывает игроку экран демо-режима.                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                            |
 {% endtab %}
+
+{% tab title="Инвентарные меню" %}
+<img src="../../../.gitbook/assets/painting.png" alt="" data-size="line"> **Отображение и изменение предметов в инвентарном меню.**
+
+***
+
+| Опция                                                                                                                                                                       | Описание                                                                                                        | Аргументы                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p><img src="../../../.gitbook/assets/impulse_command_block.gif" alt="" data-size="line"> <strong>Показать меню</strong><br><code>player_show_inventory_menu</code></p>     | Показывает игроку инвентарное меню с выбранными предметами и названием.                                         | <p><a href="../arguments/item.md"><img src="../../../.gitbook/assets/item_frame.png" alt="" data-size="line"></a> <strong>Предметы инвентаря</strong><br><a href="../arguments/text.md"><img src="../../../.gitbook/assets/book.png" alt="" data-size="line"></a> <strong>Название инвентаря</strong><br><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Тип инвентаря</strong> <a data-footnote-ref href="#user-content-fn-13"><strong><code>-></code></strong></a></p> |
+| <p><img src="../../../.gitbook/assets/command_block_minecart.png" alt="" data-size="line"> <strong>Расширить меню</strong><br><code>player_expand_inventory_menu</code></p> | Расширяет открытое инвентарное меню игрока на выбранное количество строк и заполняет его указанными предметами. | <p><a href="../arguments/item.md"><img src="../../../.gitbook/assets/item_frame.png" alt="" data-size="line"></a> <strong>Предметы для заполнения</strong><br><a href="../arguments/number.md"><img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line"></a> <strong>Количество строк для расширения</strong></p>                                                                                                                                                                                                                   |
+| <p><img src="../../../.gitbook/assets/hopper.png" alt="" data-size="line"> <strong>Установить предмет в слот</strong><br><code>player_set_inventory_menu_item</code></p>    | Устанавливает предмет в указанный слот открытого инвентарного меню игрока.                                      | <p><a href="../arguments/item.md"><img src="../../../.gitbook/assets/item_frame.png" alt="" data-size="line"></a> <strong>Предмет для установки</strong><br><a href="../arguments/number.md"><img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line"></a> <strong>Слот для установки</strong></p>                                                                                                                                                                                                                                  |
+{% endtab %}
 {% endtabs %}
 
 ### Селекторы
@@ -163,3 +175,21 @@ layout:
 [^12]: * Добавить
     * Установить
     * Удалить
+
+[^13]: * Сундук
+    * Раздатчик
+    * Выбрасыватель
+    * Печь
+    * Верстак
+    * Чародейский стол
+    * Зельеварка
+    * Наковальня
+    * Стол кузнеца
+    * Маяк
+    * Воронка
+    * Плавильная печь
+    * Коптильня
+    * Стол картографа
+    * Точило
+    * Камнерез
+    * Сборщик
