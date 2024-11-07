@@ -115,6 +115,8 @@ layout:
 | <p><img src="../../../.gitbook/assets/cooked_chicken.png" alt="" data-size="line"> <strong>Установить голод</strong><br><code>player_set_food</code></p>                              | Устанавливает уровень голода игроку.                               | <p><a href="../arguments/number.md"><img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line"></a> <strong>Уровень голода</strong><br><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Режим установки</strong> <a data-footnote-ref href="#user-content-fn-18"><strong><code>-></code></strong></a></p>                   |
 | <p><img src="../../../.gitbook/assets/cooked_beef.png" alt="" data-size="line"> <strong>Установить насыщенность</strong><br><code>player_set_saturation</code></p>                    | Устанавливает второстепенный уровень голода (насыщенность) игроку. | <p><a href="../arguments/number.md"><img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line"></a> <strong>Уровень насыщенности</strong><br><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Режим установки</strong> <a data-footnote-ref href="#user-content-fn-19"><strong><code>-></code></strong></a></p>             |
 | <p><img src="../../../.gitbook/assets/rotten_flesh.png" alt="" data-size="line"> <strong>Установить уровень истощения</strong><br><code>player_set_exhaustion</code></p>              | Устанавливает уровень истощения игроку.                            | <p><a href="../arguments/number.md"><img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line"></a> <strong>Уровень истощения</strong><br><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Режим установки</strong> <a data-footnote-ref href="#user-content-fn-20"><strong><code>-></code></strong></a></p>                |
+| <p><img src="../../../.gitbook/assets/potion_of_leaping.png" alt="" data-size="line"> <strong>Прибавить уровень</strong><br><code>player_give_experience</code></p>                   | Прибавляет уровень игроку.                                         | <p><a href="../arguments/number.md"><img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line"></a> <strong>Количество для прибавки</strong><br><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Тип прибавления</strong> <a data-footnote-ref href="#user-content-fn-21"><strong><code>-></code></strong></a></p>          |
+| <p><img src="../../../.gitbook/assets/experience_bottle.gif" alt="" data-size="line"> <strong>Установить уровень</strong><br><code>player_set_experience</code></p>                   | Устанавливает уровень игроку.                                      | <p><a href="../arguments/number.md"><img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line"></a> <strong>Количество для установки</strong><br><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Тип установки</strong> <a data-footnote-ref href="#user-content-fn-22"><strong><code>-></code></strong></a></p>           |
 {% endtab %}
 {% endtabs %}
 
@@ -235,3 +237,11 @@ layout:
 
 [^20]: * Установка
     * Прибавление
+
+[^21]: * Как очки опыта
+    * Как уровень
+    * Как процент от уровня
+
+[^22]: * Как очки опыта
+    * Как уровень
+    * Как процент от уровня
