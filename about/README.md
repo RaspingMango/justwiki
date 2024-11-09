@@ -7,7 +7,7 @@
 ## Официальные ресурсы
 
 * [Официальный сайт](https://justmc.io)
-* [Discord](https://discord.justmc.ru)
+* [Discord](https://discord.justmc.io)
 * [Telegram](https://t.me/justmc\_news)
 * [YouTube](https://www.youtube.com/@justmc-server)
 * [GitLab](https://gitlab.com/justmc/justmc)
