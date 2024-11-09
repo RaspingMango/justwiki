@@ -128,6 +128,8 @@ layout:
 | <p><img src="../../../.gitbook/assets/powder_snow_bucket.png" alt="" data-size="line"> <strong>Установить время заморозки</strong><br><code>player_set_freeze_ticks</code></p>                                 | Устанавливает игроку время заморозки (количество тиков, которое игрок провёл в рыхлом снегу). | <p><a href="../arguments/number.md"><img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line"></a> <strong>Время заморозки в тиках</strong><br><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Блокировка состояния (время не будет изменяться)</strong> <a data-footnote-ref href="#user-content-fn-26"><strong><code>-></code></strong></a></p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | <p><img src="../../../.gitbook/assets/water_bottle.png" alt="" data-size="line"> <strong>Установить оставшийся воздух</strong><br><code>player_set_air_ticks</code></p>                                        | Устанавливает оставшийся воздух игроку.                                                       | [<img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line">](../arguments/number.md) **Количество оставшегося воздуха (в тиках)**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | <p><img src="../../../.gitbook/assets/hay_block.png" alt="" data-size="line"> <strong>Установить дистанцию падения</strong><br><code>player_set_fall_distance</code></p>                                       | Устанавливает дистанцию, с которой падает игрок.                                              | [<img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line">](../arguments/number.md) **Дистанция падения**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| <p><img src="../../../.gitbook/assets/netherite_boots.png" alt="" data-size="line"> <strong>Установить скорость движения</strong><br><code>player_set_movement_speed</code></p>                                | Устанавливает скорость движения игрока.                                                       | <p><a href="../arguments/number.md"><img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line"></a> <strong>Скорость движения</strong><br><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Тип движения</strong> <a data-footnote-ref href="#user-content-fn-27"><strong><code>-></code></strong></a></p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| <p><img src="../../../.gitbook/assets/nether_star.gif" alt="" data-size="line"> <strong>Установить атрибут</strong><br><code>player_set_attribute</code></p>                                                   | Устанавливает игроку указанное значение атрибута.                                             | <p><a href="../arguments/number.md"><img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line"></a> <strong>Значение атрибута</strong><br><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Тип атрибута</strong> <a data-footnote-ref href="#user-content-fn-28"><strong><code>-></code></strong></a></p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 {% endtab %}
 {% endtabs %}
 
@@ -269,3 +271,38 @@ layout:
 
 [^26]: * Включить
     * Выключить
+
+[^27]: * Ходьба
+    * Полёт
+
+[^28]: * Максимальное здоровье
+    * Максимальное поглощение
+    * Расстояние следования
+    * Сопротивление отталкиванию
+    * Скорость передвижения
+    * Скорость полёта
+    * Урон атаки
+    * Отталкивание атаки
+    * Скорость атаки
+    * Очки защиты
+    * Очки плотности защиты
+    * Удача рыбалки
+    * Сила прыжка
+    * Шанс подкрепления зомби
+    * Множитель урона от падения
+    * Безопасная высота падения
+    * Масштаб
+    * Высота шага
+    * Гравитация
+    * Расстояние взаимодействия с блоками
+    * Расстояние взаимодействия с сущностями
+    * Скорость ломания блока
+    * Время горения
+    * Сопротивление отбрасыванию от взрыва
+    * Скорость передвижения по замедляющим блокам
+    * Воздух под водой
+    * Скорость передвижения под водой
+    * Скорость копания
+    * Скорость передвижения крадясь
+    * Скорость копания под водой
+    * Коэффициент разящего удара
