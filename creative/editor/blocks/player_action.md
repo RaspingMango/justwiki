@@ -131,6 +131,18 @@ layout:
 | <p><img src="../../../.gitbook/assets/netherite_boots.png" alt="" data-size="line"> <strong>Установить скорость движения</strong><br><code>player_set_movement_speed</code></p>                                | Устанавливает скорость движения игрока.                                                       | <p><a href="../arguments/number.md"><img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line"></a> <strong>Скорость движения</strong><br><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Тип движения</strong> <a data-footnote-ref href="#user-content-fn-27"><strong><code>-></code></strong></a></p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | <p><img src="../../../.gitbook/assets/nether_star.gif" alt="" data-size="line"> <strong>Установить атрибут</strong><br><code>player_set_attribute</code></p>                                                   | Устанавливает игроку указанное значение атрибута.                                             | <p><a href="../arguments/number.md"><img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line"></a> <strong>Значение атрибута</strong><br><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Тип атрибута</strong> <a data-footnote-ref href="#user-content-fn-28"><strong><code>-></code></strong></a></p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 {% endtab %}
+
+{% tab title="Настройки" %}
+<img src="../../../.gitbook/assets/anvil.png" alt="" data-size="line"> **Базовые настройки игрока, такие как режим игры, полёт и другое.**
+
+***
+
+| Опция                                                                                                                                                                           | Описание                                                                     | Аргументы                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p><img src="../../../.gitbook/assets/golden_pickaxe.png" alt="" data-size="line"> <strong>Установить режим игры</strong><br><code>player_set_gamemode</code></p>               | Устанавливает режим игры для игрока.                                         | <p><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Режим игры</strong> <a data-footnote-ref href="#user-content-fn-29"><strong><code>-></code></strong></a><br><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Режим полёта</strong> <a data-footnote-ref href="#user-content-fn-30"><strong><code>-></code></strong></a></p> |
+| <p><img src="../../../.gitbook/assets/feather.png" alt="" data-size="line"> <strong>Установить разрешение полёта игрока</strong><br><code>player_set_allow_flying</code></p>    | Устанавливает разрешение полёта для игрока.                                  | [<img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line">](../arguments/enum.md) **Может летать** [**`->`**](#user-content-fn-31)[^31]                                                                                                                                                                                                                                                                                                                         |
+| <p><img src="../../../.gitbook/assets/netherite_sword.png" alt="" data-size="line"> <strong>Установить разрешение атаковать игроков</strong><br><code>player_set_pvp</code></p> | Устанавливает разрешение игроку атаковать других игроков и наносить им урон. | **Может атаковать** [**`->`**](#user-content-fn-32)[^32]                                                                                                                                                                                                                                                                                                                                                                                                                                |
+{% endtab %}
 {% endtabs %}
 
 ### Селекторы
@@ -306,3 +318,17 @@ layout:
     * Скорость передвижения крадясь
     * Скорость копания под водой
     * Коэффициент разящего удара
+
+[^29]: * Выживание
+    * Творческий
+    * Приключение
+    * Наблюдатель
+
+[^30]: * Учитывать режим игры
+    * Оставить изначальный
+
+[^31]: * Да
+    * Нет
+
+[^32]: * Да
+    * Нет
