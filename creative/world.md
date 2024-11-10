@@ -210,11 +210,11 @@
 
 [^1]: Creative+
 
-[^2]: ![](../.gitbook/assets/my\_worlds\_menu.png)
+[^2]: ![](../.gitbook/assets/my\_worlds\_menu.png)Количество доступных для создания миров зависит от [ранга](https://justmc.io/shop).
 
 [^3]: ![](../.gitbook/assets/world\_settings\_menu.png)
 
-[^4]: ![](../.gitbook/assets/my\_worlds\_menu.png)
+[^4]: ![](../.gitbook/assets/my\_worlds\_menu.png)Количество доступных для создания миров зависит от [ранга](https://justmc.io/shop).
 
 [^5]: ![](../.gitbook/assets/world\_settings\_menu.png)
 
