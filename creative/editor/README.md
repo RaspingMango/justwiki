@@ -138,7 +138,7 @@
 * [<img src="../../.gitbook/assets/magma_cream.png" alt="" data-size="line"> **Переменная**](arguments/variable/) — предмет, который может хранить в себе все типы значений. Задать значение можно при помощи действия "установить переменную".
 * [<img src="../../.gitbook/assets/name_tag.png" alt="" data-size="line"> **Игровое значение**](arguments/game\_value.md) — автоматически определённое значение, которое зависит от текущего состояния игры (например, местоположение игрока).
 
-Помимо значений существуют ещё такие аргументы, как [<img src="../../.gitbook/assets/item_frame.png" alt="" data-size="line"> **Предмет**](arguments/item.md) и [<img src="../../.gitbook/assets/chiseled_stone_bricks.png" alt="" data-size="line"> **Блок**](arguments/block.md).\
+Помимо значений, существуют ещё такие аргументы, как [<img src="../../.gitbook/assets/item_frame.png" alt="" data-size="line"> **Предмет**](arguments/item.md) и [<img src="../../.gitbook/assets/chiseled_stone_bricks.png" alt="" data-size="line"> **Блок**](arguments/block.md).\
 Они отличаются от значений тем, что их можно достать из инвентаря Творческого режима.
 
 ### Плейсхолдеры
