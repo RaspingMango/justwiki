@@ -22,10 +22,10 @@
 
 <summary>Изменение времени</summary>
 
-* **Утро** (6:00 или 0 тиков)
-* **День** (12:00 или 6000 тиков)
-* **Вечер** (18:00 или 13000 тиков)
-* **Ночь** (0:00 или 18000 тиков)
+* <img src="../.gitbook/assets/light_blue_terracotta.png" alt="" data-size="line"> **Утро** (6:00 или 0 тиков)
+* <img src="../.gitbook/assets/yellow_terracotta.png" alt="" data-size="line"> **День** (12:00 или 6000 тиков)
+* <img src="../.gitbook/assets/orange_terracotta.png" alt="" data-size="line"> **Вечер** (18:00 или 13000 тиков)
+* <img src="../.gitbook/assets/blue_terracotta.png" alt="" data-size="line"> **Ночь** (0:00 или 18000 тиков)
 
 </details>
 
@@ -33,11 +33,11 @@
 
 <summary>Управление медиа</summary>
 
-* **Выбрать отображаемый предмет**
-* **Выбрать категории**
-* **Реклама мира**
-* **Опубликовать мир**
-* **Удалить мир из публичного доступа**
+* <img src="../.gitbook/assets/item_frame.png" alt="" data-size="line"> **Выбрать отображаемый предмет**
+* <img src="../.gitbook/assets/totem_of_undying.png" alt="" data-size="line"> **Выбрать категории**
+* <img src="../.gitbook/assets/name_tag.png" alt="" data-size="line"> **Реклама мира**
+* <img src="../.gitbook/assets/writable_book.png" alt="" data-size="line"> **Опубликовать мир**
+* <img src="../.gitbook/assets/barrier.png" alt="" data-size="line"> **Удалить мир из публичного доступа**
 
 </details>
 
