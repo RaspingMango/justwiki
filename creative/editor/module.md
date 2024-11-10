@@ -78,7 +78,7 @@ description: Позволяет сохранить выбранные строк
 
 [^1]: ![](../../.gitbook/assets/modules\_menu.png)
 
-[^2]: ![](../../.gitbook/assets/my\_modules\_menu.png)Количество доступных модулей зависит от [ранга](https://justmc.io/shop).
+[^2]: ![](../../.gitbook/assets/my\_modules\_menu.png)Количество доступных для создания модулей зависит от [ранга](https://justmc.io/shop).
 
 [^3]: ![](../../.gitbook/assets/modules\_menu.png)
 

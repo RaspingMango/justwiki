@@ -244,4 +244,4 @@
 
 [^18]: ![](../.gitbook/assets/favorite\_worlds\_menu.png)
 
-[^19]: ![](../.gitbook/assets/my\_worlds\_menu.png)
+[^19]: ![](../.gitbook/assets/my\_worlds\_menu.png)Количество доступных для создания миров зависит от [ранга](https://justmc.io/shop).
