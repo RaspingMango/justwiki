@@ -194,7 +194,7 @@
 
 #### Меню имеет следующие разделы:
 
-* <img src="../.gitbook/assets/empty_map.png" alt="" data-size="line"> **Миры онлайн** — миры, в которые сейчас играют игроки.
+* <img src="../.gitbook/assets/empty_map.png" alt="" data-size="line"> [**Миры онлайн**](#user-content-fn-14)[^14] — миры, в которые сейчас играют игроки.
 * <img src="../.gitbook/assets/paper.png" alt="" data-size="line"> **Недавние миры** — список миров, куда вы недавно заходили.
 * <img src="../.gitbook/assets/gold_block.png" alt="" data-size="line"> **Избранные миры** — список миров, избранных пользователем.
 * <img src="../.gitbook/assets/chest.png" alt="" data-size="line"> **Мои миры** — список ваших миров.
@@ -233,3 +233,5 @@
 [^12]: ![](../.gitbook/assets/worlds\_menu.png)![](../.gitbook/assets/all\_worlds\_menu.png)
 
 [^13]: Creative+
+
+[^14]: ![](../.gitbook/assets/online\_worlds\_menu.png)
