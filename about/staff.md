@@ -23,6 +23,8 @@ description: Состав персонала сервера на текущий 
 
 ## Разработчики
 
+### Creative+
+
 * [<img src="../.gitbook/assets/CororoDev.png" alt="" data-size="line">](https://ru.namemc.com/profile/CororoDev) **CororoDev** ([Discord](https://discordapp.com/users/373389455899492354))
 * [<img src="../.gitbook/assets/White_Wolf__.png" alt="" data-size="line">](https://ru.namemc.com/profile/White\_Wolf\_\_) **White\_Wolf\_\_** ([Discord](https://discordapp.com/users/778041773809205258))
 
