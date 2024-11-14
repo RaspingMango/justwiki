@@ -53,7 +53,3 @@
       * [Словарь](creative/editor/arguments/variable/dictionary.md)
     * [Игровое значение](creative/editor/arguments/game\_value.md)
 * [Редактор предметов](creative/item-editor.md)
-
-***
-
-* [RunLLM System Prompt](runllm-system-prompt.md)
