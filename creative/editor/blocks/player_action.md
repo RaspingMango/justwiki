@@ -246,6 +246,7 @@ layout:
 | <p><img src="../../../.gitbook/assets/player_head.png" alt="" data-size="line"> <strong>Убрать свою маскировку</strong><br><code>player_remove_self_disguise</code></p>                           | Убирает маскировку игрока, которую видно только ему.                        |                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | <p><img src="../../../.gitbook/assets/player_set_skin.png" alt="" data-size="line"> <strong>Установить скин</strong><br><code>player_set_skin</code></p>                                          | Устанавливает скин указанного игрока для цели события.                      | <p><a href="../arguments/text.md"><img src="../../../.gitbook/assets/book.png" alt="" data-size="line"></a> <strong>Имя или UUID скина</strong><br><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Тип сервера скинов</strong> <a data-footnote-ref href="#user-content-fn-67"><strong><code>-></code></strong></a></p>                      |
 | <p><img src="../../../.gitbook/assets/barrier.png" alt="" data-size="line"> <strong>Убрать скин</strong><br><code>player_remove_skin</code></p>                                                   | Возвращает обычный скин цели события.                                       |                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| <p><img src="../../../.gitbook/assets/clock.png" alt="" data-size="line"> <strong>Проиграть анимацию игроку</strong><br><code>player_play_animation_action</code></p>                             | Проигрывает для игрока определённую анимацию.                               | [<img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line">](../arguments/enum.md) **Тип анимации** [**`->`**](#user-content-fn-68)[^68]                                                                                                                                                                                                                                                           |
 {% endtab %}
 {% endtabs %}
 
@@ -559,3 +560,8 @@ layout:
 
 [^67]: * Скин Mojang
     * Скин JustMC
+
+[^68]: * Получение урона
+    * Поъём с кровати
+    * Тотем
+    * Древний страж
