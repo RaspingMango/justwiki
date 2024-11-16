@@ -9,6 +9,7 @@
 * [Официальный сайт](https://justmc.io)
 * [Discord](https://discord.justmc.io)
 * [Telegram](https://t.me/justmc\_news)
+* [VK](https://vk.com/justmc\_community)
 * [YouTube](https://www.youtube.com/@justmc-server)
 * [GitLab](https://gitlab.com/justmc/justmc)
 * [GitHub](https://github.com/justmc-os)
