@@ -61,6 +61,7 @@ layout:
 | <p><img src="../../../.gitbook/assets/horse_spawn_egg.png" alt="" data-size="line"> <strong>Установить лошади силу прыжка</strong><br><code>entity_set_horse_jump</code></p>                                   | <p>Устанавливает лошади силу прыжка.<br><br>Работает с:<br>» Лошадьми<br>» Ослами<br>» Мулами<br>» Ламами</p>      | [<img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line">](../arguments/number.md) **Сила прыжка**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | <p><img src="../../../.gitbook/assets/slime_block.png" alt="" data-size="line"> <strong>Установить задержку для поднятия</strong><br><code>entity_set_pickup_delay</code></p>                                  | <p>Устанавливает количество тиков, за которое предмет не может быть поднят.<br><br>Работает с:<br>» Предметами</p> | [<img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line">](../arguments/number.md) **Задержка**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | <p><img src="../../../.gitbook/assets/pufferfish_bucket.png" alt="" data-size="line"> <strong>Установить задержку рыбалки</strong><br><code>entity_set_fishing_wait</code></p>                                 | <p>Устанавливает задержку рыбалки существу в тиках.<br><br>Работает с:<br>» Поплавком удочки</p>                   | [<img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line">](../arguments/number.md) **Задержка**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| <p><img src="../../../.gitbook/assets/nether_star.gif" alt="" data-size="line"> <strong>Установить атрибут</strong><br><code>entity_set_attribute</code></p>                                                   | Устанавливает указанный атрибут на указанное значение существу.                                                    | <p><a href="../arguments/number.md"><img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line"></a> <strong>Значение атрибута</strong><br><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Тип атрибута</strong> <a data-footnote-ref href="#user-content-fn-7"><strong><code>-></code></strong></a></p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 {% endtab %}
 {% endtabs %}
 
@@ -101,3 +102,35 @@ layout:
 [^6]: * Включено
     * Выключено
     * Не замедлять
+
+[^7]: * Максимальное здоровье
+    * Максимальное поглощение
+    * Расстояние следования
+    * Сопротивление отталкиванию
+    * Скорость передвижения
+    * Скорость полёта
+    * Урон атаки
+    * Отталкивание атаки
+    * Скорость атаки
+    * Очки защиты
+    * Очки плотности защиты
+    * Удача рыбалки
+    * Сила прыжка
+    * Шанс подкрепления зомби
+    * Множитель урона от падения
+    * Безопасная высота падения
+    * Масштаб
+    * Высота шага
+    * Гравитация
+    * Расстояние взаимодействия с блоками
+    * Расстояние взаимодействия с сущностями
+    * Скорость ломания блока
+    * Время горения
+    * Сопротивление отбрасыванию от взрыва
+    * Скорость передвижения по замедляющим блокам
+    * Воздух под водой
+    * Скорость передвижения под водой
+    * Скорость копания
+    * Скорость передвижения крадясь
+    * Скорость копания под водой
+    * Коэффициент разящего удара
