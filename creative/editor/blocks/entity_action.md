@@ -85,6 +85,8 @@ layout:
 | <p><img src="../../../.gitbook/assets/tropical_fish.png" alt="" data-size="line"> <strong>Установить узор рыбы</strong><br><code>entity_set_tropical_fish_pattern</code></p>                   | <p>Устанавливает окрас и узор тропической рыбе.<br><br>Работает с:<br>» Тропической рыбой</p>                                              | <p><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Цвет узора</strong> <a data-footnote-ref href="#user-content-fn-11"><strong><code>-></code></strong></a><br><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Цвет тела</strong> <a data-footnote-ref href="#user-content-fn-12"><strong><code>-></code></strong></a><br><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Узор</strong> <a data-footnote-ref href="#user-content-fn-13"><strong><code>-></code></strong></a></p>        |
 | <p><img src="../../../.gitbook/assets/armor_stand.png" alt="" data-size="line"> <strong>Установить позу стойки для брони</strong><br><code>entity_set_armor_stand_pose</code></p>              | <p>Устанавливает позу стойки для брони.<br><br>Работает с:<br>» Стойками для брони</p>                                                     | <p><a href="../arguments/number.md"><img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line"></a> <strong>Поворот по оси X</strong><br><a href="../arguments/number.md"><img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line"></a> <strong>Поворот по оси Y</strong><br><a href="../arguments/number.md"><img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line"></a> <strong>Поворот по оси Z</strong><br><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Часть стойки для изменения</strong> <a data-footnote-ref href="#user-content-fn-14"><strong><code>-></code></strong></a></p> |
 | <p><img src="../../../.gitbook/assets/smooth_stone_slab.png" alt="" data-size="line"> <strong>Установить детали стойки для брони</strong><br><code>entity_set_armor_stand_parts</code></p>     | <p>Установить детали стойки для брони.<br><br>Работает с:<br>» Стойками для брони</p>                                                      | <p><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Видимость рук</strong> <a data-footnote-ref href="#user-content-fn-15"><strong><code>-></code></strong></a><br><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Видимость плиты</strong> <a data-footnote-ref href="#user-content-fn-16"><strong><code>-></code></strong></a></p>                                                                                                                                                                                                                                  |
+| <p><img src="../../../.gitbook/assets/rabbit_hide.png" alt="" data-size="line"> <strong>Установить тип кролика</strong><br><code>entity_set_rabbit_type</code></p>                             | <p>Устанавливает тип кролика.<br><br>Работает с:<br>» Кроликами</p>                                                                        | [<img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line">](../arguments/enum.md) **Тип кролика** [**`->`**](#user-content-fn-17)[^17]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| <p><img src="../../../.gitbook/assets/cat_spawn_egg.png" alt="" data-size="line"> <strong>Установить тип кота</strong><br><code>entity_set_cat_type</code></p>                                 | <p>Устанавливает тип кота.<br><br>Работает с:<br>» Котами</p>                                                                              | [<img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line">](../arguments/enum.md) **Тип кота** [**`->`**](#user-content-fn-18)[^18]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 {% endtab %}
 {% endtabs %}
 
@@ -258,3 +260,23 @@ layout:
 [^16]: * Включить
     * Выключить
     * Не изменять
+
+[^17]: * Коричневый
+    * Белый
+    * Чёрный
+    * Чёрно-белый
+    * Золотой
+    * Бело-коричневый
+    * Кролик-убийца
+
+[^18]: * Полосатый
+    * Чёрно-белый
+    * Рыжий
+    * Сиамский
+    * Британский короткошёрстый
+    * Ситцевый
+    * Персидский
+    * Тряпичный
+    * Белый
+    * Бело-серый
+    * Чёрный
