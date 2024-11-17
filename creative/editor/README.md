@@ -81,7 +81,7 @@
 
 * [<img src="../../.gitbook/assets/coal_block.png" alt="" data-size="line"> **Контроль действий**](blocks/control.md) — используется для дальнейшего контроля кода, стоящего после этого блока.
 
-<figure><img src="../../.gitbook/assets/preview_control.png" alt=""><figcaption><p>Раз в некоторое время игроку будет отправляться определённое сообщение в экшн-бар.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/preview_control.png" alt="Событие игрока (Игрок зашёл в мир) → Повторение (Повторять вечно) [Действие над игроком (Отправить экшн-бар) → Контроль действий (Ждать)]"><figcaption><p>Раз в некоторое время игроку будет отправляться определённое сообщение в экшн-бар.</p></figcaption></figure>
 
 * [<img src="../../.gitbook/assets/dark_prismarine.png" alt="" data-size="line"> **Контроллер**](blocks/controller.md) — контролирует выполнение кода внутри поршней, может проверять наличие ошибки или затрату по времени на выполнение кода.
 
