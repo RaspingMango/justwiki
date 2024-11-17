@@ -15,6 +15,8 @@ layout:
 
 # Действие над сущностью
 
+<figure><img src="../../../.gitbook/assets/mossy_cobblestone.png" alt="" width="150"><figcaption><p>Блок кода</p></figcaption></figure>
+
 **Тип:** Действие\
 **Текстовый идентификатор:** `entity_action`
 
@@ -91,6 +93,7 @@ layout:
 | <p><img src="../../../.gitbook/assets/red_bed.png" alt="" data-size="line"> <strong>Установить режим лежания коту</strong><br><code>entity_set_cat_lying_down</code></p>                       | <p>Устанавливает режим лежания коту.<br><br>Работает с:<br>» Котами</p>                                                                    | [<img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line">](../arguments/enum.md) **Режим лежания** [**`->`**](#user-content-fn-20)[^20]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | <p><img src="../../../.gitbook/assets/brown_mushroom_block.png" alt="" data-size="line"> <strong>Установить тип грибной коровы</strong><br><code>entity_set_mushroom_cow_type</code></p>       | <p>Устанавливает тип грибной коровы.<br><br>Работает с:<br>» Грибными коровами</p>                                                         | [<img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line">](../arguments/enum.md) **Тип грибной коровы** [**`->`**](#user-content-fn-21)[^21]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | <p><img src="../../../.gitbook/assets/parrot_spawn_egg.png" alt="" data-size="line"> <strong>Установить тип попугая</strong><br><code>entity_set_parrot_type</code></p>                        | <p>Устанавливает тип попугая.<br><br>Работает с:<br>» Попугаями</p>                                                                        | [<img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line">](../arguments/enum.md) **Тип попугая** [**`->`**](#user-content-fn-22)[^22]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| <p><img src="../../../.gitbook/assets/diamond_horse_armor.png" alt="" data-size="line"> <strong>Установить узор лошади</strong><br><code>entity_set_horse_pattern</code></p>                   | <p>Устанавливает окрас и узор лошади.<br><br>Работает с:<br>» Лошадьми</p>                                                                 | <p><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Цвет лошади</strong> <a data-footnote-ref href="#user-content-fn-23"><strong><code>-></code></strong></a><br><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Узор лошади</strong> <a data-footnote-ref href="#user-content-fn-24"><strong><code>-></code></strong></a></p>                                                                                                                                                                                                                                        |
 {% endtab %}
 {% endtabs %}
 
@@ -305,3 +308,18 @@ layout:
     * Зелёный
     * Бирюзовый
     * Серый
+
+[^23]: * Белый
+    * Бежевый
+    * Рыжий
+    * Коричневый
+    * Тёмно-коричневый
+    * Серый
+    * Чёрный
+    * Не изменять
+
+[^24]: * Без узора
+    * Белые полосы на ногах и голове
+    * Крупные белые пятна
+    * Тёмные пятна на спине
+    * Не изменять
