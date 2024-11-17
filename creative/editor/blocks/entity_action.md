@@ -83,6 +83,7 @@ layout:
 | <p><img src="../../../.gitbook/assets/entity_disguise_as_item.png" alt="" data-size="line"> <strong>Замаскировать сущность под предмет</strong><br><code>entity_disguise_as_item</code></p>    | Маскирует сущность под предмет.                                                                                                            | [<img src="../../../.gitbook/assets/item_frame.png" alt="" data-size="line">](../arguments/item.md) **Предмет для маскировки**                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | <p><img src="../../../.gitbook/assets/entity_remove_disguise.png" alt="" data-size="line"> <strong>Убрать маскировку</strong><br><code>entity_remove_disguise</code></p>                       | Убирает маскировку у сущности.                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | <p><img src="../../../.gitbook/assets/entity_set_dye_color.png" alt="" data-size="line"> <strong>Установить цвет сущности</strong><br><code>entity_set_dye_color</code></p>                    | <p>Устанавливает определённый цвет существу.<br><br>Работает с:<br>» Овцами<br>» Шалкерами<br>» Ошейниками собак<br>» Ошейниками котов</p> | [<img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line">](../arguments/enum.md) **Цвет сущности** [**`->`**](#user-content-fn-9)[^9]                                                                                                                                                                                                                                                                                                                                                                                       |
+| <p><img src="../../../.gitbook/assets/black_bed.png" alt="" data-size="line"> <strong>Установить позу сущности</strong><br><code>entity_set_pose</code></p>                                    | Устанавливает определённую позу существу.                                                                                                  | [<img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line">](../arguments/enum.md) **Отображаемая поза** [**`->`**](#user-content-fn-10)[^10]                                                                                                                                                                                                                                                                                                                                                                                 |
 {% endtab %}
 {% endtabs %}
 
@@ -175,3 +176,19 @@ layout:
     * Зелёный
     * Красный
     * Чёрный
+
+[^10]: * Обычное состояние
+    * Полёт на Элитрах
+    * Лежание
+    * Плавание
+    * Использование Тягуна
+    * Приседание
+    * Длинный прыжок
+    * Смерть
+    * Кваканье (для Жаб)
+    * Использование языка (для Жаб)
+    * Сидение
+    * Рёв (для Хранителя)
+    * Нюханье (для Хранителя)
+    * Появление из земли (для Хранителя)
+    * Зарывание в землю (для Хранителя)
