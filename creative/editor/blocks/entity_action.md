@@ -139,6 +139,19 @@ layout:
 | <p><img src="../../../.gitbook/assets/lead.png" alt="" data-size="line"> <strong>Привязать на поводок</strong><br><code>entity_attach_lead</code></p>                                 | Привязывает существо на поводок к забору или существу.                            | <p><a href="../arguments/text.md"><img src="../../../.gitbook/assets/book.png" alt="" data-size="line"></a> <strong>Имя существа или UUID</strong><br><a href="../arguments/location.md"><img src="../../../.gitbook/assets/paper.png" alt="" data-size="line"></a> <strong>Местоположение забора</strong></p>                                                                                                                                                                                                                                                                                                                                                |
 | <p><img src="../../../.gitbook/assets/ice.png" alt="" data-size="line"> <strong>Установить трение</strong><br><code>entity_set_friction</code></p>                                    | Устанавливает, будет ли сущность испытывать трение.                               | [<img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line">](../arguments/enum.md) **Испытывать трение** [**`->`**](#user-content-fn-47)[^47]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 {% endtab %}
+
+{% tab title="Настройки" %}
+<img src="../../../.gitbook/assets/anvil.png" alt="" data-size="line"> **Базовые настройки сущности, такие как установки имени, неуязвимости и другое.**
+
+***
+
+| Опция                                                                                                                                                                             | Описание                                | Аргументы                                                                                                                                                          |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <p><img src="../../../.gitbook/assets/name_tag.png" alt="" data-size="line"> <strong>Установить имя</strong><br><code>entity_set_custom_name</code></p>                           | Устанавливает имя существа.             | [<img src="../../../.gitbook/assets/book.png" alt="" data-size="line">](../arguments/text.md) **Имя существа**                                                     |
+| <p><img src="../../../.gitbook/assets/rabbit_foot.png" alt="" data-size="line"> <strong>Установить видимость имени</strong><br><code>entity_set_custom_name_visibility</code></p> | Устанавливает видимость имени существа. | [<img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line">](../arguments/enum.md) **Видимость имени** [**`->`**](#user-content-fn-48)[^48] |
+| <p><img src="../../../.gitbook/assets/fermented_spider_eye.png" alt="" data-size="line"> <strong>Установить интеллект сущности</strong><br><code>entity_set_ai</code></p>         | Устанавливает интеллект сущности.       | [<img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line">](../arguments/enum.md) **Интеллект** [**`->`**](#user-content-fn-49)[^49]       |
+| <p><img src="../../../.gitbook/assets/music_disc_11.png" alt="" data-size="line"> <strong>Заглушить сущность</strong><br><code>entity_set_silenced</code></p>                     | Убирает звуки сущности.                 | [<img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line">](../arguments/enum.md) **Заглушение** [**`->`**](#user-content-fn-50)[^50]      |
+{% endtab %}
 {% endtabs %}
 
 ### Селекторы
@@ -449,3 +462,12 @@ layout:
 [^47]: * По умолчанию
     * Нет
     * Да
+
+[^48]: * Включить
+    * Выключить
+
+[^49]: * Включить
+    * Выключить
+
+[^50]: * Включить
+    * Выключить
