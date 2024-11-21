@@ -145,12 +145,16 @@ layout:
 
 ***
 
-| Опция                                                                                                                                                                             | Описание                                | Аргументы                                                                                                                                                          |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <p><img src="../../../.gitbook/assets/name_tag.png" alt="" data-size="line"> <strong>Установить имя</strong><br><code>entity_set_custom_name</code></p>                           | Устанавливает имя существа.             | [<img src="../../../.gitbook/assets/book.png" alt="" data-size="line">](../arguments/text.md) **Имя существа**                                                     |
-| <p><img src="../../../.gitbook/assets/rabbit_foot.png" alt="" data-size="line"> <strong>Установить видимость имени</strong><br><code>entity_set_custom_name_visibility</code></p> | Устанавливает видимость имени существа. | [<img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line">](../arguments/enum.md) **Видимость имени** [**`->`**](#user-content-fn-48)[^48] |
-| <p><img src="../../../.gitbook/assets/fermented_spider_eye.png" alt="" data-size="line"> <strong>Установить интеллект сущности</strong><br><code>entity_set_ai</code></p>         | Устанавливает интеллект сущности.       | [<img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line">](../arguments/enum.md) **Интеллект** [**`->`**](#user-content-fn-49)[^49]       |
-| <p><img src="../../../.gitbook/assets/music_disc_11.png" alt="" data-size="line"> <strong>Заглушить сущность</strong><br><code>entity_set_silenced</code></p>                     | Убирает звуки сущности.                 | [<img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line">](../arguments/enum.md) **Заглушение** [**`->`**](#user-content-fn-50)[^50]      |
+| Опция                                                                                                                                                                             | Описание                                                                      | Аргументы                                                                                                                                                              |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p><img src="../../../.gitbook/assets/name_tag.png" alt="" data-size="line"> <strong>Установить имя</strong><br><code>entity_set_custom_name</code></p>                           | Устанавливает имя существа.                                                   | [<img src="../../../.gitbook/assets/book.png" alt="" data-size="line">](../arguments/text.md) **Имя существа**                                                         |
+| <p><img src="../../../.gitbook/assets/rabbit_foot.png" alt="" data-size="line"> <strong>Установить видимость имени</strong><br><code>entity_set_custom_name_visibility</code></p> | Устанавливает видимость имени существа.                                       | [<img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line">](../arguments/enum.md) **Видимость имени** [**`->`**](#user-content-fn-48)[^48]     |
+| <p><img src="../../../.gitbook/assets/fermented_spider_eye.png" alt="" data-size="line"> <strong>Установить интеллект сущности</strong><br><code>entity_set_ai</code></p>         | Устанавливает интеллект сущности.                                             | [<img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line">](../arguments/enum.md) **Интеллект** [**`->`**](#user-content-fn-49)[^49]           |
+| <p><img src="../../../.gitbook/assets/music_disc_11.png" alt="" data-size="line"> <strong>Заглушить сущность</strong><br><code>entity_set_silenced</code></p>                     | Убирает звуки сущности.                                                       | [<img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line">](../arguments/enum.md) **Заглушение** [**`->`**](#user-content-fn-50)[^50]          |
+| <p><img src="../../../.gitbook/assets/glass_bottle.png" alt="" data-size="line"> <strong>Установить видимость</strong><br><code>entity_set_default_visible</code></p>             | Устанавливает сущности видимость.                                             | [<img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line">](../arguments/enum.md) **Видимость** [**`->`**](#user-content-fn-51)[^51]           |
+| <p><img src="../../../.gitbook/assets/skeleton_skull.png" alt="" data-size="line"> <strong>Установить выпадение предметов</strong><br><code>entity_set_death_drops</code></p>     | Устанавливает, будет ли выпадать лут с существа.                              | [<img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line">](../arguments/enum.md) **Выпадение предметов** [**`->`**](#user-content-fn-52)[^52] |
+| <p><img src="../../../.gitbook/assets/glass.png" alt="" data-size="line"> <strong>Установить режим столкновения</strong><br><code>entity_set_collidable</code></p>                | Устанавливает существу режим столкновения с другими существами.               | [<img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line">](../arguments/enum.md) **Режим столкновения** [**`->`**](#user-content-fn-53)[^53]  |
+| <p><img src="../../../.gitbook/assets/shield.png" alt="" data-size="line"> <strong>Установить неуязвимость сущности</strong><br><code>entity_set_invulnerable</code></p>          | Устанавливает неуязвимость сущности, но в режиме креатива можно нанести урон. | [<img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line">](../arguments/enum.md) **Неуязвимость** [**`->`**](#user-content-fn-54)[^54]        |
 {% endtab %}
 {% endtabs %}
 
@@ -470,4 +474,16 @@ layout:
     * Выключить
 
 [^50]: * Включить
+    * Выключить
+
+[^51]: * Видимый
+    * Невидимый
+
+[^52]: * Включить
+    * Выключить
+
+[^53]: * Сталкивается с другими существами
+    * Не сталкивается с другими существами
+
+[^54]: * Включить
     * Выключить
