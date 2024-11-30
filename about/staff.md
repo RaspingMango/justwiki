@@ -7,7 +7,7 @@ description: Состав персонала сервера на текущий 
 ## Администраторы
 
 * [<img src="../.gitbook/assets/Zingeer.png" alt="" data-size="line">](https://ru.namemc.com/profile/Zingeer) **Zingeer** ([Discord](https://discordapp.com/users/336551231382093824))
-* [<img src="../.gitbook/assets/_Goles_.png" alt="" data-size="line">](https://ru.namemc.com/profile/\_Goles\_) **\_Goles\_** ([Discord](https://discordapp.com/users/335711248639459328))
+* [<img src="../.gitbook/assets/_Goles_.png" alt="" data-size="line">](https://ru.namemc.com/profile/_Goles_) **\_Goles\_** ([Discord](https://discordapp.com/users/335711248639459328))
 * [<img src="../.gitbook/assets/rqbik.png" alt="" data-size="line">](https://ru.namemc.com/profile/rqbik) **rqbik** ([Discord](https://discordapp.com/users/531527252442087425))
 * [<img src="../.gitbook/assets/pxlymorphism.png" alt="" data-size="line">](https://ru.namemc.com/profile/pxlymorphism) **pxlymorphism** ([Discord](https://discordapp.com/users/239720486961938432))
 * [<img src="../.gitbook/assets/FeldGear.png" alt="" data-size="line">](https://ru.namemc.com/profile/FeldGear) **FeldGear** ([Discord](https://discordapp.com/users/284948282994720770))
@@ -26,7 +26,7 @@ description: Состав персонала сервера на текущий 
 ### Creative+
 
 * [<img src="../.gitbook/assets/CororoDev.png" alt="" data-size="line">](https://ru.namemc.com/profile/CororoDev) **CororoDev** ([Discord](https://discordapp.com/users/373389455899492354))
-* [<img src="../.gitbook/assets/White_Wolf__.png" alt="" data-size="line">](https://ru.namemc.com/profile/White\_Wolf\_\_) **White\_Wolf\_\_** ([Discord](https://discordapp.com/users/778041773809205258))
+* [<img src="../.gitbook/assets/White_Wolf__.png" alt="" data-size="line">](https://ru.namemc.com/profile/White_Wolf__) **White\_Wolf\_\_** ([Discord](https://discordapp.com/users/778041773809205258))
 
 ### SkyWars и BedWars
 
@@ -48,4 +48,5 @@ description: Состав персонала сервера на текущий 
 
 ## Локализаторы
 
-* [<img src="../.gitbook/assets/Zoga_com.png" alt="" data-size="line">](https://ru.namemc.com/profile/Zoga\_com) **Zoga\_com** ([Discord](https://discordapp.com/users/681845447547289690))
+* [<img src="../.gitbook/assets/Zoga_com.png" alt="" data-size="line">](https://ru.namemc.com/profile/Zoga_com) **Zoga\_com** ([Discord](https://discordapp.com/users/681845447547289690))
+* [<img src="../.gitbook/assets/RaspingMango637.png" alt="" data-size="line">](https://ru.namemc.com/profile/RaspingMango637) **RaspingMango637** ([Discord](https://discordapp.com/users/208242168823808001))
