@@ -165,6 +165,16 @@ layout:
 | <p><img src="../../../.gitbook/assets/water_bucket.png" alt="" data-size="line"> <strong>Установить погоду мира</strong><br><code>game_set_world_weather</code></p>                         | <p>Устанавливает погоду мира на определённое время.<br><br>» По умолчания, если не указать длительность, погода не будет изменяться.</p> | <p><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Тип погоды</strong> <a data-footnote-ref href="#user-content-fn-60"><strong><code>-></code></strong></a><br><a href="../arguments/number.md"><img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line"></a> <strong>Длительность</strong></p> |
 | <p><img src="../../../.gitbook/assets/ender_pearl.png" alt="" data-size="line"> <strong>Установить дистанцию симуляции мира</strong><br><code>game_set_world_simulation_distance</code></p> | Устанавливает дистанцию симуляции чанков для мира.                                                                                       | [<img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line">](../arguments/number.md) **Дистанция симуляции в чанках (2-32)**                                                                                                                                                                                                                                                  |
 {% endtab %}
+
+{% tab title="Веб-действия" %}
+<img src="../../../.gitbook/assets/world_web_response.png" alt="" data-size="line"> **Действия, которые взаимодействуют с интернет-ресурсами.**
+
+***
+
+| Опция                                                                                                                                                                  | Описание                                                            | Аргументы                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <p><img src="../../../.gitbook/assets/world_web_response.png" alt="" data-size="line"> <strong>Отправить веб-запрос</strong><br><code>game_send_web_request</code></p> | Отправляет веб-запрос с выбранным методом и телом на выбранный URL. | <p><a href="../arguments/text.md"><img src="../../../.gitbook/assets/book.png" alt="" data-size="line"></a> <strong>URL</strong><br><a href="../arguments/text.md"><img src="../../../.gitbook/assets/book.png" alt="" data-size="line"></a> <strong>Тело запроса</strong><br><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Тип запроса</strong> <a data-footnote-ref href="#user-content-fn-61"><strong><code>-></code></strong></a><br><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Медиа тип запроса</strong> <a data-footnote-ref href="#user-content-fn-62"><strong><code>-></code></strong></a></p> |
+{% endtab %}
 {% endtabs %}
 
 [^1]: * Включить
@@ -383,3 +393,12 @@ layout:
 [^60]: * Ясная
     * Дождливая
     * Гроза
+
+[^61]: * GET
+    * HEAD
+    * POST
+    * PUT
+    * DELETE
+
+[^62]: * Обычный текст (text/plain)
+    * JSON (application/json)

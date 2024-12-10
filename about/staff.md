@@ -39,7 +39,7 @@ description: Состав персонала сервера на текущий 
 * [<img src="../.gitbook/assets/Firchex.png" alt="" data-size="line">](https://ru.namemc.com/profile/Firchex) **Firchex** ([Discord](https://discordapp.com/users/267275356539584522))
 * [<img src="../.gitbook/assets/jAngelius.png" alt="" data-size="line">](https://ru.namemc.com/profile/jAngelius) **jAngelius** ([Discord](https://discordapp.com/users/567791580744908946))
 * [<img src="../.gitbook/assets/Bumbukio.png" alt="" data-size="line">](https://ru.namemc.com/profile/Bumbukio) **Bumbukio** ([Discord](https://discordapp.com/users/702865132509986957))
-* [<img src="../.gitbook/assets/koi9ia.png" alt="" data-size="line">](https://ru.namemc.com/profile/koi9ia) **koi9ia** ([Discord](https://discordapp.com/users/853741418882662420))
+* [<img src="https://mc-heads.net/avatar/ee8afbc62502b4c2be3530c5b47f2ff80d2d9baa7194f8463d23ef7915d76b7/" alt="" data-size="line">](https://ru.namemc.com/profile/koi9ia) **koi9ia** ([Discord](https://discordapp.com/users/853741418882662420))
 
 ## Саппорты
 
