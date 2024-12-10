@@ -6,20 +6,20 @@ description: Состав персонала сервера на текущий 
 
 ## Администраторы
 
-* [<img src="../.gitbook/assets/Zingeer.png" alt="" data-size="line">](https://ru.namemc.com/profile/Zingeer) **Zingeer** ([Discord](https://discordapp.com/users/336551231382093824))
-* [<img src="../.gitbook/assets/_Goles_.png" alt="" data-size="line">](https://ru.namemc.com/profile/_Goles_) **\_Goles\_** ([Discord](https://discordapp.com/users/335711248639459328))
-* [<img src="../.gitbook/assets/rqbik.png" alt="" data-size="line">](https://ru.namemc.com/profile/rqbik) **rqbik** ([Discord](https://discordapp.com/users/531527252442087425))
-* [<img src="../.gitbook/assets/pxlymorphism.png" alt="" data-size="line">](https://ru.namemc.com/profile/pxlymorphism) **pxlymorphism** ([Discord](https://discordapp.com/users/239720486961938432))
-* [<img src="../.gitbook/assets/FeldGear.png" alt="" data-size="line">](https://ru.namemc.com/profile/FeldGear) **FeldGear** ([Discord](https://discordapp.com/users/284948282994720770))
+* [<img src="https://mc-heads.net/avatar/acece2d2-2248-4d92-9104-662c9fc3e52c/64.png" alt="" data-size="line">](https://ru.namemc.com/profile/Zingeer) **Zingeer** ([Discord](https://discordapp.com/users/336551231382093824))
+* [<img src="https://mc-heads.net/avatar/4d3316ef-4cba-4f41-bf78-2f29e95022ce/64.png" alt="" data-size="line">](https://ru.namemc.com/profile/_Goles_) **\_Goles\_** ([Discord](https://discordapp.com/users/335711248639459328))
+* [<img src="https://mc-heads.net/avatar/08f5a876-addc-4355-99cc-91c7fb2aa2b0/64.png" alt="" data-size="line">](https://ru.namemc.com/profile/rqbik) **rqbik** ([Discord](https://discordapp.com/users/531527252442087425))
+* [<img src="https://mc-heads.net/avatar/e2bfcfa8-54a0-4659-8388-73219acf5c92/64.png" alt="" data-size="line">](https://ru.namemc.com/profile/pxlymorphism) **pxlymorphism** ([Discord](https://discordapp.com/users/239720486961938432))
+* [<img src="https://mc-heads.net/avatar/316d5dff-5112-4405-aa54-6bd6945737ad/64.png" alt="" data-size="line">](https://ru.namemc.com/profile/FeldGear) **FeldGear** ([Discord](https://discordapp.com/users/284948282994720770))
 
 ### SkyBlockM
 
-* [<img src="../.gitbook/assets/LeonidM.png" alt="" data-size="line">](https://ru.namemc.com/profile/LeonidM) **LeonidM** ([Discord](https://discordapp.com/users/323503212764069890))
-* [<img src="../.gitbook/assets/Morkowka.png" alt="" data-size="line">](https://ru.namemc.com/profile/Morkowka) **Morkowka** ([Discord](https://discordapp.com/users/512285433640648704))
+* [<img src="https://mc-heads.net/avatar/3044a409-2f98-4e31-805d-2da5c49f7cff/64.png" alt="" data-size="line">](https://ru.namemc.com/profile/LeonidM) **LeonidM** ([Discord](https://discordapp.com/users/323503212764069890))
+* [<img src="https://mc-heads.net/avatar/ef3064dd-0f41-4851-8b47-950da3e87e40/64.png" alt="" data-size="line">](https://ru.namemc.com/profile/Morkowka) **Morkowka** ([Discord](https://discordapp.com/users/512285433640648704))
 
 ### Секретный режим
 
-* [<img src="../.gitbook/assets/Sem97nik5.png" alt="" data-size="line">](https://ru.namemc.com/profile/Sem97nik5) **Sem97nik5** ([Discord](https://discordapp.com/users/351355575440900097))
+* [<img src="https://mc-heads.net/avatar/ac91b410-43b6-4a50-9ea2-27a69e43ff90/64.png" alt="" data-size="line">](https://ru.namemc.com/profile/Sem97nik5) **Sem97nik5** ([Discord](https://discordapp.com/users/351355575440900097))
 
 ## Разработчики
 
@@ -44,7 +44,7 @@ description: Состав персонала сервера на текущий 
 ## Саппорты
 
 * [<img src="https://mc-heads.net/avatar/7d9aa7c6-986d-4d63-a0ea-7842200c69b1/64.png" alt="" data-size="line">](https://ru.namemc.com/profile/RaspingMango637) **RaspingMango637** ([Discord](https://discordapp.com/users/208242168823808001))
-* <img src="../.gitbook/assets/Steve.png" alt="" data-size="line"> **cocomard0088** ([Discord](https://discordapp.com/users/1196131473707765812))
+* <img src="https://mc-heads.net/avatar/1aac1fa5e793985fcf7ac0ffebdd32bd0da4d699e8140560302a88275bfc150b/" alt="" data-size="line"> **cocomard0088** ([Discord](https://discordapp.com/users/1196131473707765812))
 
 ## Локализаторы
 
