@@ -25,12 +25,12 @@ description: Состав персонала сервера на текущий 
 
 ### Creative+
 
-* [<img src="../.gitbook/assets/CororoDev.png" alt="" data-size="line">](https://ru.namemc.com/profile/CororoDev) **CororoDev** ([Discord](https://discordapp.com/users/373389455899492354))
-* [<img src="../.gitbook/assets/White_Wolf__.png" alt="" data-size="line">](https://ru.namemc.com/profile/White_Wolf__) **White\_Wolf\_\_** ([Discord](https://discordapp.com/users/778041773809205258))
+* [<img src="https://mc-heads.net/avatar/5ff55c0d-8b4a-43cd-9900-ae84f5b20abc/64.png" alt="" data-size="line">](https://ru.namemc.com/profile/CororoDev) **CororoDev** ([Discord](https://discordapp.com/users/373389455899492354))
+* [<img src="https://mc-heads.net/avatar/1f1d2f1e-2339-44c5-a057-1f7acaaa8153/64.png" alt="" data-size="line">](https://ru.namemc.com/profile/White_Wolf__) **White\_Wolf\_\_** ([Discord](https://discordapp.com/users/778041773809205258))
 
 ### BedWars
 
-* [<img src="../.gitbook/assets/unidok.png" alt="" data-size="line">](https://ru.namemc.com/profile/unidok) **unidok** ([Discord](https://discordapp.com/users/693392944274604052))
+* [<img src="https://mc-heads.net/avatar/3eb77e90-0082-4aa8-80be-77879aa6b306/64.png" alt="" data-size="line">](https://ru.namemc.com/profile/unidok) **unidok** ([Discord](https://discordapp.com/users/693392944274604052))
 
 ## Модераторы
 
