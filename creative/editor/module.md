@@ -32,7 +32,9 @@ description: Позволяет сохранить выбранные строк
 
 <summary>Название модуля</summary>
 
-Позволяет установить название и описание модуля. По умолчанию установлено ID модуля.
+Позволяет установить название и описание модуля. По умолчанию установлено ID модуля.\
+\
+» Если вы хотите установить описание модулю, то используйте `\n` после названия. Например, `Fly Away\nДобавляет реактивные ранцы.`
 
 </details>
 
@@ -76,13 +78,13 @@ description: Позволяет сохранить выбранные строк
 | `/module loadUrl` [`<force>`](#user-content-fn-6)[^6] `<ID>` | Загрузить модуль по URL.                            |
 | `/module remove <module>`                                    | Безвозвратно удалить свой модуль.                   |
 
-[^1]: ![](../../.gitbook/assets/modules\_menu.png)
+[^1]: ![](../../.gitbook/assets/modules_menu.png)
 
-[^2]: ![](../../.gitbook/assets/my\_modules\_menu.png)Количество доступных для создания модулей зависит от [ранга](https://justmc.io/shop).
+[^2]: ![](../../.gitbook/assets/my_modules_menu.png)Количество доступных для создания модулей зависит от [ранга](https://justmc.io/shop).
 
-[^3]: ![](../../.gitbook/assets/modules\_menu.png)
+[^3]: ![](../../.gitbook/assets/modules_menu.png)
 
-[^4]: ![](../../.gitbook/assets/modules\_menu.png)
+[^4]: ![](../../.gitbook/assets/modules_menu.png)
 
 [^5]: Удаляет весь остальной код.
 

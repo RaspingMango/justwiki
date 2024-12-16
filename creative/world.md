@@ -71,7 +71,9 @@
 
 <summary>Изменение названия мира</summary>
 
-Напишите название мира в чат.
+Напишите название мира в чат.\
+\
+» Если вы хотите установить описание модулю, то используйте `\n` после названия. Например, `Skyfall\nБитвы на элитрах!`
 
 </details>
 
@@ -210,13 +212,13 @@
 
 [^1]: Creative+
 
-[^2]: ![](../.gitbook/assets/my\_worlds\_menu.png)Количество доступных для создания миров зависит от [ранга](https://justmc.io/shop).
+[^2]: ![](../.gitbook/assets/my_worlds_menu.png)Количество доступных для создания миров зависит от [ранга](https://justmc.io/shop).
 
-[^3]: ![](../.gitbook/assets/world\_settings\_menu.png)
+[^3]: ![](../.gitbook/assets/world_settings_menu.png)
 
-[^4]: ![](../.gitbook/assets/my\_worlds\_menu.png)Количество доступных для создания миров зависит от [ранга](https://justmc.io/shop).
+[^4]: ![](../.gitbook/assets/my_worlds_menu.png)Количество доступных для создания миров зависит от [ранга](https://justmc.io/shop).
 
-[^5]: ![](../.gitbook/assets/world\_settings\_menu.png)
+[^5]: ![](../.gitbook/assets/world_settings_menu.png)
 
 [^6]: Можно заменить на: `/gm`
 
@@ -234,14 +236,14 @@
 
 [^13]: Можно заменить на: `/v`
 
-[^14]: ![](../.gitbook/assets/worlds\_menu.png)![](../.gitbook/assets/all\_worlds\_menu.png)
+[^14]: ![](../.gitbook/assets/worlds_menu.png)![](../.gitbook/assets/all_worlds_menu.png)
 
 [^15]: Creative+
 
-[^16]: ![](../.gitbook/assets/online\_worlds\_menu.png)
+[^16]: ![](../.gitbook/assets/online_worlds_menu.png)
 
-[^17]: ![](../.gitbook/assets/history\_worlds\_menu.png)
+[^17]: ![](../.gitbook/assets/history_worlds_menu.png)
 
-[^18]: ![](../.gitbook/assets/favorite\_worlds\_menu.png)
+[^18]: ![](../.gitbook/assets/favorite_worlds_menu.png)
 
-[^19]: ![](../.gitbook/assets/my\_worlds\_menu.png)Количество доступных для создания миров зависит от [ранга](https://justmc.io/shop).
+[^19]: ![](../.gitbook/assets/my_worlds_menu.png)Количество доступных для создания миров зависит от [ранга](https://justmc.io/shop).
