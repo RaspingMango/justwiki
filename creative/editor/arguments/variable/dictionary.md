@@ -18,6 +18,6 @@ layout:
 
 **Относится к:** [<img src="../../../../.gitbook/assets/magma_cream.png" alt="" data-size="line"> **Переменная**](./)\
 **Ячейка:** <img src="../../../../.gitbook/assets/brown_stained_glass_pane.png" alt="" data-size="line">\
-**Текстовый идентификатор:** `dictionary`
+**Текстовый идентификатор:** `map`
 
 ***
