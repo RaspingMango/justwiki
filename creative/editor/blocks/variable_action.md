@@ -225,6 +225,10 @@ layout:
 | <p><img src="../../../.gitbook/assets/iron_shovel.png" alt="" data-size="line"> <strong>Получить блоки для ломания предметом</strong><br><code>set_variable_get_item_destroyable_blocks</code></p>        | Получает блоки, которые может ломать предмет и присваивает результат к переменной.                                                                                                                                                                               | <p><a href="../arguments/variable/"><img src="../../../.gitbook/assets/magma_cream.png" alt="" data-size="line"></a> <strong>Переменная для присвоения</strong><br><a href="../arguments/item.md"><img src="../../../.gitbook/assets/item_frame.png" alt="" data-size="line"></a> <strong>Предмет</strong></p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | <p><img src="../../../.gitbook/assets/sunflower.png" alt="" data-size="line"> <strong>Получить редкость предмета</strong><br><code>set_variable_get_item_rarity</code></p>                                | Получает редкость предмета и присваивает результат к переменной.                                                                                                                                                                                                 | <p><a href="../arguments/variable/"><img src="../../../.gitbook/assets/magma_cream.png" alt="" data-size="line"></a> <strong>Переменная для присвоения</strong><br><a href="../arguments/item.md"><img src="../../../.gitbook/assets/item_frame.png" alt="" data-size="line"></a> <strong>Предмет</strong></p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | <p><img src="../../../.gitbook/assets/filled_map.png" alt="" data-size="line"> <strong>Установить изображение карте</strong><br><code>set_variable_set_texture_to_map</code></p>                          | Устанавливает изображение карте по указанной ссылке. При перезагрузке сервера изображения могут пропасть, поэтому рекомендуется повторно устанавливать его тем же картам при запуске мира.                                                                       | <p><a href="../arguments/variable/"><img src="../../../.gitbook/assets/magma_cream.png" alt="" data-size="line"></a> <strong>Переменная для присвоения</strong><br><a href="../arguments/item.md"><img src="../../../.gitbook/assets/item_frame.png" alt="" data-size="line"></a> <strong>Карта для установки</strong><br><a href="../arguments/text.md"><img src="../../../.gitbook/assets/book.png" alt="" data-size="line"></a> <strong>Ссылка на изображение</strong></p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| <p><img src="../../../.gitbook/assets/diamond.png" alt="" data-size="line"> <strong>Получить атрибут предмета</strong><br><code>set_variable_get_item_attribute</code></p>                                | Получает определённый атрибут с предмета в виде словаря "UUID - Значение" и присваивает результат к переменной.                                                                                                                                                  | <p><a href="../arguments/variable/"><img src="../../../.gitbook/assets/magma_cream.png" alt="" data-size="line"></a> <strong>Переменная для присвоения</strong><br><a href="../arguments/item.md"><img src="../../../.gitbook/assets/item_frame.png" alt="" data-size="line"></a> <strong>Предмет</strong><br><a href="../arguments/text.md"><img src="../../../.gitbook/assets/book.png" alt="" data-size="line"></a> <strong>Имя атрибута</strong><br><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Тип атрибута</strong> <a data-footnote-ref href="#user-content-fn-82"><strong><code>-></code></strong></a><br><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Слот атрибута</strong> <a data-footnote-ref href="#user-content-fn-83"><strong><code>-></code></strong></a><br><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Операция атрибута</strong> <a data-footnote-ref href="#user-content-fn-84"><strong><code>-></code></strong></a></p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| <p><img src="../../../.gitbook/assets/diamond.png" alt="" data-size="line"> <strong>Добавить атрибут предмету</strong><br><code>set_variable_set_item_attribute</code></p>                                | Добавляет определённый атрибут предмету и присваивает результат к переменной.                                                                                                                                                                                    | <p><a href="../arguments/variable/"><img src="../../../.gitbook/assets/magma_cream.png" alt="" data-size="line"></a> <strong>Переменная для присвоения</strong><br><a href="../arguments/item.md"><img src="../../../.gitbook/assets/item_frame.png" alt="" data-size="line"></a> <strong>Предмет</strong><br><a href="../arguments/number.md"><img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line"></a> <strong>Значение атрибута</strong><br><a href="../arguments/text.md"><img src="../../../.gitbook/assets/book.png" alt="" data-size="line"></a> <strong>Имя атрибута</strong><br><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Тип атрибута</strong> <a data-footnote-ref href="#user-content-fn-85"><strong><code>-></code></strong></a><br><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Слот атрибута</strong> <a data-footnote-ref href="#user-content-fn-86"><strong><code>-></code></strong></a><br><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Операция атрибута</strong> <a data-footnote-ref href="#user-content-fn-87"><strong><code>-></code></strong></a></p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| <p><img src="../../../.gitbook/assets/emerald.png" alt="" data-size="line"> <strong>Удалить атрибут у предмета</strong><br><code>set_variable_remove_item_attribute</code></p>                            | Удаляет атрибут у предмета и присваивает результат к переменной.                                                                                                                                                                                                 | <p><a href="../arguments/variable/"><img src="../../../.gitbook/assets/magma_cream.png" alt="" data-size="line"></a> <strong>Переменная для присвоения</strong><br><a href="../arguments/item.md"><img src="../../../.gitbook/assets/item_frame.png" alt="" data-size="line"></a> <strong>Предмет</strong><br><a href="../arguments/text.md"><img src="../../../.gitbook/assets/book.png" alt="" data-size="line"></a> <strong>Имя или UUID атрибута</strong><br><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Тип атрибута</strong> <a data-footnote-ref href="#user-content-fn-88"><strong><code>-></code></strong></a></p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| <p><img src="../../../.gitbook/assets/knowledge_book.png" alt="" data-size="line"> <strong>Получить свойство блока</strong><br><code>set_variable_get_block_material_property</code></p>                  | Получает определённое свойство блока и присваивает результат к переменной.                                                                                                                                                                                       | <p><a href="../arguments/variable/"><img src="../../../.gitbook/assets/magma_cream.png" alt="" data-size="line"></a> <strong>Переменная для присвоения</strong><br><a href="../arguments/block.md"><img src="../../../.gitbook/assets/chiseled_stone_bricks.png" alt="" data-size="line"></a> <strong>Блок для получения</strong><br><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Свойство</strong> <a data-footnote-ref href="#user-content-fn-89"><strong><code>-></code></strong></a></p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 {% endtab %}
 {% endtabs %}
 
@@ -548,3 +552,133 @@ layout:
 [^81]: * Добавить
     * Установить
     * Удалить
+
+[^82]: * Максимальное здоровье
+    * Максимальное поглощение
+    * Расстояние следования
+    * Сопротивление отталкиванию
+    * Скорость передвижения
+    * Скорость полёта
+    * Урон атаки
+    * Отталкивание атаки
+    * Скорость атаки
+    * Очки защиты
+    * Очки плотности защиты
+    * Удача рыбалки
+    * Сила прыжка
+    * Шанс подкрепления зомби
+    * Множитель урона от падения
+    * Безопасная высота падения
+    * Масштаб
+    * Высота шага
+    * Гравитация
+    * Расстояние взаимодействия с блоками
+    * Расстояние взаимодействия с сущностями
+    * Скорость ломания блока
+    * Время горения
+    * Сопротивление отбрасыванию от взрыва
+    * Скорость передвижения по замедляющим блокам
+    * Воздух под водой
+    * Скорость передвижения под водой
+    * Скорость копания
+    * Скорость передвижения крадясь
+    * Скорость копания под водой
+    * Коэффициент разящего удара
+
+[^83]: * Все
+    * Основная рука
+    * Второстепенная рука
+    * Любая рука
+    * Ботинки
+    * Поножи
+    * Нагрудник
+    * Шлем
+    * Любая броня
+    * Тело (работает не со всеми сущностями)
+
+[^84]: * Количество (amount)
+    * Процент (percentage)
+    * Произведение (multiplicative)
+
+[^85]: * Максимальное здоровье
+    * Максимальное поглощение
+    * Расстояние следования
+    * Сопротивление отталкиванию
+    * Скорость передвижения
+    * Скорость полёта
+    * Урон атаки
+    * Отталкивание атаки
+    * Скорость атаки
+    * Очки защиты
+    * Очки плотности защиты
+    * Удача рыбалки
+    * Сила прыжка
+    * Шанс подкрепления зомби
+    * Множитель урона от падения
+    * Безопасная высота падения
+    * Масштаб
+    * Высота шага
+    * Гравитация
+    * Расстояние взаимодействия с блоками
+    * Расстояние взаимодействия с сущностями
+    * Скорость ломания блока
+    * Время горения
+    * Сопротивление отбрасыванию от взрыва
+    * Скорость передвижения по замедляющим блокам
+    * Воздух под водой
+    * Скорость передвижения под водой
+    * Скорость копания
+    * Скорость передвижения крадясь
+    * Скорость копания под водой
+    * Коэффициент разящего удара
+
+[^86]: * Все
+    * Основная рука
+    * Второстепенная рука
+    * Любая рука
+    * Ботинки
+    * Поножи
+    * Нагрудник
+    * Шлем
+    * Любая броня
+    * Тело (работает не со всеми сущностями)
+
+[^87]: * Количество (amount)
+    * Процент (percentage)
+    * Произведение (multiplicative)
+
+[^88]: * Максимальное здоровье
+    * Максимальное поглощение
+    * Расстояние следования
+    * Сопротивление отталкиванию
+    * Скорость передвижения
+    * Скорость полёта
+    * Урон атаки
+    * Отталкивание атаки
+    * Скорость атаки
+    * Очки защиты
+    * Очки плотности защиты
+    * Удача рыбалки
+    * Сила прыжка
+    * Шанс подкрепления зомби
+    * Множитель урона от падения
+    * Безопасная высота падения
+    * Масштаб
+    * Высота шага
+    * Гравитация
+    * Расстояние взаимодействия с блоками
+    * Расстояние взаимодействия с сущностями
+    * Скорость ломания блока
+    * Время горения
+    * Сопротивление отбрасыванию от взрыва
+    * Скорость передвижения по замедляющим блокам
+    * Воздух под водой
+    * Скорость передвижения под водой
+    * Скорость копания
+    * Скорость передвижения крадясь
+    * Скорость копания под водой
+    * Коэффициент разящего удара
+
+[^89]: * Прочность
+    * Устойчивость к взрыву
+    * Скользкость
