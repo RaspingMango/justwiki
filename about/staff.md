@@ -16,6 +16,7 @@ description: Состав персонала сервера на текущий 
 
 * [<img src="https://mc-heads.net/avatar/3044a409-2f98-4e31-805d-2da5c49f7cff/64.png" alt="" data-size="line">](https://ru.namemc.com/profile/LeonidM) **LeonidM** ([Discord](https://discordapp.com/users/323503212764069890))
 * [<img src="https://mc-heads.net/avatar/ef3064dd-0f41-4851-8b47-950da3e87e40/64.png" alt="" data-size="line">](https://ru.namemc.com/profile/Morkowka) **Morkowka** ([Discord](https://discordapp.com/users/512285433640648704))
+* [<img src="https://mc-heads.net/avatar/99ff97cd-c3a7-4bfd-9658-10a23d71ff23/64.png" alt="" data-size="line">](https://ru.namemc.com/profile/Supcheg) **Supcheg** ([Discord](https://discordapp.com/users/357941361086955531))
 
 ### Секретный режим
 
@@ -27,6 +28,10 @@ description: Состав персонала сервера на текущий 
 
 * [<img src="https://mc-heads.net/avatar/5ff55c0d-8b4a-43cd-9900-ae84f5b20abc/64.png" alt="" data-size="line">](https://ru.namemc.com/profile/CororoDev) **CororoDev** ([Discord](https://discordapp.com/users/373389455899492354))
 * [<img src="https://mc-heads.net/avatar/1f1d2f1e-2339-44c5-a057-1f7acaaa8153/64.png" alt="" data-size="line">](https://ru.namemc.com/profile/White_Wolf__) **White\_Wolf\_\_** ([Discord](https://discordapp.com/users/778041773809205258))
+
+### SkyBlockM
+
+* [<img src="https://mc-heads.net/avatar/a92396df-2ccf-4e1e-9468-df6cbc30d3c4/64.png" alt="" data-size="line">](https://ru.namemc.com/profile/ArtBorax) **ArtBorax** ([Discord](https://discordapp.com/users/166520788269137920))
 
 ### BedWars
 
