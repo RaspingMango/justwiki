@@ -28,6 +28,45 @@ layout:
 
 Возьмите значение в активный слот и нажмите ПКМ. В открывшемся меню перейдите в нужную категорию и выберите игровое значение.
 
+### Каталог игровых значений
+
+{% tabs %}
+{% tab title="Статистика" %}
+<img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line"> **Числовые значения параметров цели.**
+
+***
+
+| Значение                                                                                                                                                             | Описание                                                                                 | Возвращаемое значение                                                                                                                                         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p><img src="../../../.gitbook/assets/apple.png" alt="" data-size="line"> <strong>Текущее здоровье</strong><br><code>current_health</code></p>                       | Получает оставшееся количество единиц здоровья цели.                                     | [<img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line">](number.md) **0 (мёртв) до максимального количества здоровья (20 по умолчанию)** |
+| <p><img src="../../../.gitbook/assets/golden_apple.png" alt="" data-size="line"> <strong>Максимальное здоровье</strong><br><code>max_health</code></p>               | Получает максимальное количество единиц здоровья цели.                                   | [<img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line">](number.md) **Максимальное количество здоровья (от 1)**                          |
+| <p><img src="../../../.gitbook/assets/honey_bottle.png" alt="" data-size="line"> <strong>Дополнительное здоровье</strong><br><code>absorption_health</code></p>      | Получает количество единиц поглощательного (золотого) здоровья цели.                     | [<img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line">](number.md) **Количество поглощательного здоровья**                              |
+| <p><img src="../../../.gitbook/assets/cooked_beef.png" alt="" data-size="line"> <strong>Уровень голода</strong><br><code>food_level</code></p>                       | Получает оставшееся количество единиц еды цели.                                          | [<img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line">](number.md) **От 0 (голод) до 20 (сытость)**                                     |
+| <p><img src="../../../.gitbook/assets/beef.png" alt="" data-size="line"> <strong>Уровень насыщения</strong><br><code>food_saturation</code></p>                      | Получает количество единиц насыщения едой цели, которое зависит от видов отъеденной еды. | [<img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line">](number.md) **От 0 до текущего количества единиц еды игрока**                    |
+| <p><img src="../../../.gitbook/assets/rotten_flesh.png" alt="" data-size="line"> <strong>Уровень истощения</strong><br><code>food_exhaustion</code></p>              | Получает уровень истощения цели, который увеличивается от выполненных действий игрока.   | [<img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line">](number.md) **От 0 (нет истощения) до 4 (полное истощение)**                     |
+| <p><img src="../../../.gitbook/assets/iron_sword.png" alt="" data-size="line"> <strong>Урон от атаки</strong><br><code>attack_damage</code></p>                      | Получает количество единиц урона от атак цели, которое можно изменить предметами.        | [<img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line">](number.md) **От 0 (по умолчанию 1)**                                            |
+| <p><img src="../../../.gitbook/assets/golden_sword.png" alt="" data-size="line"> <strong>Скорость атаки</strong><br><code>attack_speed</code></p>                    | Получает скорость атаки цели, которую можно изменить предметами.                         | [<img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line">](number.md) **От 0 (чем больше - тем быстрее)**                                  |
+| <p><img src="../../../.gitbook/assets/diamond_sword.png" alt="" data-size="line"> <strong>Кулдаун атаки</strong><br><code>attack_cooldown_strength</code></p>        | Получает текущий кулдаун атаки цели.                                                     | [<img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line">](number.md) **Текущий кулдаун атаки (от 0 до 1)**                                |
+| <p><img src="../../../.gitbook/assets/netherite_sword.png" alt="" data-size="line"> <strong>Кулдаун атаки в тиках</strong><br><code>attack_cooldown_ticks</code></p> | Получает текущий кулдаун атаки цели в тиках.                                             | [<img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line">](number.md) **Текущий кулдаун атаки в тиках**                                    |
+| <p><img src="../../../.gitbook/assets/iron_chestplate.png" alt="" data-size="line"> <strong>Очки защиты</strong><br><code>armor_points</code></p>                    | Получает количество единиц брони цели, которое можно изменить предметами.                | [<img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line">](number.md) **От 0 (брони нет) до 20 (полная полоска брони)**                    |
+| <p><img src="../../../.gitbook/assets/golden_chestplate.png" alt="" data-size="line"> <strong>Твёрдость брони</strong><br><code>armor_toughness</code></p>           | Получает количество единиц твёрдости брони цели, которое можно изменить предметами.      | [<img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line">](number.md) **От 0 (незеритовая броня имеет 12 твёрдости)**                      |
+{% endtab %}
+{% endtabs %}
+
+### Селекторы
+
 Нажатием Shift + ЛКМ/ПКМ откроется меню селекторов, в котором можно выбрать цель игрового значения.
+
+| Селектор                                                                                           | Описание                                                                                                                                         |
+| -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <img src="../../../.gitbook/assets/nether_star.gif" alt="" data-size="line"> **Текущая цель**      | Цель, выбранная с помощью [<img src="../../../.gitbook/assets/purpur_block.png" alt="" data-size="line"> **Выбрать цель**](../blocks/select.md). |
+| <img src="../../../.gitbook/assets/potato.png" alt="" data-size="line"> **По умолчанию**           | Цель, которая была выбрана по умолчанию.                                                                                                         |
+| <img src="../../../.gitbook/assets/carrot.png" alt="" data-size="line"> **Существо по умолчанию**  | Существо, которое было выбрано по умолчанию.                                                                                                     |
+| <img src="../../../.gitbook/assets/iron_sword.png" alt="" data-size="line"> **Убийца**             | Цель, которая убила жертву.                                                                                                                      |
+| <img src="../../../.gitbook/assets/stone_sword.png" alt="" data-size="line"> **Атакующий**         | Цель, которая атаковала жертву.                                                                                                                  |
+| <img src="../../../.gitbook/assets/skeleton_skull.png" alt="" data-size="line"> **Жертва**         | Цель, которая получила урон или умерла.                                                                                                          |
+| <img src="../../../.gitbook/assets/bow.png" alt="" data-size="line"> **Стрелок**                   | Цель, которая выстрелила.                                                                                                                        |
+| <img src="../../../.gitbook/assets/arrow.png" alt="" data-size="line"> **Снаряд**                  | Сущность, которая была запущена стрелком.                                                                                                        |
+| <img src="../../../.gitbook/assets/turtle_egg.png" alt="" data-size="line"> **Последняя сущность** | Сущность, которая появилась в мире последней.                                                                                                    |
 
 [^1]: Можно заменить на: `/gv`
