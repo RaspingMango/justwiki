@@ -50,6 +50,7 @@ description: Состав персонала сервера на текущий 
 
 * [<img src="https://mc-heads.net/avatar/7d9aa7c6-986d-4d63-a0ea-7842200c69b1/64.png" alt="" data-size="line">](https://ru.namemc.com/profile/RaspingMango637) **RaspingMango637** ([Discord](https://discordapp.com/users/208242168823808001))
 * <img src="https://mc-heads.net/avatar/1aac1fa5e793985fcf7ac0ffebdd32bd0da4d699e8140560302a88275bfc150b/" alt="" data-size="line"> **cocomard0088** ([Discord](https://discordapp.com/users/1196131473707765812))
+* [<img src="https://mc-heads.net/avatar/ca7eb822-c24f-4ad3-8e37-7e31e30c556f/64.png" alt="" data-size="line">](https://ru.namemc.com/profile/Bebeika) **Bebeika** ([Discord](https://discordapp.com/users/445197088980992015))
 
 ## Локализаторы
 
