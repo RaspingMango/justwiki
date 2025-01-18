@@ -157,13 +157,14 @@ layout:
 
 ***
 
-| Опция                                                                                                                                                                                       | Описание                                                                                                                                 | Аргументы                                                                                                                                                                                                                                                                                                                                                                                      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p><img src="../../../.gitbook/assets/clock.png" alt="" data-size="line"> <strong>Установить время мира</strong><br><code>game_set_world_time</code></p>                                    | Устанавливает время мира в тиках.                                                                                                        | [<img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line">](../arguments/number.md) **Время в тиках**                                                                                                                                                                                                                                                                        |
-| <p><img src="../../../.gitbook/assets/iron_pickaxe.png" alt="" data-size="line"> <strong>Установить выпадение блоков</strong><br><code>game_set_world_time</code></p>                       | Устанавливает правило в мире на выпадение блоков при их разрушении.                                                                      | [<img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line">](../arguments/enum.md) **Выпадение блока** [**`->`**](#user-content-fn-58)[^58]                                                                                                                                                                                                                             |
-| <p><img src="../../../.gitbook/assets/skeleton_skull.png" alt="" data-size="line"> <strong>Установить сложность мира</strong><br><code>game_set_world_difficulty</code></p>                 | Устанавливает определённую сложность в мире.                                                                                             | [<img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line">](../arguments/enum.md) **Сложность** [**`->`**](#user-content-fn-59)[^59]                                                                                                                                                                                                                                   |
-| <p><img src="../../../.gitbook/assets/water_bucket.png" alt="" data-size="line"> <strong>Установить погоду мира</strong><br><code>game_set_world_weather</code></p>                         | <p>Устанавливает погоду мира на определённое время.<br><br>» По умолчания, если не указать длительность, погода не будет изменяться.</p> | <p><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Тип погоды</strong> <a data-footnote-ref href="#user-content-fn-60"><strong><code>-></code></strong></a><br><a href="../arguments/number.md"><img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line"></a> <strong>Длительность</strong></p> |
-| <p><img src="../../../.gitbook/assets/ender_pearl.png" alt="" data-size="line"> <strong>Установить дистанцию симуляции мира</strong><br><code>game_set_world_simulation_distance</code></p> | Устанавливает дистанцию симуляции чанков для мира.                                                                                       | [<img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line">](../arguments/number.md) **Дистанция симуляции в чанках (2-32)**                                                                                                                                                                                                                                                  |
+| Опция                                                                                                                                                                                       | Описание                                                                                                                                                       | Аргументы                                                                                                                                                                                                                                                                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p><img src="../../../.gitbook/assets/clock.png" alt="" data-size="line"> <strong>Установить время мира</strong><br><code>game_set_world_time</code></p>                                    | Устанавливает время мира в тиках.                                                                                                                              | [<img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line">](../arguments/number.md) **Время в тиках**                                                                                                                                                                                                                                                                        |
+| <p><img src="../../../.gitbook/assets/iron_pickaxe.png" alt="" data-size="line"> <strong>Установить выпадение блоков</strong><br><code>game_set_world_time</code></p>                       | Устанавливает правило в мире на выпадение блоков при их разрушении.                                                                                            | [<img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line">](../arguments/enum.md) **Выпадение блока** [**`->`**](#user-content-fn-58)[^58]                                                                                                                                                                                                                             |
+| <p><img src="../../../.gitbook/assets/skeleton_skull.png" alt="" data-size="line"> <strong>Установить сложность мира</strong><br><code>game_set_world_difficulty</code></p>                 | Устанавливает определённую сложность в мире.                                                                                                                   | [<img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line">](../arguments/enum.md) **Сложность** [**`->`**](#user-content-fn-59)[^59]                                                                                                                                                                                                                                   |
+| <p><img src="../../../.gitbook/assets/writable_book.png" alt="" data-size="line"> <strong>Установить игровое правило мира</strong><br><code>game_set_world_gamerule</code></p>              | <p>Устанавливает определённое игровое правило (gamerule) мира.<br><br>» Оставьте аргумент "Значение" пустым, чтобы сбросить его на состояние по умолчанию.</p> | <p><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Игровое правило</strong> <a data-footnote-ref href="#user-content-fn-60"><strong><code>-></code></strong></a><br><a href="../arguments/text.md"><img src="../../../.gitbook/assets/book.png" alt="" data-size="line"></a> <strong>Значение</strong></p>        |
+| <p><img src="../../../.gitbook/assets/water_bucket.png" alt="" data-size="line"> <strong>Установить погоду мира</strong><br><code>game_set_world_weather</code></p>                         | <p>Устанавливает погоду мира на определённое время.<br><br>» По умолчания, если не указать длительность, погода не будет изменяться.</p>                       | <p><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Тип погоды</strong> <a data-footnote-ref href="#user-content-fn-61"><strong><code>-></code></strong></a><br><a href="../arguments/number.md"><img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line"></a> <strong>Длительность</strong></p> |
+| <p><img src="../../../.gitbook/assets/ender_pearl.png" alt="" data-size="line"> <strong>Установить дистанцию симуляции мира</strong><br><code>game_set_world_simulation_distance</code></p> | Устанавливает дистанцию симуляции чанков для мира.                                                                                                             | [<img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line">](../arguments/number.md) **Дистанция симуляции в чанках (2-32)**                                                                                                                                                                                                                                                  |
 {% endtab %}
 
 {% tab title="Веб-действия" %}
@@ -173,7 +174,7 @@ layout:
 
 | Опция                                                                                                                                                          | Описание                                                            | Аргументы                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <p><img src="../../../.gitbook/assets/earth_head.png" alt="" data-size="line"> <strong>Отправить веб-запрос</strong><br><code>game_send_web_request</code></p> | Отправляет веб-запрос с выбранным методом и телом на выбранный URL. | <p><a href="../arguments/text.md"><img src="../../../.gitbook/assets/book.png" alt="" data-size="line"></a> <strong>URL</strong><br><a href="../arguments/text.md"><img src="../../../.gitbook/assets/book.png" alt="" data-size="line"></a> <strong>Тело запроса</strong><br><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Тип запроса</strong> <a data-footnote-ref href="#user-content-fn-61"><strong><code>-></code></strong></a><br><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Медиа тип запроса</strong> <a data-footnote-ref href="#user-content-fn-62"><strong><code>-></code></strong></a></p> |
+| <p><img src="../../../.gitbook/assets/earth_head.png" alt="" data-size="line"> <strong>Отправить веб-запрос</strong><br><code>game_send_web_request</code></p> | Отправляет веб-запрос с выбранным методом и телом на выбранный URL. | <p><a href="../arguments/text.md"><img src="../../../.gitbook/assets/book.png" alt="" data-size="line"></a> <strong>URL</strong><br><a href="../arguments/text.md"><img src="../../../.gitbook/assets/book.png" alt="" data-size="line"></a> <strong>Тело запроса</strong><br><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Тип запроса</strong> <a data-footnote-ref href="#user-content-fn-62"><strong><code>-></code></strong></a><br><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Медиа тип запроса</strong> <a data-footnote-ref href="#user-content-fn-63"><strong><code>-></code></strong></a></p> |
 {% endtab %}
 {% endtabs %}
 
@@ -390,15 +391,57 @@ layout:
     * Нормальная
     * Сложная
 
-[^60]: * Ясная
+[^60]: * Отключение рейдов (disableRaids)
+    * Смена дня и ночи (doDaylightCycle)
+    * Выпадение экипировки сущностей (doEntityDrops)
+    * Распространение огня (doFireTick)
+    * Мгновенное возрождение (doImmediateRespawn)
+    * Появление фантомов (doInsomnia)
+    * Выпадение добычи с мобов (doMobLoot)
+    * Появление мобов (doMobSpawning)
+    * Патрули Разбойников (doPatrolSpawning)
+    * Выпадение блоков (doTileDrops)
+    * Странствующие торговцы (doTraderSpawning)
+    * Изменения погоды (doWeatherCycle)
+    * Урон от утопления (drowningDamage)
+    * Урон от падения (fallDamage)
+    * Урон от огня (fireDamage)
+    * Прощение умерших игроков (forgiveDeadPlayers)
+    * Сохранение инвентаря при смерти (keepInventory)
+    * Разрушительные действия мобов (mobGriefing)
+    * Снаряды могут разрушать блоки (projectilesCanBreakBlocks)
+    * Сообщения о смерти (showDeathMessages)
+    * Регенерация здоровья (naturalRegeneration)
+    * Слепая ярость (universalAnger)
+    * Процент спящих (playersSleepingPercentage)
+    * Малый экран отладки (reducedDebugInfo)
+    * Урон от замерзания (freezeDamage)
+    * Частота случайных тиков (randomTickSpeed)
+    * Предел сущностей в одном блоке (maxEntityCramming)
+    * Радиус области возрождения (spawnRadius)
+    * Возобновление источников лавы (lavaSourceConversion)
+    * Возобновление источников воды (waterSourceConversion)
+    * Потеря части добычи при взрыве динамита (tntExplosionDropDecay)
+    * Потеря части добычи при взрыве от взаимодействия с блоком (blockExplosionDropDecay)
+    * Потеря части добычи при взрыве моба (mobExplosionDropDecay)
+    * Создание только по рецепту (doLimitedCrafting)
+    * Время прохождения портала Незера вне творческого режима (playersNetherPortalDefaultDelay)
+    * Время прохождения портала Незера в творческом режиме (playersNetherPortalCreativeDelay)
+    * Высота снежного покрова (showAccumulationHeight)
+    * Радиус чанков возрождения (shawnChunkRadius)
+    * Появление Хранителей (doWardenSpawning)
+    * Исчезновение брошенного эндер-жемчуга при смерти (enderPearlsVanishOnDeath)
+    * Распространение лозы (doVinesSpread)
+
+[^61]: * Ясная
     * Дождливая
     * Гроза
 
-[^61]: * GET
+[^62]: * GET
     * HEAD
     * POST
     * PUT
     * DELETE
 
-[^62]: * Обычный текст (text/plain)
+[^63]: * Обычный текст (text/plain)
     * JSON (application/json)
