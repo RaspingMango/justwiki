@@ -18,7 +18,7 @@ layout:
 
 # Вызвать функцию
 
-<figure><img src="../../../.gitbook/assets/lapis_ore.png" alt="" width="150"><figcaption><p>Блок кода</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/lapis_ore.png" alt="" width="150"><figcaption></figcaption></figure>
 
 **Тип:** Действие\
 **Текстовый идентификатор:** `call_function`

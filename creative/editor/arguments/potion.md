@@ -15,7 +15,7 @@ layout:
 
 # Зелье
 
-<figure><img src="../../../.gitbook/assets/dragon_breath.png" alt=""><figcaption><p>Значение</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/dragon_breath.png" alt=""><figcaption></figcaption></figure>
 
 **Команда получения:** `/potion`\
 **Ячейка:** <img src="../../../.gitbook/assets/magenta_stained_glass_pane.png" alt="" data-size="line">\

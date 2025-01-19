@@ -15,7 +15,7 @@ layout:
 
 # Событие мира
 
-<figure><img src="../../../.gitbook/assets/redstone_block.png" alt="" width="150"><figcaption><p>Блок кода</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/redstone_block.png" alt="" width="150"><figcaption></figcaption></figure>
 
 **Тип:** Событие\
 **Текстовый идентификатор:** `world_event`

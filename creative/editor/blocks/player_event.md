@@ -17,7 +17,7 @@ layout:
 
 # Событие игрока
 
-<figure><img src="../../../.gitbook/assets/diamond_block.png" alt="" width="150"><figcaption><p>Блок кода</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/diamond_block.png" alt="" width="150"><figcaption></figcaption></figure>
 
 **Тип:** Событие\
 **Текстовый идентификатор:** `player_event`

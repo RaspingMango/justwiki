@@ -17,7 +17,7 @@ layout:
 
 # Переменная
 
-<figure><img src="../../../../.gitbook/assets/magma_cream.png" alt="" width="150"><figcaption><p>Значение</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/magma_cream.png" alt="" width="150"><figcaption></figcaption></figure>
 
 **Команда получения:** [`/variable`](#user-content-fn-1)[^1]\
 **Ячейка:** <img src="../../../../.gitbook/assets/green_stained_glass_pane.png" alt="" data-size="line">\

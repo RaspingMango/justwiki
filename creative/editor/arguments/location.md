@@ -15,7 +15,7 @@ layout:
 
 # Местоположение
 
-<figure><img src="../../../.gitbook/assets/paper.png" alt="" width="150"><figcaption><p>Значение</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/paper.png" alt="" width="150"><figcaption></figcaption></figure>
 
 **Команда получения:** [`/location`](#user-content-fn-1)[^1]\
 **Ячейка:** <img src="../../../.gitbook/assets/lime_stained_glass_pane.png" alt="" data-size="line">\

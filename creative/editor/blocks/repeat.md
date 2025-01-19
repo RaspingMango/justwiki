@@ -15,7 +15,7 @@ layout:
 
 # Повторение
 
-<figure><img src="../../../.gitbook/assets/prismarine.gif" alt="" width="150"><figcaption><p>Блок кода</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/prismarine.gif" alt="" width="150"><figcaption></figcaption></figure>
 
 **Тип:** Действие\
 **Текстовый идентификатор:** `repeat`

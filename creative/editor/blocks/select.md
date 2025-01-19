@@ -17,7 +17,7 @@ layout:
 
 # Выбрать цель
 
-<figure><img src="../../../.gitbook/assets/purpur_block.png" alt="" width="150"><figcaption><p>Блок кода</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/purpur_block.png" alt="" width="150"><figcaption></figcaption></figure>
 
 **Тип:** Действие\
 **Текстовый идентификатор:** `select_action`

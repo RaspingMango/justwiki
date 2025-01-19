@@ -15,7 +15,7 @@ layout:
 
 # Функция
 
-<figure><img src="../../../.gitbook/assets/lapis_block.png" alt="" width="150"><figcaption><p>Блок кода</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/lapis_block.png" alt="" width="150"><figcaption></figcaption></figure>
 
 **Тип:** Функция\
 **Текстовый идентификатор:** `function`
@@ -34,7 +34,7 @@ layout:
 * [<img src="../../../.gitbook/assets/item_frame.png" alt="" data-size="line">](../arguments/item.md) **Значок функции**
 * [<img src="../../../.gitbook/assets/book.png" alt="" data-size="line">](../arguments/text.md) **Описание функции**
 
-Функцию можно вызвать при помощи блока [<img src="../../../.gitbook/assets/lapis_ore.png" alt="" data-size="line"> **Вызвать функцию**](call\_function.md).
+Функцию можно вызвать при помощи блока [<img src="../../../.gitbook/assets/lapis_ore.png" alt="" data-size="line"> **Вызвать функцию**](call_function.md).
 
 [^1]: * Скрыть
     * Отображать

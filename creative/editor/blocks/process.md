@@ -15,7 +15,7 @@ layout:
 
 # Процесс
 
-<figure><img src="../../../.gitbook/assets/emerald_block.png" alt="" width="150"><figcaption><p>Блок кода</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/emerald_block.png" alt="" width="150"><figcaption></figcaption></figure>
 
 **Тип:** Процесс\
 **Текстовый идентификатор:** `process`
@@ -34,7 +34,7 @@ layout:
 * [<img src="../../../.gitbook/assets/item_frame.png" alt="" data-size="line">](../arguments/item.md) **Значок процесса**
 * [<img src="../../../.gitbook/assets/book.png" alt="" data-size="line">](../arguments/text.md) **Описание процесса**
 
-Процесс можно запустить при помощи блока [<img src="../../../.gitbook/assets/emerald_ore.png" alt="" data-size="line"> **Запустить процесс**](start\_process.md).
+Процесс можно запустить при помощи блока [<img src="../../../.gitbook/assets/emerald_ore.png" alt="" data-size="line"> **Запустить процесс**](start_process.md).
 
 [^1]: * Скрыть
     * Отображать

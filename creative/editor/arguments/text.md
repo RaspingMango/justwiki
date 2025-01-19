@@ -15,7 +15,7 @@ layout:
 
 # Текст
 
-<figure><img src="../../../.gitbook/assets/book.png" alt="" width="150"><figcaption><p>Значение</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/book.png" alt="" width="150"><figcaption></figcaption></figure>
 
 **Команда получения:** [`/text`](#user-content-fn-1)[^1]\
 **Ячейка:** <img src="../../../.gitbook/assets/light_blue_stained_glass_pane.png" alt="" data-size="line">\

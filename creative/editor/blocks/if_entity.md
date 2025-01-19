@@ -17,7 +17,7 @@ layout:
 
 # Если сущность
 
-<figure><img src="../../../.gitbook/assets/bricks.png" alt="" width="150"><figcaption><p>Блок кода</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/bricks.png" alt="" width="150"><figcaption></figcaption></figure>
 
 **Тип:** Условие\
 **Текстовый идентификатор:** `if_entity`

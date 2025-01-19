@@ -17,7 +17,7 @@ layout:
 
 # Запустить процесс
 
-<figure><img src="../../../.gitbook/assets/emerald_ore.png" alt="" width="150"><figcaption><p>Блок кода</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/emerald_ore.png" alt="" width="150"><figcaption></figcaption></figure>
 
 **Тип:** Действие\
 **Текстовый идентификатор:** `start_process`

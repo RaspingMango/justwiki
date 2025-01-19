@@ -15,7 +15,7 @@ layout:
 
 # Действие над сущностью
 
-<figure><img src="../../../.gitbook/assets/mossy_cobblestone.png" alt="" width="150"><figcaption><p>Блок кода</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/mossy_cobblestone.png" alt="" width="150"><figcaption></figcaption></figure>
 
 **Тип:** Действие\
 **Текстовый идентификатор:** `entity_action`

@@ -15,7 +15,7 @@ layout:
 
 # Звук
 
-<figure><img src="../../../.gitbook/assets/nautilus_shell.png" alt="" width="150"><figcaption><p>Значение</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/nautilus_shell.png" alt="" width="150"><figcaption></figcaption></figure>
 
 **Команда получения:** `/sound`\
 **Ячейка:** <img src="../../../.gitbook/assets/purple_stained_glass_pane.png" alt="" data-size="line">\

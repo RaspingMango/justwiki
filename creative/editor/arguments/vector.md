@@ -15,7 +15,7 @@ layout:
 
 # Вектор
 
-<figure><img src="../../../.gitbook/assets/prismarine_shard.png" alt="" width="150"><figcaption><p>Значение</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/prismarine_shard.png" alt="" width="150"><figcaption></figcaption></figure>
 
 **Команда получения:** [`/vector`](#user-content-fn-1)[^1]\
 **Ячейка:** <img src="../../../.gitbook/assets/cyan_stained_glass_pane.png" alt="" data-size="line">\

@@ -15,7 +15,7 @@ layout:
 
 # Действие над игроком
 
-<figure><img src="../../../.gitbook/assets/cobblestone.png" alt="" width="150"><figcaption><p>Блок кода</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/cobblestone.png" alt="" width="150"><figcaption></figcaption></figure>
 
 **Тип:** Действие\
 **Текстовый идентификатор:** `player_action`
