@@ -223,7 +223,7 @@ layout:
 {% endtab %}
 
 {% tab title="Мир" %}
-<img src="../../../.gitbook/assets/redstone.png" alt="" data-size="line"> **Связанный с миром или кодом значения.**
+<img src="../../../.gitbook/assets/redstone.png" alt="" data-size="line"> **Связанные с миром или кодом значения.**
 
 ***
 
@@ -233,6 +233,8 @@ layout:
 | <p><img src="../../../.gitbook/assets/repeating_command_block.gif" alt="" data-size="line"> <strong>Процент использования процессора</strong><br><code>cpu_usage</code></p>                  | <p>Получает процент нагрузки миром процессора сервера.<br><br><img src="../../../.gitbook/assets/symbol_red_barrier.png" alt=""> <strong>Без цели</strong></p>                          | [<img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line">](number.md) **От 0% до 100%**                       |
 | <p><img src="../../../.gitbook/assets/impulse_command_block.gif" alt="" data-size="line"> <strong>Процент использования процессора частицами</strong><br><code>particle_cpu_usage</code></p> | <p>Получает процент нагрузки процессора сервера созданием частиц.<br><br><img src="../../../.gitbook/assets/symbol_red_barrier.png" alt=""> <strong>Без цели</strong></p>               | [<img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line">](number.md) **От 0% до 100%**                       |
 | <p><img src="../../../.gitbook/assets/chain_command_block.gif" alt="" data-size="line"> <strong>TPS сервера</strong><br><code>server_tps</code></p>                                          | <p>Получает количество Тиков За Секунду (TPS), которое может обработать сервер.<br><br><img src="../../../.gitbook/assets/symbol_red_barrier.png" alt=""> <strong>Без цели</strong></p> | [<img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line">](number.md) **От 0 до 20 (чем больше - тем лучше)** |
+| <p><img src="../../../.gitbook/assets/clock.png" alt="" data-size="line"> <strong>UNIX-время</strong><br><code>timestamp</code></p>                                                          | <p>Получает текущее время как одно число в миллисекундах.<br><br><img src="../../../.gitbook/assets/symbol_red_barrier.png" alt=""> <strong>Без цели</strong></p>                       | [<img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line">](number.md) **Текущее время**                       |
+| <p><img src="../../../.gitbook/assets/clock.png" alt="" data-size="line"> <strong>Текущее время сервера</strong><br><code>server_current_tick</code></p>                                     | <p>Получает текущее время сервера в тиках.<br><br><img src="../../../.gitbook/assets/symbol_red_barrier.png" alt=""> <strong>Без цели</strong></p>                                      | [<img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line">](number.md) **Текущее время**                       |
 {% endtab %}
 {% endtabs %}
 
