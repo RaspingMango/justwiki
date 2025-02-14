@@ -24,9 +24,10 @@ description: Состав персонала сервера на текущий 
 
 ## Разработчики
 
+* [<img src="https://mc-heads.net/avatar/5ff55c0d-8b4a-43cd-9900-ae84f5b20abc/64.png" alt="" data-size="line">](https://ru.namemc.com/profile/CororoDev) **CororoDev** ([Discord](https://discordapp.com/users/373389455899492354))
+
 ### Creative+
 
-* [<img src="https://mc-heads.net/avatar/5ff55c0d-8b4a-43cd-9900-ae84f5b20abc/64.png" alt="" data-size="line">](https://ru.namemc.com/profile/CororoDev) **CororoDev** ([Discord](https://discordapp.com/users/373389455899492354))
 * [<img src="https://mc-heads.net/avatar/1f1d2f1e-2339-44c5-a057-1f7acaaa8153/64.png" alt="" data-size="line">](https://ru.namemc.com/profile/White_Wolf__) **White\_Wolf\_\_** ([Discord](https://discordapp.com/users/778041773809205258))
 
 ### SkyBlockM
