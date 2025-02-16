@@ -21,7 +21,7 @@ layout:
 
 ### Значения
 
-Значения можно получить с помощью специальных команд, либо используя <img src="../../../.gitbook/assets/iron_ingot.png" alt="" data-size="line"> [**Меню значений**](#user-content-fn-1)[^1], открывающееся в редакторе кода нажатием ПКМ по железному слитку, установленному по умолчанию в девятый слот.
+Значения можно получить с помощью специальных команд, либо используя <img src="../../../.gitbook/assets/iron_ingot.png" alt="" data-size="line"> [**Меню значений**](#user-content-fn-1)[^1], открывающееся в редакторе кода командой `/values` или нажатием ПКМ по железному слитку, установленному по умолчанию в девятый слот.
 
 * [<img src="../../../.gitbook/assets/book.png" alt="" data-size="line"> **Текст**](text.md)
 * [<img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line"> **Число**](number.md)
@@ -33,9 +33,9 @@ layout:
 * [<img src="../../../.gitbook/assets/magma_cream.png" alt="" data-size="line"> **Переменная**](variable/)
   * [<img src="../../../.gitbook/assets/ender_chest.png" alt="" data-size="line"> **Список**](variable/list.md)
   * [<img src="../../../.gitbook/assets/chest_minecart.png" alt="" data-size="line"> **Словарь**](variable/dictionary.md)
-* [<img src="../../../.gitbook/assets/name_tag.png" alt="" data-size="line"> **Игровое значение**](game\_value.md)
+* [<img src="../../../.gitbook/assets/name_tag.png" alt="" data-size="line"> **Игровое значение**](game_value.md)
 * <img src="../../../.gitbook/assets/white_dye.png" alt="" data-size="line"> [**Любое значение**](#user-content-fn-2)[^2]
 
-[^1]: ![](../../../.gitbook/assets/values\_menu.png)
+[^1]: ![](../../../.gitbook/assets/values_menu.png)
 
 [^2]: Представляет из себя любое значение из перечисленных выше.

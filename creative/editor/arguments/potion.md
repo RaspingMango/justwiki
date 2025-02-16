@@ -32,6 +32,14 @@ layout:
 * Нажатие <kbd>ЛКМ</kbd> накладывает эффект зелья на вас.
 * Нажатие <kbd>Shift</kbd> + <kbd>ЛКМ</kbd> снимает эффект зелья.
 
+#### Примеры использования команды:
+
+`/potion speed` - получить зелье скорости\
+`/potion speed 1` - получить зелье скорости 1 уровня\
+» Если не указать уровень, зелье будет выдано с 0 уровнем.\
+`/potion speed 1 1200` - получить зелье скорости 1 уровня с длительностью 1 минута (1200 тиков)\
+» Если не указать длительность, зелье будет выдано с бесконечной длительностью.
+
 ### Каталог зелий
 
 {% tabs %}
@@ -69,7 +77,24 @@ layout:
 {% endtab %}
 
 {% tab title="Негативные" %}
-
+| Зелье                                                                                                                                                         | Описание                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| <p><img src="../../../.gitbook/assets/code_potion_unluck.png" alt="" data-size="line"> <strong>Невезение</strong><br><code>unluck</code></p>                  | Уменьшает навык рыбалки в зависимости от значения `уровень`.                     |
+| <p><img src="../../../.gitbook/assets/code_potion_blindness.png" alt="" data-size="line"> <strong>Слепота</strong><br><code>blindness</code></p>              | Ухудшает видимость игрока с помощью чёрного тумана и отключает бег.              |
+| <p><img src="../../../.gitbook/assets/code_potion_hunger.png" alt="" data-size="line"> <strong>Голод</strong><br><code>hunger</code></p>                      | Увеличивает скорость потери единиц сытости на `0.1 × уровень` в секунду.         |
+| <p><img src="../../../.gitbook/assets/code_potion_harm.png" alt="" data-size="line"> <strong>Моментальный урон</strong><br><code>harm</code></p>              | Мгновенно наносит `3 × 2 ^ уровень` единиц урона.                                |
+| <p><img src="../../../.gitbook/assets/code_potion_levitation.png" alt="" data-size="line"> <strong>Левитация</strong><br><code>levitation</code></p>          | Поднимает сущность вверх со скоростью `0.875 × уровень` блоков в секунду.        |
+| <p><img src="../../../.gitbook/assets/code_potion_slow_digging.png" alt="" data-size="line"> <strong>Усталость</strong><br><code>slow_digging</code></p>      | Уменьшает скорость добычи и скорость атаки на `10% × уровень`.                   |
+| <p><img src="../../../.gitbook/assets/code_potion_confusion.png" alt="" data-size="line"> <strong>Тошнота</strong><br><code>confusion</code></p>              | Раскачивает и искажает зрение игрока.                                            |
+| <p><img src="../../../.gitbook/assets/code_potion_poison.png" alt="" data-size="line"> <strong>Отравление</strong><br><code>poison</code></p>                 | Наносит `1` единиц урона каждые `1.25 ÷ уровень` секунд.                         |
+| <p><img src="../../../.gitbook/assets/code_potion_slow.png" alt="" data-size="line"> <strong>Замедление</strong><br><code>slow</code></p>                     | Уменьшает скорость передвижения на `15% × уровень`.                              |
+| <p><img src="../../../.gitbook/assets/code_potion_weakness.png" alt="" data-size="line"> <strong>Слабость</strong><br><code>weakness</code></p>               | Уменьшает урон от ближнего боя на `4 × уровень`.                                 |
+| <p><img src="../../../.gitbook/assets/code_potion_wither.png" alt="" data-size="line"> <strong>Иссушение</strong><br><code>wither</code></p>                  | Наносит `1` единиц урона каждые `2 ÷ уровень` секунд (и может убить).            |
+| <p><img src="../../../.gitbook/assets/code_potion_darkness.png" alt="" data-size="line"> <strong>Тьма</strong><br><code>darkness</code></p>                   | Сильно ухудшает видимость игрока с помощью чёрного тумана и уменьшением яркости. |
+| <p><img src="../../../.gitbook/assets/code_potion_wind_charged.png" alt="" data-size="line"> <strong>Ветровой заряд</strong><br><code>wind_charged</code></p> | Создаёт заряд ветра на месте смерти сущности.                                    |
+| <p><img src="../../../.gitbook/assets/code_potion_weaving.png" alt="" data-size="line"> <strong>Плетение</strong><br><code>weaving</code></p>                 | Создаёт блок паутины на месте смерти сущности.                                   |
+| <p><img src="../../../.gitbook/assets/code_potion_oozing.png" alt="" data-size="line"> <strong>Слизистость</strong><br><code>oozing</code></p>                | Создаёт 2 слизня среднего размера на месте смерти сущности.                      |
+| <p><img src="../../../.gitbook/assets/code_potion_infested.png" alt="" data-size="line"> <strong>Заражение</strong><br><code>infested</code></p>              | Создаёт от 1 до 3 чешуйниц на месте смерти сущности.                             |
 {% endtab %}
 {% endtabs %}
 
