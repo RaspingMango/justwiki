@@ -21,7 +21,7 @@ layout:
 
 ### Значения
 
-Значения можно получить с помощью специальных команд, либо используя <img src="../../../.gitbook/assets/iron_ingot.png" alt="" data-size="line"> [**Меню значений**](#user-content-fn-1)[^1], открывающееся в редакторе кода командой `/values` или нажатием ПКМ по железному слитку, установленному по умолчанию в девятый слот.
+Значения можно получить с помощью специальных команд, либо используя <img src="../../../.gitbook/assets/iron_ingot.png" alt="" data-size="line"> [**Меню значений**](#user-content-fn-1)[^1], открывающееся в редакторе кода командой `/values` или нажатием <kbd>ПКМ</kbd> по железному слитку, установленному по умолчанию в девятый слот.
 
 * [<img src="../../../.gitbook/assets/book.png" alt="" data-size="line"> **Текст**](text.md)
 * [<img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line"> **Число**](number.md)
