@@ -39,7 +39,7 @@ layout:
 
 Игроки, имеющие ранг Star и выше могут использовать команду `/item`, позволяющую изменять различные параметры предмета, такие как название, описание, прочность и т.д.
 
-### WorldEdit
+### [WorldEdit](world.md#worldedit)
 
 В зависимости от ранга, игрокам предоставляется доступ к различным командам плагина WorldEdit, который является очень полезным инструментом в строительстве.
 
@@ -51,4 +51,4 @@ layout:
 
 Во время игры вас будут сопровождать подсказки над хотбаром. Отключить их можно командой `/hints off`.
 
-<table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><strong>Мир</strong></td><td align="center"><em>→</em></td><td></td><td><a href="world.md">world.md</a></td></tr><tr><td align="center"><strong>Редактор кода</strong></td><td align="center"><em>→</em></td><td></td><td><a href="editor/">editor</a></td></tr><tr><td align="center"><strong>Редактор предметов</strong></td><td align="center"><em>→</em></td><td></td><td><a href="broken-reference">Broken link</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><strong>Мир</strong></td><td align="center"><em>→</em></td><td></td><td><a href="world.md">world.md</a></td></tr><tr><td align="center"><strong>Редактор кода</strong></td><td align="center"><em>→</em></td><td></td><td><a href="editor/">editor</a></td></tr><tr><td align="center"><strong>Рекомендуемые дополнения</strong></td><td align="center"><em>→</em></td><td></td><td><a href="../#dlya-creative">#dlya-creative</a></td></tr></tbody></table>
