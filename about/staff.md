@@ -42,8 +42,8 @@ description: Состав персонала сервера на текущий 
 
 * [<img src="https://mc-heads.net/avatar/ca34b487-238c-4ad8-9b7a-77e40123a08a/64.png" alt="" data-size="line">](https://ru.namemc.com/profile/Miwo4ka) **Miwo4ka** ([Discord](https://discordapp.com/users/1114548370351071272))\
   └ Старший модератор: отвечает за текущий состав саппортов и модераторов.
-* [<img src="https://mc-heads.net/avatar/8de63aa3-e15f-414b-9f21-ff0de0303f62/64.png" alt="" data-size="line">](https://ru.namemc.com/profile/Firchex) **Firchex** ([Discord](https://discordapp.com/users/267275356539584522))
-* [<img src="https://mc-heads.net/avatar/23b4a538-f093-4fc7-9c0d-41d1b5283a57/64.png" alt="" data-size="line">](https://ru.namemc.com/profile/jAngelius) **jAngelius** ([Discord](https://discordapp.com/users/567791580744908946))
+* [<img src="https://mc-heads.net/avatar/8de63aa3-e15f-414b-9f21-ff0de0303f62/64.png" alt="" data-size="line">](https://ru.namemc.com/profile/Firchex) **Firchex** ([Discord](https://discordapp.com/users/267275356539584522)
+* [<img src="https://mc-heads.net/avatar/23b4a538f0934fc79c0d41d1b5283a57/64.png" alt="" data-size="line">](https://ru.namemc.com/profile/jAngelius)  **jAngelius** ([Discord](https://discordapp.com/users/567791580744908946))
 * [<img src="https://mc-heads.net/avatar/1db52dfa-1650-42f1-aac8-9ce973028936/64.png" alt="" data-size="line">](https://ru.namemc.com/profile/Bumbukio) **Bumbukio** ([Discord](https://discordapp.com/users/702865132509986957))
 * [<img src="https://mc-heads.net/avatar/ec6a8e14-1b11-4963-9ad6-6593c44ff655/64.png" alt="" data-size="line">](https://ru.namemc.com/profile/koi9ia) **koi9ia** ([Discord](https://discordapp.com/users/853741418882662420))
 
@@ -52,6 +52,7 @@ description: Состав персонала сервера на текущий 
 * [<img src="https://mc-heads.net/avatar/7d9aa7c6-986d-4d63-a0ea-7842200c69b1/64.png" alt="" data-size="line">](https://ru.namemc.com/profile/RaspingMango637) **RaspingMango637** ([Discord](https://discordapp.com/users/208242168823808001))
 * <img src="https://mc-heads.net/avatar/1aac1fa5e793985fcf7ac0ffebdd32bd0da4d699e8140560302a88275bfc150b/" alt="" data-size="line"> **cocomard0088** ([Discord](https://discordapp.com/users/1196131473707765812))
 * [<img src="https://mc-heads.net/avatar/ca7eb822-c24f-4ad3-8e37-7e31e30c556f/64.png" alt="" data-size="line">](https://ru.namemc.com/profile/Bebeika) **Bebeika** ([Discord](https://discordapp.com/users/445197088980992015))
+* [<img src="https://mc-heads.net/avatar/37c2c483-fcfe-4474-9a5a-5cb2933976a9/64.png" alt="" data-size="line">](https://ru.namemc.com/profile/Imipramine) **Imipramine** ([Discord](https://discordapp.com/users/1286003906232455199))
 
 ## Локализаторы
 
