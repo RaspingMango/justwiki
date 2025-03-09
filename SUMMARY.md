@@ -52,3 +52,7 @@
       * [Список](creative/editor/arguments/variable/list.md)
       * [Словарь](creative/editor/arguments/variable/dictionary.md)
     * [Игровое значение](creative/editor/arguments/game_value.md)
+
+## SkyBlockM
+
+* [О режиме](skyblockm/about.md)

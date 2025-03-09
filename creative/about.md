@@ -47,8 +47,10 @@ layout:
 
 Каждому игроку доступна команда `/hdb`, предоставляющая доступ к огромной библиотеке кастомных голов, которые можно использовать в различных целях.
 
+## Рекомендуемые дополнения
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>🔧 <strong>JustHelper</strong></td><td>Модификация, которая помогает ориентироваться по редактору кода и быстро находить потерянные элементы в большом коде.</td><td></td><td><a href="https://modrinth.com/mod/justhelper">https://modrinth.com/mod/justhelper</a></td></tr><tr><td>🔧 <strong>JustUtils</strong></td><td>Модификация, повышающая удобство кодинга и перемещение по редактору кода.</td><td></td><td><a href="https://modrinth.com/mod/justutils">https://modrinth.com/mod/justutils</a></td></tr><tr><td>🔧 <strong>JMC-Codespace</strong></td><td>Модификация, добавляющая больше возможностей для кодинга.</td><td></td><td><a href="https://modrinth.com/mod/jmc-codespace">https://modrinth.com/mod/jmc-codespace</a></td></tr></tbody></table>
+
 ***
 
 Во время игры вас будут сопровождать подсказки над хотбаром. Отключить их можно командой `/hints off`.
-
-<table data-view="cards"><thead><tr><th align="center"></th><th align="center"></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><strong>Мир</strong></td><td align="center"><em>→</em></td><td></td><td><a href="world.md">world.md</a></td></tr><tr><td align="center"><strong>Редактор кода</strong></td><td align="center"><em>→</em></td><td></td><td><a href="editor/">editor</a></td></tr><tr><td align="center"><strong>Рекомендуемые дополнения</strong></td><td align="center"><em>→</em></td><td></td><td><a href="../#dlya-creative">#dlya-creative</a></td></tr></tbody></table>
