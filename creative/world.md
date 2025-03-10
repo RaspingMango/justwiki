@@ -4,7 +4,7 @@
 
 Находясь на спавне режима[^1] вам нужно открыть меню <img src="../.gitbook/assets/grass_block.png" alt="" data-size="line"> [**Мои миры**](#user-content-fn-2)[^2] и нажать на <img src="../.gitbook/assets/cyan_terracotta.png" alt="" data-size="line"> **Создать мир**. Вам представится выбор из четырёх типов мира.
 
-<table><thead><tr><th width="55" align="center">№</th><th width="299">Тип мира</th><th>Описание</th></tr></thead><tbody><tr><td align="center">1</td><td>Пустой</td><td>Каменная платформа 32x32 блока.</td></tr><tr><td align="center">2</td><td>Плоский</td><td>Ванильный плоский мир, 4 блока в высоту.</td></tr><tr><td align="center">3*</td><td>Кодинг</td><td>Этаж редактора кода, растянутый во всю ширину мира.</td></tr><tr><td align="center">4*</td><td>Отладка</td><td>Ванильный мир отладки.</td></tr></tbody></table>
+<table><thead><tr><th width="55" data-type="number">№</th><th width="299">Тип мира</th><th>Описание</th></tr></thead><tbody><tr><td>1</td><td>Пустой</td><td>Каменная платформа 32x32 блока.</td></tr><tr><td>2</td><td>Плоский</td><td>Ванильный плоский мир, 4 блока в высоту.</td></tr><tr><td>3</td><td>Кодинг*</td><td>Этаж редактора кода, растянутый во всю ширину мира.</td></tr><tr><td>4</td><td>Отладка*</td><td>Ванильный мир отладки.</td></tr></tbody></table>
 
 \*Секретный тип мира, скрытый в меню.
 
