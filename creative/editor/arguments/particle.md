@@ -95,6 +95,24 @@ layout:
 | <p><img src="../../../.gitbook/assets/iron_nugget.png" alt="" data-size="line"> <strong>Маленький заряд ветра</strong><br><code>small_gust</code></p>                       | Частицы маленького заряда ветра.        |                                                               |
 | <p><img src="../../../.gitbook/assets/dead_tube_coral_block.png" alt="" data-size="line"> <strong>Заражение</strong><br><code>infested</code></p>                           | Частицы заражения камня чешуйницей.     |                                                               |
 {% endtab %}
+
+{% tab title="Частицы блоков" %}
+<img src="../../../.gitbook/assets/shulker_shell.png" alt="" data-size="line"> **Различные частицы блоков.**
+
+***
+
+| Частица                                                                                                                                                | Описание                   | Дополнительные поля |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------- | ------------------- |
+| <p><img src="../../../.gitbook/assets/lava_bucket.png" alt="" data-size="line"> <strong>Лава</strong><br><code>lava</code></p>                         | Частицы бурления лавы.     |                     |
+| <p><img src="../../../.gitbook/assets/coal.png" alt="" data-size="line"> <strong>Дым</strong><br><code>smoke</code></p>                                | Частицы дыма.              | **Движение**        |
+| <p><img src="../../../.gitbook/assets/coal_block.png" alt="" data-size="line"> <strong>Густой дым</strong><br><code>large_smoke</code></p>             | Частицы густого дыма.      | **Движение**        |
+| <p><img src="../../../.gitbook/assets/soul_soil.png" alt="" data-size="line"> <strong>Души</strong><br><code>soul</code></p>                           | Частицы душ.               | **Движение**        |
+| <p><img src="../../../.gitbook/assets/mycelium.png" alt="" data-size="line"> <strong>Мицелий</strong><br><code>mycelium</code></p>                     | Частицы мицелия.           |                     |
+| <p><img src="../../../.gitbook/assets/music_disc_cat.png" alt="" data-size="line"> <strong>Ноты</strong><br><code>note</code></p>                      | Частицы нот.               | **Цвет**            |
+| <p><img src="../../../.gitbook/assets/netherite_block.png" alt="" data-size="line"> <strong>Портал</strong><br><code>portal</code></p>                 | Частицы портала.           | **Движение**        |
+| <p><img src="../../../.gitbook/assets/respawn_anchor.png" alt="" data-size="line"> <strong>Обратный портал</strong><br><code>reverse_portal</code></p> | Частицы обратного портала. | **Движение**        |
+| <p><img src="../../../.gitbook/assets/enchanting_table.png" alt="" data-size="line"> <strong>Стол зачарования</strong><br><code>enchant</code></p>     | Частицы стола зачарования. |                     |
+{% endtab %}
 {% endtabs %}
 
 [^1]: Можно заменить на: `/part`
