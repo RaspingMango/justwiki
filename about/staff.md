@@ -53,6 +53,7 @@ description: Состав персонала сервера на текущий 
 * <img src="https://mc-heads.net/avatar/1aac1fa5e793985fcf7ac0ffebdd32bd0da4d699e8140560302a88275bfc150b/" alt="" data-size="line"> **cocomard0088** ([Discord](https://discordapp.com/users/1196131473707765812))
 * [<img src="https://mc-heads.net/avatar/ca7eb822-c24f-4ad3-8e37-7e31e30c556f/64.png" alt="" data-size="line">](https://ru.namemc.com/profile/Bebeika) **Bebeika** ([Discord](https://discordapp.com/users/445197088980992015))
 * [<img src="https://mc-heads.net/avatar/37c2c483-fcfe-4474-9a5a-5cb2933976a9/64.png" alt="" data-size="line">](https://ru.namemc.com/profile/Imipramine) **Imipramine** ([Discord](https://discordapp.com/users/1286003906232455199))
+* [<img src="https://mc-heads.net/avatar/c26ee7ea-41ff-4291-8528-a860913cf855/64.png" alt="" data-size="line">](https://ru.namemc.com/profile/Collumy) **Collumy** ([Discord](https://discordapp.com/users/742616969659940874))
 
 ## Локализаторы
 
