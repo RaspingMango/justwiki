@@ -17,6 +17,10 @@ layout:
 
 # О режиме
 
+{% hint style="info" %}
+Прямой адрес для подключения: `creative.justmc.io`
+{% endhint %}
+
 ## **Мир**
 
 └ Основная статья: [Мир](world.md)
