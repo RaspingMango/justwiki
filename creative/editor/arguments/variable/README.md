@@ -17,10 +17,10 @@ layout:
 
 # Переменная
 
-<figure><img src="../../../.gitbook/assets/magma_cream.png" alt="" width="150"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/magma_cream.png" alt="" width="150"><figcaption></figcaption></figure>
 
 **Команда получения:** [`/variable`](#user-content-fn-1)[^1]\
-**Ячейка:** <img src="../../../.gitbook/assets/green_stained_glass_pane.png" alt="" data-size="line">\
+**Ячейка:** <img src="../../../../.gitbook/assets/green_stained_glass_pane.png" alt="" data-size="line">\
 **Текстовый идентификатор:** `variable`
 
 ***
@@ -37,7 +37,7 @@ layout:
 | <p><strong>Сохранённая</strong><br><code>save</code></p> | Работает так же, как игровая, но не очищается.                                                                                                                                                                         |
 | <p><strong>Локальная</strong><br><code>local</code></p>  | Действует в пределах одной ветви кода, она очищается после выполнения этой ветви. Ветвью считается какая-либо строка кода, а также вызывающиеся из неё процессы, у которых выбран режим переменных "общие", и функции. |
 
-В переменные можно встраивать [плейсхолдеры](../#pleiskholdery). Например, если переменную назвать `%player%_var`, то на месте `%player%` образуется ник игрока, который вызвал событие.
+В переменные можно встраивать [плейсхолдеры](../../#pleiskholdery). Например, если переменную назвать `%player%_var`, то на месте `%player%` образуется ник игрока, который вызвал событие.
 
 Кроме того, сами переменные можно встраивать в плейсхолдер `%var(<название переменной>)`. Или:
 

@@ -137,7 +137,7 @@
 * [<img src="../../.gitbook/assets/nautilus_shell.png" alt="" data-size="line"> **Звук**](arguments/sound.md) — значение, используемое для указания аргументов типа звук.
 * [<img src="../../.gitbook/assets/phantom_membrane.png" alt="" data-size="line"> **Эффект частиц**](arguments/particle.md) — значение, используемое для указания аргументов типа частица.
 * [<img src="../../.gitbook/assets/dragon_breath.png" alt="" data-size="line"> **Зелье**](arguments/potion.md) — значение, используемое для указания аргументов типа зелье.
-* [<img src="../../.gitbook/assets/magma_cream.png" alt="" data-size="line"> **Переменная**](arguments/variable.md) — предмет, который может хранить в себе все типы значений. Задать значение можно при помощи действия "установить переменную".
+* [<img src="../../.gitbook/assets/magma_cream.png" alt="" data-size="line"> **Переменная**](arguments/variable/) — предмет, который может хранить в себе все типы значений. Задать значение можно при помощи действия "установить переменную".
 * [<img src="../../.gitbook/assets/name_tag.png" alt="" data-size="line"> **Игровое значение**](arguments/game_value.md) — автоматически определённое значение, которое зависит от текущего состояния игры (например, местоположение игрока).
 
 Помимо значений, существуют ещё такие аргументы, как [<img src="../../.gitbook/assets/item_frame.png" alt="" data-size="line"> **Предмет**](arguments/item.md) и [<img src="../../.gitbook/assets/chiseled_stone_bricks.png" alt="" data-size="line"> **Блок**](arguments/block.md).\
