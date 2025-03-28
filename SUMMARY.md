@@ -55,4 +55,5 @@
 
 ## SkyBlockM
 
-* [О режиме](skyblockm/about.md)
+* [О режиме](skyblockm/about/README.md)
+  * [Персонал](skyblockm/about/staff.md)
