@@ -20,3 +20,9 @@ layout:
 **Текстовый идентификатор:** `map`
 
 ***
+
+## Использование
+
+Для создания словаря используется действие <img src="../../../../.gitbook/assets/chest_minecart.png" alt="" data-size="line"> **Создать словарь** в блоке [<img src="../../../../.gitbook/assets/iron_block.png" alt="" data-size="line"> **Действие с переменной**](../../blocks/variable_action.md).
+
+Словарь состоит из ключей и значений.
