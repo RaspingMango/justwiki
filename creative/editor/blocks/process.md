@@ -36,5 +36,13 @@ layout:
 
 Процесс можно запустить при помощи блока [<img src="../../../.gitbook/assets/emerald_ore.png" alt="" data-size="line"> **Запустить процесс**](start_process.md).
 
+## Принцип работы
+
+<figure><img src="../../../.gitbook/assets/Process_Scheme.png" alt="" width="563"><figcaption><p>Схема, изображающая принцип работы процесса.</p></figcaption></figure>
+
+Процесс, в отличие от функции, запускает собственную строку кода, независимо от строки, где был вызван процесс, то есть блок [<img src="../../../.gitbook/assets/coal_block.png" alt="" data-size="line"> **Контроль действий**](control.md) не будет влиять на воспроизведение основной ветви кода.
+
+Процесс можно запускать с различным [режимом передачи переменных](start_process.md#rezhim-peremennykh) и [целями](start_process.md#cel-processa).
+
 [^1]: * Скрыть
     * Отображать

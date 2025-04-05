@@ -28,18 +28,18 @@ layout:
 
 Поставьте блок в строку и нажмите <kbd>ПКМ</kbd> по нему. В открывшемся меню выберите нужный процесс из списка.
 
-Если процесс скрыт в меню вызова, возьмите значение [<img src="../../../.gitbook/assets/book.png" alt="" data-size="line"> **Текст**](../arguments/text.md) с его названием в активный слот и нажмите <kbd>ПКМ</kbd> по блоку запуска процесса или положите в хранилище, расположенное над тем же блоком.
+Если процесс скрыт в меню вызова, возьмите значение [<img src="../../../.gitbook/assets/book.png" alt="" data-size="line"> **Текст**](../arguments/text.md) с его названием в активный слот и нажмите <kbd>ПКМ</kbd> по блоку запуска процесса или положите в хранилище аргументов, расположенное над тем же блоком.
 
-#### Параметры:
+#### Настройки:
 
 <details>
 
 <summary>Цель процесса</summary>
 
-* Цель события
-* Текущая цель
-* Без цели
-* Каждая цель в выборке
+* <img src="../../../.gitbook/assets/diamond_sword.png" alt="" data-size="line"> **Цель события**
+* <img src="../../../.gitbook/assets/nether_star.gif" alt="" data-size="line"> **Текущая цель**
+* <img src="../../../.gitbook/assets/gunpowder.png" alt="" data-size="line"> **Без цели**
+* <img src="../../../.gitbook/assets/glowstone_dust.png" alt="" data-size="line"> **Каждая цель в выборке**
 
 </details>
 
@@ -47,8 +47,8 @@ layout:
 
 <summary>Режим переменных</summary>
 
-* Не дублировать
-* Дублировать
-* Общие
+* <img src="../../../.gitbook/assets/knowledge_book.png" alt="" data-size="line"> **Не дублировать**
+* <img src="../../../.gitbook/assets/book.png" alt="" data-size="line"> **Дублировать**
+* <img src="../../../.gitbook/assets/writable_book.png" alt="" data-size="line"> **Общие**
 
 </details>

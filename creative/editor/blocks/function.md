@@ -36,5 +36,11 @@ layout:
 
 Функцию можно вызвать при помощи блока [<img src="../../../.gitbook/assets/lapis_ore.png" alt="" data-size="line"> **Вызвать функцию**](call_function.md).
 
+## Принцип работы
+
+<figure><img src="../../../.gitbook/assets/Function_Sheme.png" alt="" width="563"><figcaption><p>Схема, изображающая принцип работы функции.</p></figcaption></figure>
+
+Вы можете вынести часто повторяющийся код в функцию и вызывать её, чтобы сэкономить место кода и ваше время.
+
 [^1]: * Скрыть
     * Отображать
