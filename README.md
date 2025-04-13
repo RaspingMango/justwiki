@@ -1,4 +1,5 @@
 ---
+icon: house
 cover: .gitbook/assets/jw_banner.png
 coverY: 0
 layout:
