@@ -422,23 +422,42 @@ layout:
 
 [^12]: Опция **Закрыть меню** в блоке [**Действие над игроком**](player_action.md) (категория: Инвентарные меню).
 
-[^13]: * Сундук
-    * Раздатчик
-    * Выбрасыватель
-    * Печь
-    * Верстак
-    * Чародейский стол
-    * Зельеварка
-    * Наковальня
-    * Стол кузнеца
-    * Маяк
-    * Воронка
-    * Плавильная печь
-    * Коптильня
-    * Стол картографа
-    * Точило
-    * Камнерез
-    * Сборщик
+[^13]: **Тип инвентаря** `inventory_type`:
+
+    * <img src="../../../.gitbook/assets/chest.png" alt="" data-size="line"> **Сундук**\
+      `chest`
+    * <img src="../../../.gitbook/assets/dispenser.png" alt="" data-size="line"> **Раздатчик**\
+      `dispenser`
+    * <img src="../../../.gitbook/assets/dropper.png" alt="" data-size="line"> **Выбрасыватель**\
+      `dropper`
+    * <img src="../../../.gitbook/assets/furnace.png" alt="" data-size="line"> **Печь**\
+      `furnace`
+    * <img src="../../../.gitbook/assets/crafting_table.png" alt="" data-size="line"> **Верстак**\
+      `workbench`
+    * <img src="../../../.gitbook/assets/enchanting_table.png" alt="" data-size="line"> **Чародейский стол**\
+      `enchanting`
+    * <img src="../../../.gitbook/assets/brewing_stand.png" alt="" data-size="line"> **Зельеварка**\
+      `brewing`
+    * <img src="../../../.gitbook/assets/anvil.png" alt="" data-size="line"> **Наковальня**\
+      `anvil`
+    * <img src="../../../.gitbook/assets/smithing_table.png" alt="" data-size="line"> **Стол кузнеца**\
+      `smithing`
+    * <img src="../../../.gitbook/assets/beacon.png" alt="" data-size="line"> **Маяк**\
+      `beacon`
+    * <img src="../../../.gitbook/assets/hopper.png" alt="" data-size="line"> **Воронка**\
+      `hopper`
+    * <img src="../../../.gitbook/assets/blast_furnace.png" alt="" data-size="line"> **Плавильная печь**\
+      `blast_furnace`
+    * <img src="../../../.gitbook/assets/smoker.png" alt="" data-size="line"> **Коптильня**\
+      `smoker`
+    * <img src="../../../.gitbook/assets/cartography_table.png" alt="" data-size="line"> **Стол картографа**\
+      `cartography`
+    * <img src="../../../.gitbook/assets/grindstone.png" alt="" data-size="line"> **Точило**\
+      `grindstone`
+    * <img src="../../../.gitbook/assets/stonecutter.gif" alt="" data-size="line"> **Камнерез**\
+      `stonecutter`
+    * <img src="../../../.gitbook/assets/crafter.png" alt="" data-size="line"> **Сборщик**\
+      `crafter`
 
 [^14]: * Добавить строку сверху
     * Добавить строку снизу
