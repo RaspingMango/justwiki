@@ -34,11 +34,11 @@ layout:
 * [<img src="../../../.gitbook/assets/item_frame.png" alt="" data-size="line">](../arguments/item.md) **Значок функции**
 * [<img src="../../../.gitbook/assets/book.png" alt="" data-size="line">](../arguments/text.md) **Описание функции**
 
-Функцию можно вызвать при помощи блока [<img src="../../../.gitbook/assets/lapis_ore.png" alt="" data-size="line"> **Вызвать функцию**](call_function.md).
-
 ## Принцип работы
 
 <figure><img src="../../../.gitbook/assets/Function_Sheme.png" alt="" width="563"><figcaption><p>Схема, изображающая принцип работы функции.</p></figcaption></figure>
+
+Функция вызывается в строке кода блоком [<img src="../../../.gitbook/assets/lapis_ore.png" alt="" data-size="line"> **Вызвать функцию**](call_function.md). Воспроизведение кода в строке не будет продолжаться до тех пор, пока функция не завершит своё выполнение.
 
 Вы можете вынести часто повторяющийся код в функцию и вызывать её, чтобы сэкономить место кода и ваше время.
 
