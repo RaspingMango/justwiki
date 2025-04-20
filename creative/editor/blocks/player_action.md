@@ -842,16 +842,30 @@ layout:
     * <img src="../../../.gitbook/assets/glass_pane.png" alt="" data-size="line"> **Каркас**\
       `wireframe`
 
-[^54]: * Видно
-    * Не видно
+[^54]: **Видимость для игрока** `visible_to_self`:
 
-[^55]: * Скин Mojang
-    * Скин JustMC
+    * <img src="../../../.gitbook/assets/lime_dye.png" alt="" data-size="line"> **Видно**\
+      `true`
+    * <img src="../../../.gitbook/assets/gray_dye.png" alt="" data-size="line"> **Не видно**\
+      `false`
 
-[^56]: * Получение урона
-    * Поъём с кровати
-    * Тотем
-    * Древний страж
+[^55]: **Тип сервера скинов** `server_type`:
+
+    * <img src="../../../.gitbook/assets/apple.png" alt="" data-size="line"> **Скин Mojang**\
+      `mojang`
+    * <img src="../../../.gitbook/assets/golden_apple.png" alt="" data-size="line"> **Скин JustMC**\
+      `server`
+
+[^56]: **Тип анимации** `animation`:
+
+    * <img src="../../../.gitbook/assets/iron_sword.png" alt="" data-size="line"> **Получение урона**\
+      `damage`
+    * <img src="../../../.gitbook/assets/red_bed.png" alt="" data-size="line"> **Подъём с кровати**\
+      `wake_up`
+    * <img src="../../../.gitbook/assets/totem_of_undying.png" alt="" data-size="line"> **Тотем**\
+      `totem`
+    * <img src="../../../.gitbook/assets/guardian_head.png" alt="" data-size="line"> **Древний страж**\
+      `jumpscare`
 
 [^57]: * Обычное состояние
     * Полёт на Элитрах
