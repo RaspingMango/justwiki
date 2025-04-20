@@ -251,7 +251,7 @@ layout:
 | <p><img src="../../../.gitbook/assets/black_bed.png" alt="" data-size="line"> <strong>Установить позу игроку</strong><br><code>player_set_pose</code></p>                                         | Устанавливает определённую позу игроку.                                     | <p><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Отображаемая поза</strong> <a data-footnote-ref href="#user-content-fn-57"><strong><code>-></code></strong></a><br><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Блокировка позы</strong> <a data-footnote-ref href="#user-content-fn-58"><strong><code>-></code></strong></a></p> |
 | <p><img src="../../../.gitbook/assets/structure_void.png" alt="" data-size="line"> <strong>Сбросить позу игроку</strong><br><code>player_remove_pose</code></p>                                   | Сбрасывает позу игроку.                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | <p><img src="../../../.gitbook/assets/golden_sword.png" alt="" data-size="line"> <strong>Проиграть анимацию взмаха руки</strong><br><code>player_swing_hand</code></p>                            | Проигрывает для игрока анимацию взмаха руки.                                | [<img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line">](../arguments/enum.md) **Тип руки** [**`->`**](#user-content-fn-59)[^59]                                                                                                                                                                                                                                                                                                                                       |
-| <p><img src="../../../.gitbook/assets/campfire.png" alt="" data-size="line"> <strong>Установить визуальный огонь</strong><br><code>player_set_visual_fire</code></p>                              | Устанавливает игроку эффект горения.                                        | [<img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line">](../arguments/enum.md) **Визуальный огонь** [**`->`**](#user-content-fn-58)[^58]                                                                                                                                                                                                                                                                                                                               |
+| <p><img src="../../../.gitbook/assets/campfire.png" alt="" data-size="line"> <strong>Установить визуальный огонь</strong><br><code>player_set_visual_fire</code></p>                              | Устанавливает игроку эффект горения.                                        | [<img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line">](../arguments/enum.md) **Визуальный огонь** [**`->`**](#user-content-fn-60)[^60]                                                                                                                                                                                                                                                                                                                               |
 | <p><img src="../../../.gitbook/assets/arrow.png" alt="" data-size="line"> <strong>Установить стрелы на игроке</strong><br><code>player_set_arrows_in_body</code></p>                              | Отображает определённое количество стрел на игроке.                         | [<img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line">](../arguments/number.md) **Количество отображаемых стрел**                                                                                                                                                                                                                                                                                                                                                           |
 | <p><img src="../../../.gitbook/assets/bee_head.png" alt="" data-size="line"> <strong>Установить жало пчелы на игроке</strong><br><code>player_set_bee_stingers_in_body</code></p>                 | Отображает определённое количество жал пчёл на игроке.                      | [<img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line">](../arguments/number.md) **Количество отображаемых жал пчёл**                                                                                                                                                                                                                                                                                                                                                        |
 {% endtab %}
@@ -867,27 +867,62 @@ layout:
     * <img src="../../../.gitbook/assets/guardian_head.png" alt="" data-size="line"> **Древний страж**\
       `jumpscare`
 
-[^57]: * Обычное состояние
-    * Полёт на Элитрах
-    * Лежание
-    * Плаванье
-    * Использование Тягуна
-    * Приседание
-    * Длинный прыжок
-    * Смерть
-    * Кваканье (для Жаб)
-    * Использование языка (для Жаб)
-    * Сидение
-    * Рёв (для Хранителя)
-    * Нюханье (для Хранителя)
-    * Появление из земли (для Хранителя)
-    * Зарывание в землю (для Хранителя)
-    * Скольжение (для Вихря)
-    * Выстреливание (для Вихря)
-    * Вдыхание (для Вихря)
+[^57]: **Отображаемая поза** `pose`:
 
-[^58]: * Включить
-    * Выключить
+    * <img src="../../../.gitbook/assets/armor_stand.png" alt="" data-size="line"> **Обычное состояние**\
+      `standing`
+    * <img src="../../../.gitbook/assets/golden_pickaxe.png" alt="" data-size="line"> **Полёт на Элитрах**\
+      `fall_flying`
+    * <img src="../../../.gitbook/assets/red_bed.png" alt="" data-size="line"> **Лежание**\
+      `sleeping`
+    * <img src="../../../.gitbook/assets/water_bucket.png" alt="" data-size="line"> **Плаванье**\
+      `swimming`
+    * <img src="../../../.gitbook/assets/trident.png" alt="" data-size="line"> **Использование Тягуна**\
+      `spin_attack`
+    * <img src="../../../.gitbook/assets/chainmail_leggings.png" alt="" data-size="line"> **Приседание**\
+      `crouching`
+    * <img src="../../../.gitbook/assets/iron_boots.png" alt="" data-size="line"> **Длинный прыжок**\
+      `long_jumping`
+    * <img src="../../../.gitbook/assets/skeleton_skull.png" alt="" data-size="line"> **Смерть**\
+      `dying`
+    * <img src="../../../.gitbook/assets/frogspawn.png" alt="" data-size="line"> **Кваканье (для Жаб)**\
+      `croaking`
+    * <img src="../../../.gitbook/assets/ochre_froglight.png" alt="" data-size="line"> **Использование языка (для Жаб)**\
+      `using_tongue`
+    * <img src="../../../.gitbook/assets/golden_pickaxe.png" alt="" data-size="line"> **Сидение**\
+      `sitting`
+    * <img src="../../../.gitbook/assets/goat_horn.png" alt="" data-size="line"> **Рёв (для Хранителя)**\
+      `roaring`
+    * <img src="../../../.gitbook/assets/golden_pickaxe.png" alt="" data-size="line"> **Нюханье (для Хранителя)**\
+      `sniffing`
+    * <img src="../../../.gitbook/assets/sculk_sensor.gif" alt="" data-size="line"> **Появление из земли (для Хранителя)**\
+      `emerging`
+    * <img src="../../../.gitbook/assets/golden_pickaxe.png" alt="" data-size="line"> **Зарывание в землю (для Хранителя)**\
+      `digging`
+    * <img src="../../../.gitbook/assets/golden_pickaxe.png" alt="" data-size="line"> **Скольжение (для Вихря)**\
+      `sliding`
+    * <img src="../../../.gitbook/assets/golden_pickaxe.png" alt="" data-size="line"> **Выстреливание (для Вихря)**\
+      `shooting`
+    * <img src="../../../.gitbook/assets/golden_pickaxe.png" alt="" data-size="line"> **Вдыхание (для Вихря)**\
+      `inhaling`
 
-[^59]: * Главная
-    * Второстепенная
+[^58]: **Блокировка позы** `locked`:
+
+    * <img src="../../../.gitbook/assets/lime_dye.png" alt="" data-size="line"> **Включить**\
+      `true`
+    * <img src="../../../.gitbook/assets/gray_dye.png" alt="" data-size="line"> **Выключить**\
+      `false`
+
+[^59]: **Тип руки** `hand_type`:
+
+    * <img src="../../../.gitbook/assets/iron_sword.png" alt="" data-size="line"> **Главная**\
+      `main`
+    * <img src="../../../.gitbook/assets/shield.png" alt="" data-size="line"> **Второстепенная**\
+      `off`
+
+[^60]: **Установить визуальный огонь** `visual_fire`:
+
+    * <img src="../../../.gitbook/assets/lime_dye.png" alt="" data-size="line"> **Включить**\
+      `true`
+    * <img src="../../../.gitbook/assets/gray_dye.png" alt="" data-size="line"> **Выключить**\
+      `false`
