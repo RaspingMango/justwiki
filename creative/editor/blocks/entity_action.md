@@ -353,37 +353,39 @@ layout:
     * <img src="../../../.gitbook/assets/tropical_fish_bucket.png" alt="" data-size="line"> **Максимальная задержка**\
       `max_wait`
 
-[^8]: * Максимальное здоровье
-    * Максимальное поглощение
-    * Расстояние следования
-    * Сопротивление отталкиванию
-    * Скорость передвижения
-    * Скорость полёта
-    * Урон атаки
-    * Отталкивание атаки
-    * Скорость атаки
-    * Очки защиты
-    * Очки плотности защиты
-    * Удача рыбалки
-    * Сила прыжка
-    * Шанс подкрепления зомби
-    * Множитель урона от падения
-    * Безопасная высота падения
-    * Масштаб
-    * Высота шага
-    * Гравитация
-    * Расстояние взаимодействия с блоками
-    * Расстояние взаимодействия с сущностями
-    * Скорость ломания блока
-    * Время горения
-    * Сопротивление отбрасыванию от взрыва
-    * Скорость передвижения по замедляющим блокам
-    * Воздух под водой
-    * Скорость передвижения под водой
-    * Скорость копания
-    * Скорость передвижения крадясь
-    * Скорость копания под водой
-    * Коэффициент разящего удара
+[^8]: **Тип атрибута** `attribute_type`:
+
+    * <img src="../../../.gitbook/assets/apple.png" alt="" data-size="line"> **Максимальное здоровье**
+    * <img src="../../../.gitbook/assets/golden_apple.png" alt="" data-size="line"> **Максимальное поглощение**
+    * <img src="../../../.gitbook/assets/bone.png" alt="" data-size="line"> **Расстояние следования**
+    * <img src="../../../.gitbook/assets/shield.png" alt="" data-size="line"> **Сопротивление отталкиванию**
+    * <img src="../../../.gitbook/assets/leather_boots.png" alt="" data-size="line"> **Скорость передвижения**
+    * <img src="../../../.gitbook/assets/elytra.png" alt="" data-size="line"> **Скорость полёта**
+    * <img src="../../../.gitbook/assets/iron_sword.png" alt="" data-size="line"> **Урон атаки**
+    * <img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line"> **Отталкивание атаки**
+    * <img src="../../../.gitbook/assets/golden_sword.png" alt="" data-size="line"> **Скорость атаки**
+    * <img src="../../../.gitbook/assets/iron_chestplate.png" alt="" data-size="line"> **Очки защиты**
+    * <img src="../../../.gitbook/assets/diamond_chestplate.png" alt="" data-size="line"> **Очки плотности защиты**
+    * <img src="../../../.gitbook/assets/emerald.png" alt="" data-size="line"> **Удача рыбалки**
+    * <img src="../../../.gitbook/assets/rabbit_foot.png" alt="" data-size="line"> **Сила прыжка**
+    * <img src="../../../.gitbook/assets/zombie_head.png" alt="" data-size="line"> **Шанс подкрепления зомби**
+    * <img src="../../../.gitbook/assets/feather.png" alt="" data-size="line"> **Множитель урона от падения**
+    * <img src="../../../.gitbook/assets/leather_boots.png" alt="" data-size="line"> **Безопасная высота падения**
+    * <img src="../../../.gitbook/assets/arrow.png" alt="" data-size="line"> **Масштаб**
+    * <img src="../../../.gitbook/assets/iron_boots.png" alt="" data-size="line"> **Высота шага**
+    * <img src="../../../.gitbook/assets/amethyst_shard.png" alt="" data-size="line"> **Гравитация**
+    * <img src="../../../.gitbook/assets/iron_pickaxe.png" alt="" data-size="line"> **Расстояние взаимодействия с блоками**
+    * <img src="../../../.gitbook/assets/golden_axe.png" alt="" data-size="line"> **Расстояние взаимодействия с сущностями**
+    * <img src="../../../.gitbook/assets/diamond_pickaxe.png" alt="" data-size="line"> **Скорость ломания блока**
+    * <img src="../../../.gitbook/assets/campfire.png" alt="" data-size="line"> **Время горения**
+    * <img src="../../../.gitbook/assets/tnt.png" alt="" data-size="line"> **Сопротивление отбрасыванию от взрыва**
+    * <img src="../../../.gitbook/assets/cobweb.png" alt="" data-size="line"> **Скорость передвижения по замедляющим блокам**
+    * <img src="../../../.gitbook/assets/glass_bottle.png" alt="" data-size="line"> **Воздух под водой**
+    * <img src="../../../.gitbook/assets/water_bucket.png" alt="" data-size="line"> **Скорость передвижения под водой**
+    * <img src="../../../.gitbook/assets/golden_pickaxe.png" alt="" data-size="line"> **Скорость копания**
+    * <img src="../../../.gitbook/assets/chainmail_leggings.png" alt="" data-size="line"> **Скорость передвижения крадясь**
+    * <img src="../../../.gitbook/assets/water_bottle.png" alt="" data-size="line"> **Скорость копания под водой**
+    * <img src="../../../.gitbook/assets/iron_sword.png" alt="" data-size="line"> **Коэффициент разящего удара**
 
 [^9]: * Скин Mojang
     * Скин JustMC
