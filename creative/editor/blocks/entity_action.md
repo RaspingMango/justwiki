@@ -355,40 +355,75 @@ layout:
 
 [^8]: **Тип атрибута** `attribute_type`:
 
-    * <img src="../../../.gitbook/assets/apple.png" alt="" data-size="line"> **Максимальное здоровье**
-    * <img src="../../../.gitbook/assets/golden_apple.png" alt="" data-size="line"> **Максимальное поглощение**
-    * <img src="../../../.gitbook/assets/bone.png" alt="" data-size="line"> **Расстояние следования**
-    * <img src="../../../.gitbook/assets/shield.png" alt="" data-size="line"> **Сопротивление отталкиванию**
-    * <img src="../../../.gitbook/assets/leather_boots.png" alt="" data-size="line"> **Скорость передвижения**
-    * <img src="../../../.gitbook/assets/elytra.png" alt="" data-size="line"> **Скорость полёта**
-    * <img src="../../../.gitbook/assets/iron_sword.png" alt="" data-size="line"> **Урон атаки**
-    * <img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line"> **Отталкивание атаки**
-    * <img src="../../../.gitbook/assets/golden_sword.png" alt="" data-size="line"> **Скорость атаки**
-    * <img src="../../../.gitbook/assets/iron_chestplate.png" alt="" data-size="line"> **Очки защиты**
-    * <img src="../../../.gitbook/assets/diamond_chestplate.png" alt="" data-size="line"> **Очки плотности защиты**
-    * <img src="../../../.gitbook/assets/emerald.png" alt="" data-size="line"> **Удача рыбалки**
-    * <img src="../../../.gitbook/assets/rabbit_foot.png" alt="" data-size="line"> **Сила прыжка**
-    * <img src="../../../.gitbook/assets/zombie_head.png" alt="" data-size="line"> **Шанс подкрепления зомби**
-    * <img src="../../../.gitbook/assets/feather.png" alt="" data-size="line"> **Множитель урона от падения**
-    * <img src="../../../.gitbook/assets/leather_boots.png" alt="" data-size="line"> **Безопасная высота падения**
-    * <img src="../../../.gitbook/assets/arrow.png" alt="" data-size="line"> **Масштаб**
-    * <img src="../../../.gitbook/assets/iron_boots.png" alt="" data-size="line"> **Высота шага**
-    * <img src="../../../.gitbook/assets/amethyst_shard.png" alt="" data-size="line"> **Гравитация**
-    * <img src="../../../.gitbook/assets/iron_pickaxe.png" alt="" data-size="line"> **Расстояние взаимодействия с блоками**
-    * <img src="../../../.gitbook/assets/golden_axe.png" alt="" data-size="line"> **Расстояние взаимодействия с сущностями**
-    * <img src="../../../.gitbook/assets/diamond_pickaxe.png" alt="" data-size="line"> **Скорость ломания блока**
-    * <img src="../../../.gitbook/assets/campfire.png" alt="" data-size="line"> **Время горения**
-    * <img src="../../../.gitbook/assets/tnt.png" alt="" data-size="line"> **Сопротивление отбрасыванию от взрыва**
-    * <img src="../../../.gitbook/assets/cobweb.png" alt="" data-size="line"> **Скорость передвижения по замедляющим блокам**
-    * <img src="../../../.gitbook/assets/glass_bottle.png" alt="" data-size="line"> **Воздух под водой**
-    * <img src="../../../.gitbook/assets/water_bucket.png" alt="" data-size="line"> **Скорость передвижения под водой**
-    * <img src="../../../.gitbook/assets/golden_pickaxe.png" alt="" data-size="line"> **Скорость копания**
-    * <img src="../../../.gitbook/assets/chainmail_leggings.png" alt="" data-size="line"> **Скорость передвижения крадясь**
-    * <img src="../../../.gitbook/assets/water_bottle.png" alt="" data-size="line"> **Скорость копания под водой**
-    * <img src="../../../.gitbook/assets/iron_sword.png" alt="" data-size="line"> **Коэффициент разящего удара**
+    * <img src="../../../.gitbook/assets/apple.png" alt="" data-size="line"> **Максимальное здоровье**\
+      `generic_max_health`
+    * <img src="../../../.gitbook/assets/golden_apple.png" alt="" data-size="line"> **Максимальное поглощение**\
+      `generic_max_absorption`
+    * <img src="../../../.gitbook/assets/bone.png" alt="" data-size="line"> **Расстояние следования**\
+      `generic_follow_range`
+    * <img src="../../../.gitbook/assets/shield.png" alt="" data-size="line"> **Сопротивление отталкиванию**\
+      `generic_knockback_resistance`
+    * <img src="../../../.gitbook/assets/leather_boots.png" alt="" data-size="line"> **Скорость передвижения**\
+      `generic_movement_speed`
+    * <img src="../../../.gitbook/assets/elytra.png" alt="" data-size="line"> **Скорость полёта**\
+      `generic_flying_speed`
+    * <img src="../../../.gitbook/assets/iron_sword.png" alt="" data-size="line"> **Урон атаки**\
+      `generic_attack_damage`
+    * <img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line"> **Отталкивание атаки**\
+      `generic_attack_knockback`
+    * <img src="../../../.gitbook/assets/golden_sword.png" alt="" data-size="line"> **Скорость атаки**\
+      `generic_attack_speed`
+    * <img src="../../../.gitbook/assets/iron_chestplate.png" alt="" data-size="line"> **Очки защиты**\
+      `generic_armor`
+    * <img src="../../../.gitbook/assets/diamond_chestplate.png" alt="" data-size="line"> **Очки плотности защиты**\
+      `generic_armor_toughness`
+    * <img src="../../../.gitbook/assets/emerald.png" alt="" data-size="line"> **Удача рыбалки**\
+      `generic_luck`
+    * <img src="../../../.gitbook/assets/rabbit_foot.png" alt="" data-size="line"> **Сила прыжка**\
+      `generic_jump_strength`
+    * <img src="../../../.gitbook/assets/zombie_head.png" alt="" data-size="line"> **Шанс подкрепления зомби**\
+      `zombie_spawn_reinforcements`
+    * <img src="../../../.gitbook/assets/feather.png" alt="" data-size="line"> **Множитель урона от падения**\
+      `generic_fall_damage_multiplier`
+    * <img src="../../../.gitbook/assets/leather_boots.png" alt="" data-size="line"> **Безопасная высота падения**\
+      `generic_safe_fall_distance`
+    * <img src="../../../.gitbook/assets/arrow.png" alt="" data-size="line"> **Масштаб**\
+      `generic_scale`
+    * <img src="../../../.gitbook/assets/iron_boots.png" alt="" data-size="line"> **Высота шага**\
+      `generic_step_height`
+    * <img src="../../../.gitbook/assets/amethyst_shard.png" alt="" data-size="line"> **Гравитация**\
+      `generic_gravity`
+    * <img src="../../../.gitbook/assets/iron_pickaxe.png" alt="" data-size="line"> **Расстояние взаимодействия с блоками**\
+      `player_block_interaction_range`
+    * <img src="../../../.gitbook/assets/golden_axe.png" alt="" data-size="line"> **Расстояние взаимодействия с сущностями**\
+      `player_entity_interaction_range`
+    * <img src="../../../.gitbook/assets/diamond_pickaxe.png" alt="" data-size="line"> **Скорость ломания блока**\
+      `player_block_break_speed`
+    * <img src="../../../.gitbook/assets/campfire.png" alt="" data-size="line"> **Время горения**\
+      `generic_burning_time`
+    * <img src="../../../.gitbook/assets/tnt.png" alt="" data-size="line"> **Сопротивление отбрасыванию от взрыва**\
+      `generic_explosion_knockback_resistance`
+    * <img src="../../../.gitbook/assets/cobweb.png" alt="" data-size="line"> **Скорость передвижения по замедляющим блокам**\
+      `generic_movement_efficiency`
+    * <img src="../../../.gitbook/assets/glass_bottle.png" alt="" data-size="line"> **Воздух под водой**\
+      `generic_oxygen_bonus`
+    * <img src="../../../.gitbook/assets/water_bucket.png" alt="" data-size="line"> **Скорость передвижения под водой**\
+      `generic_water_movement_efficiency`
+    * <img src="../../../.gitbook/assets/golden_pickaxe.png" alt="" data-size="line"> **Скорость копания**\
+      `player_mining_efficiency`
+    * <img src="../../../.gitbook/assets/chainmail_leggings.png" alt="" data-size="line"> **Скорость передвижения крадясь**\
+      `player_sneaking_speed`
+    * <img src="../../../.gitbook/assets/water_bottle.png" alt="" data-size="line"> **Скорость копания под водой**\
+      `player_submerged_mining_speed`
+    * <img src="../../../.gitbook/assets/iron_sword.png" alt="" data-size="line"> **Коэффициент разящего удара**\
+      `player_sweeping_damage_ratio`
 
-[^9]: * Скин Mojang
-    * Скин JustMC
+[^9]: **Тип сервера скинов** `server_type`:
+
+    * <img src="../../../.gitbook/assets/apple.png" alt="" data-size="line"> **Скин Mojang**\
+      `mojang`
+    * <img src="../../../.gitbook/assets/golden_apple.png" alt="" data-size="line"> **Скин JustMC**\
+      `server`
 
 [^10]: * Белый
     * Оранжевый
