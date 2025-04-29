@@ -425,41 +425,79 @@ layout:
     * <img src="../../../.gitbook/assets/golden_apple.png" alt="" data-size="line"> **Скин JustMC**\
       `server`
 
-[^10]: * Белый
-    * Оранжевый
-    * Пурпурный
-    * Голубой
-    * Жёлтый
-    * Лаймовый
-    * Розовый
-    * Серый
-    * Светло-серый
-    * Бирюзовый
-    * Фиолетовый
-    * Синий
-    * Коричневый
-    * Зелёный
-    * Красный
-    * Чёрный
+[^10]: **Цвет сущности** `color`:
 
-[^11]: * Обычное состояние
-    * Полёт на Элитрах
-    * Лежание
-    * Плавание
-    * Использование Тягуна
-    * Приседание
-    * Длинный прыжок
-    * Смерть
-    * Кваканье (для Жаб)
-    * Использование языка (для Жаб)
-    * Сидение
-    * Рёв (для Хранителя)
-    * Нюханье (для Хранителя)
-    * Появление из земли (для Хранителя)
-    * Зарывание в землю (для Хранителя)
-    * Скольжение (для Вихря)
-    * Выстреливание (для Вихря)
-    * Вдыхание (для Вихря)
+    * <img src="../../../.gitbook/assets/white_dye.png" alt="" data-size="line"> **Белый**\
+      `white`
+    * <img src="../../../.gitbook/assets/orange_dye.png" alt="" data-size="line"> **Оранжевый**\
+      `orange`
+    * <img src="../../../.gitbook/assets/magenta_dye.png" alt="" data-size="line"> **Пурпурный**\
+      `magenta`
+    * <img src="../../../.gitbook/assets/light_blue_dye.png" alt="" data-size="line"> **Голубой**\
+      `light_blue`
+    * <img src="../../../.gitbook/assets/yellow_dye.png" alt="" data-size="line"> **Жёлтый**\
+      `yellow`
+    * <img src="../../../.gitbook/assets/lime_dye.png" alt="" data-size="line"> **Лаймовый**\
+      `lime`
+    * <img src="../../../.gitbook/assets/pink_dye.png" alt="" data-size="line"> **Розовый**\
+      `pink`
+    * <img src="../../../.gitbook/assets/gray_dye.png" alt="" data-size="line"> **Серый**\
+      `gray`
+    * <img src="../../../.gitbook/assets/light_gray_dye.png" alt="" data-size="line"> **Светло-серый**\
+      `light_gray`
+    * <img src="../../../.gitbook/assets/cyan_dye.png" alt="" data-size="line"> **Бирюзовый**\
+      `cyan`
+    * <img src="../../../.gitbook/assets/purple_dye.png" alt="" data-size="line"> **Фиолетовый**\
+      `purple`
+    * <img src="../../../.gitbook/assets/blue_dye.png" alt="" data-size="line"> **Синий**\
+      `blue`
+    * <img src="../../../.gitbook/assets/brown_dye.png" alt="" data-size="line"> **Коричневый**\
+      `brown`
+    * <img src="../../../.gitbook/assets/green_dye.png" alt="" data-size="line"> **Зелёный**\
+      `green`
+    * <img src="../../../.gitbook/assets/red_dye.png" alt="" data-size="line"> **Красный**\
+      `red`
+    * <img src="../../../.gitbook/assets/black_dye.png" alt="" data-size="line"> **Чёрный**\
+      `black`
+
+[^11]: **Отображаемая поза** `pose`:
+
+    * <img src="../../../.gitbook/assets/armor_stand.png" alt="" data-size="line"> **Обычное состояние**\
+      `standing`
+    * <img src="../../../.gitbook/assets/golden_pickaxe.png" alt="" data-size="line"> **Полёт на Элитрах**\
+      `fall_flying`
+    * <img src="../../../.gitbook/assets/red_bed.png" alt="" data-size="line"> **Лежание**\
+      `sleeping`
+    * <img src="../../../.gitbook/assets/water_bucket.png" alt="" data-size="line"> **Плавание**\
+      `swimming`
+    * <img src="../../../.gitbook/assets/trident.png" alt="" data-size="line"> **Использование Тягуна**\
+      `spin_attack`
+    * <img src="../../../.gitbook/assets/chainmail_leggings.png" alt="" data-size="line"> **Приседание**\
+      `crouching`
+    * <img src="../../../.gitbook/assets/iron_boots.png" alt="" data-size="line"> **Длинный прыжок**\
+      `long_jumping`
+    * <img src="../../../.gitbook/assets/skeleton_skull.png" alt="" data-size="line"> **Смерть**\
+      `dying`
+    * <img src="../../../.gitbook/assets/frogspawn.png" alt="" data-size="line"> **Кваканье (для Жаб)**\
+      `croaking`
+    * <img src="../../../.gitbook/assets/ochre_froglight.png" alt="" data-size="line"> **Использование языка (для Жаб)**\
+      `using_tongue`
+    * <img src="../../../.gitbook/assets/golden_pickaxe.png" alt="" data-size="line"> **Сидение**\
+      `sitting`
+    * <img src="../../../.gitbook/assets/goat_horn.png" alt="" data-size="line"> **Рёв (для Хранителя)**\
+      `roaring`
+    * <img src="../../../.gitbook/assets/golden_pickaxe.png" alt="" data-size="line"> **Нюханье (для Хранителя)**\
+      `sniffing`
+    * <img src="../../../.gitbook/assets/sculk_sensor.gif" alt="" data-size="line"> **Появление из земли (для Хранителя)**\
+      `emerging`
+    * <img src="../../../.gitbook/assets/golden_pickaxe.png" alt="" data-size="line"> **Зарывание в землю (для Хранителя)**\
+      `digging`
+    * <img src="../../../.gitbook/assets/golden_pickaxe.png" alt="" data-size="line"> **Скольжение (для Вихря)**\
+      `sliding`
+    * <img src="../../../.gitbook/assets/golden_pickaxe.png" alt="" data-size="line"> **Выстреливание (для Вихря)**\
+      `shooting`
+    * <img src="../../../.gitbook/assets/golden_pickaxe.png" alt="" data-size="line"> **Вдыхание (для Вихря)**\
+      `inhaling`
 
 [^12]: * Белый
     * Оранжевый
