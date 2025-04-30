@@ -536,23 +536,42 @@ layout:
     * <img src="../../../.gitbook/assets/gray_dye.png" alt="" data-size="line"> **Не изменять**\
       `do_not_change`
 
-[^13]: * Белый
-    * Оранжевый
-    * Пурпурный
-    * Голубой
-    * Жёлтый
-    * Лаймовый
-    * Розовый
-    * Серый
-    * Светло-серый
-    * Бирюзовый
-    * Фиолетовый
-    * Синий
-    * Коричневый
-    * Зелёный
-    * Красный
-    * Чёрный
-    * Не изменять
+[^13]: **Цвет тела** `body_color`:
+
+    * <img src="../../../.gitbook/assets/white_wool.png" alt="" data-size="line"> **Белый**\
+      `white`
+    * <img src="../../../.gitbook/assets/orange_wool.png" alt="" data-size="line"> **Оранжевый**\
+      `orange`
+    * <img src="../../../.gitbook/assets/magenta_wool.png" alt="" data-size="line"> **Пурпурный**\
+      `magenta`
+    * <img src="../../../.gitbook/assets/light_blue_wool.png" alt="" data-size="line"> **Голубой**\
+      `light_blue`
+    * <img src="../../../.gitbook/assets/yellow_wool.png" alt="" data-size="line"> **Жёлтый**\
+      `yellow`
+    * <img src="../../../.gitbook/assets/lime_wool.png" alt="" data-size="line"> **Лаймовый**\
+      `lime`
+    * <img src="../../../.gitbook/assets/pink_wool.png" alt="" data-size="line"> **Розовый**\
+      `pink`
+    * <img src="../../../.gitbook/assets/gray_wool.png" alt="" data-size="line"> **Серый**\
+      `gray`
+    * <img src="../../../.gitbook/assets/light_gray_wool.png" alt="" data-size="line"> **Светло-серый**\
+      `light_gray`
+    * <img src="../../../.gitbook/assets/cyan_wool.png" alt="" data-size="line"> **Бирюзовый**\
+      `cyan`
+    * <img src="../../../.gitbook/assets/purple_wool.png" alt="" data-size="line"> **Фиолетовый**\
+      `purple`
+    * <img src="../../../.gitbook/assets/blue_wool.png" alt="" data-size="line"> **Синий**\
+      `blue`
+    * <img src="../../../.gitbook/assets/brown_wool.png" alt="" data-size="line"> **Коричневый**\
+      `brown`
+    * <img src="../../../.gitbook/assets/green_wool.png" alt="" data-size="line"> **Зелёный**\
+      `green`
+    * <img src="../../../.gitbook/assets/red_wool.png" alt="" data-size="line"> **Красный**\
+      `red`
+    * <img src="../../../.gitbook/assets/black_wool.png" alt="" data-size="line"> **Чёрный**\
+      `black`
+    * <img src="../../../.gitbook/assets/gray_dye.png" alt="" data-size="line"> **Не изменять**\
+      `do_not_change`
 
 [^14]: * Kob
     * SunStreak
