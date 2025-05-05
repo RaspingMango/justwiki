@@ -36,7 +36,7 @@ layout:
 
 ## Принцип работы
 
-<figure><img src="../../../.gitbook/assets/Function_Sheme.png" alt="" width="563"><figcaption><p>Схема, изображающая принцип работы функции.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/function_sheme.png" alt="" width="563"><figcaption><p>Схема, изображающая принцип работы функции.</p></figcaption></figure>
 
 Функция вызывается в строке кода блоком [<img src="../../../.gitbook/assets/lapis_ore.png" alt="" data-size="line"> **Вызвать функцию**](call_function.md). Воспроизведение кода в строке не будет продолжаться до тех пор, пока функция не завершит своё выполнение.
 

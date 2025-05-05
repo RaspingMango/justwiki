@@ -207,25 +207,26 @@
 В качестве альтернативы, на сервере разрешено использовать модификации наподобие [IBE Editor](https://modrinth.com/mod/ibe-editor).
 {% endhint %}
 
-| Команда                                     | Описание                                              |
-| ------------------------------------------- | ----------------------------------------------------- |
-| `/item color`                               | Придать цвет окрашиваемому предмету.                  |
-| `/item count`                               | Установить определённое количество предметов в слоте. |
-| `/item durability`                          | Установить прочность предмету.                        |
-| `/item emptyname`                           | Очистить название предмета.                           |
-| [`/item enchant`](#user-content-fn-11)[^11] | Установить зачарование предмету.                      |
-| `/item equip`                               | Поместить предмет в слоты для брони.                  |
-| [`/item lore`](#user-content-fn-12)[^12]    | Редактировать описание предмета.                      |
-| `/item material`                            | Заменить предмет на другой, сохранив все показатели.  |
-| `/item modeldata`                           | Редактировать значение ModelData.                     |
-| [`/item rename`](#user-content-fn-13)[^13]  | Переименовать предмет.                                |
-| `/item send`                                | Отправить предмет игроку в инвентарь.                 |
-| [`/item trim`](#user-content-fn-14)[^14]    | Применить кузнечный шаблон к элементу брони.          |
-| `/item unbreakable`                         | Установить неразрушимость предмету.                   |
+| Команда                                     | Описание                                                      |
+| ------------------------------------------- | ------------------------------------------------------------- |
+| `/item`                                     | Открыть [меню редактора предметов](#user-content-fn-11)[^11]. |
+| `/item color`                               | Придать цвет окрашиваемому предмету.                          |
+| `/item count`                               | Установить определённое количество предметов в слоте.         |
+| `/item durability`                          | Изменить значение поломки предмету.                           |
+| `/item emptyname`                           | Очистить название предмета.                                   |
+| [`/item enchant`](#user-content-fn-12)[^12] | Установить зачарование предмету.                              |
+| `/item equip`                               | Поместить предмет в слоты для брони.                          |
+| [`/item lore`](#user-content-fn-13)[^13]    | Редактировать описание предмета.                              |
+| `/item material`                            | Заменить предмет на другой, сохранив все показатели.          |
+| `/item modeldata`                           | Редактировать значение ModelData.                             |
+| [`/item rename`](#user-content-fn-14)[^14]  | Переименовать предмет.                                        |
+| `/item send`                                | Отправить предмет игроку в инвентарь.                         |
+| [`/item trim`](#user-content-fn-15)[^15]    | Применить кузнечный шаблон к элементу брони.                  |
+| `/item unbreakable`                         | Установить неразрушимость предмету.                           |
 
 ***
 
-### WorldEdit
+### WorldEdit (FAWE)
 
 {% hint style="info" %}
 Более подробную информацию о командах WorldEdit можно получить с помощью команды `//help`.
@@ -276,13 +277,13 @@
 
 ## Меню миров
 
-Меню миров открывается нажатием <kbd>ЛКМ</kbd>/<kbd>ПКМ</kbd> по предмету <img src="../.gitbook/assets/compass.png" alt="" data-size="line"> [**Миры**](#user-content-fn-15)[^15] на спавне режима[^1] или командой `/worlds`. В этом меню расположены все опубликованные миры, которые можно отсортировать по категориям. Помимо этого, присутствует функция <img src="../.gitbook/assets/compass.png" alt="" data-size="line"> **Поиск миров**, позволяющая найти мир по его названию.
+Меню миров открывается нажатием <kbd>ЛКМ</kbd>/<kbd>ПКМ</kbd> по предмету <img src="../.gitbook/assets/compass.png" alt="" data-size="line"> [**Миры**](#user-content-fn-16)[^16] на спавне режима[^1] или командой `/worlds`. В этом меню расположены все опубликованные миры, которые можно отсортировать по категориям. Помимо этого, присутствует функция <img src="../.gitbook/assets/compass.png" alt="" data-size="line"> **Поиск миров**, позволяющая найти мир по его названию.
 
 #### Меню имеет следующие разделы:
 
-* <img src="../.gitbook/assets/empty_map.png" alt="" data-size="line"> [**Миры онлайн**](#user-content-fn-16)[^16] — миры, в которые сейчас играют игроки.
-* <img src="../.gitbook/assets/paper.png" alt="" data-size="line"> [**Недавние миры**](#user-content-fn-17)[^17] — список миров, куда вы недавно заходили.
-* <img src="../.gitbook/assets/gold_block.png" alt="" data-size="line"> [**Избранные миры**](#user-content-fn-18)[^18] — список миров, избранных пользователем.
+* <img src="../.gitbook/assets/empty_map.png" alt="" data-size="line"> [**Миры онлайн**](#user-content-fn-17)[^17] — миры, в которые сейчас играют игроки.
+* <img src="../.gitbook/assets/paper.png" alt="" data-size="line"> [**Недавние миры**](#user-content-fn-18)[^18] — список миров, куда вы недавно заходили.
+* <img src="../.gitbook/assets/gold_block.png" alt="" data-size="line"> [**Избранные миры**](#user-content-fn-19)[^19] — список миров, избранных пользователем.
 * <img src="../.gitbook/assets/chest.png" alt="" data-size="line"> [**Мои миры**](#user-content-fn-2)[^2] — список ваших миров.
 
 #### Команды Creative+, связанные с мирами:
@@ -315,18 +316,20 @@
 
 [^10]: Можно заменить на: `/v`
 
-[^11]: Можно заменить на: `/enchant`
+[^11]: ![](../.gitbook/assets/item_editor_menu.png)
 
-[^12]: Можно заменить на: `/lore`
+[^12]: Можно заменить на: `/enchant`
 
-[^13]: Можно заменить на: `/rename`
+[^13]: Можно заменить на: `/lore`
 
-[^14]: Можно заменить на: `/trim`
+[^14]: Можно заменить на: `/rename`
 
-[^15]: ![](../.gitbook/assets/worlds_menu.png)![](../.gitbook/assets/all_worlds_menu.png)
+[^15]: Можно заменить на: `/trim`
 
-[^16]: ![](../.gitbook/assets/online_worlds_menu.png)
+[^16]: ![](../.gitbook/assets/worlds_menu.png)![](../.gitbook/assets/all_worlds_menu.png)
 
-[^17]: ![](../.gitbook/assets/history_worlds_menu.png)
+[^17]: ![](../.gitbook/assets/online_worlds_menu.png)
 
-[^18]: ![](../.gitbook/assets/favorite_worlds_menu.png)
+[^18]: ![](../.gitbook/assets/history_worlds_menu.png)
+
+[^19]: ![](../.gitbook/assets/favorite_worlds_menu.png)

@@ -36,7 +36,7 @@ layout:
 
 ## Принцип работы
 
-<figure><img src="../../../.gitbook/assets/Process_Scheme.png" alt="" width="563"><figcaption><p>Схема, изображающая принцип работы процесса.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/process_scheme.png" alt="" width="563"><figcaption><p>Схема, изображающая принцип работы процесса.</p></figcaption></figure>
 
 Процесс запускается в строке кода блоком [<img src="../../../.gitbook/assets/emerald_ore.png" alt="" data-size="line"> **Запустить процесс**](start_process.md). Строка кода, где он вызывается, будет продолжать свою работу, даже если сам процесс не завершился.
 
