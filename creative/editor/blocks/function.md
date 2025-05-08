@@ -42,5 +42,5 @@ layout:
 
 Вы можете вынести часто повторяющийся код в функцию и вызывать её, чтобы сэкономить место в коде и ваше время.
 
-[^1]: * Скрыть
-    * Отображать
+[^1]: * <img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line"> **Скрыть**
+    * <img src="../../../.gitbook/assets/magma_cream.png" alt="" data-size="line"> **Отображать**
