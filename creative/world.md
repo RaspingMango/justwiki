@@ -281,7 +281,7 @@
 
 #### Меню имеет следующие разделы:
 
-* <img src="../.gitbook/assets/empty_map.png" alt="" data-size="line"> [**Миры онлайн**](#user-content-fn-17)[^17] — миры, в которые сейчас играют игроки.
+* <img src="../.gitbook/assets/map.png" alt="" data-size="line"> [**Миры онлайн**](#user-content-fn-17)[^17] — миры, в которые сейчас играют игроки.
 * <img src="../.gitbook/assets/paper.png" alt="" data-size="line"> [**Недавние миры**](#user-content-fn-18)[^18] — список миров, куда вы недавно заходили.
 * <img src="../.gitbook/assets/gold_block.png" alt="" data-size="line"> [**Избранные миры**](#user-content-fn-19)[^19] — список миров, избранных пользователем.
 * <img src="../.gitbook/assets/chest.png" alt="" data-size="line"> [**Мои миры**](#user-content-fn-2)[^2] — список ваших миров.
