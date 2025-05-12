@@ -1412,13 +1412,26 @@ layout:
     * <img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"> **Правый поворот (Размер x Поворот)**\
       `right_rotation`
 
-[^103]: * Основная рука
-    * Второстепенная рука
-    * Ботинки
-    * Поножи
-    * Нагрудник
-    * Шлем
-    * Тело
+[^103]: **Слот снаряжения** `slot`:
 
-[^104]: * Появление
-    * Закапывание
+    * <img src="../../../.gitbook/assets/iron_sword.png" alt="" data-size="line"> **Основная рука**\
+      `hand`
+    * <img src="../../../.gitbook/assets/shield.png" alt="" data-size="line"> **Второстепенная рука**\
+      `off_hand`
+    * <img src="../../../.gitbook/assets/iron_boots.png" alt="" data-size="line"> **Ботинки**\
+      `feet`
+    * <img src="../../../.gitbook/assets/iron_leggings.png" alt="" data-size="line"> **Поножи**\
+      `legs`
+    * <img src="../../../.gitbook/assets/iron_chestplate.png" alt="" data-size="line"> **Нагрудник**\
+      `chest`
+    * <img src="../../../.gitbook/assets/iron_helmet.png" alt="" data-size="line"> **Шлем**\
+      `head`
+    * <img src="../../../.gitbook/assets/iron_horse_armor.png" alt="" data-size="line"> **Тело**\
+      `body`
+
+[^104]: **Состояние копания** `digging`:
+
+    * <img src="../../../.gitbook/assets/warden_spawn_egg.png" alt="" data-size="line"> **Появление**\
+      `emerge`
+    * <img src="../../../.gitbook/assets/iron_shovel.png" alt="" data-size="line"> **Закапывание**\
+      `dig_down`
