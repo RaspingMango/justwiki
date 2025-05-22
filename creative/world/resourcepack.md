@@ -52,7 +52,7 @@ description: >-
 {% endstep %}
 
 {% step %}
-### Перейдите в раздел Versions
+### Перейдите в раздел "Versions"
 
 <figure><img src="../../.gitbook/assets/resourcepack_modrinth_versions.png" alt="" width="468"><figcaption></figcaption></figure>
 {% endstep %}
@@ -73,5 +73,43 @@ description: >-
 ### Установите ресурспак в мир по скопированной ссылке
 
 Конечная команда выглядит так: `/world resourcepack add https://cdn.modrinth.com/data/6SLU7tS5/versions/KW0bu9nm/Default-Dark-Mode-1.20.2%2B-2024.6.0.zip`
+{% endstep %}
+{% endstepper %}
+
+### Собственный ресурспак
+
+Для установки собственного ресурспака в мир в первую очередь нужно выбрать ресурс, который будет использоваться в качестве хоста.
+
+В качестве примеров используем [Google Диск](https://drive.google.com/) и [GitHub](https://github.com/).
+
+#### Google Диск
+
+{% stepper %}
+{% step %}
+### Откройте Google Диск и загрузите туда файл ресурспака
+
+Требуется аккаунт Google.
+{% endstep %}
+
+{% step %}
+### Откройте к файлу доступ по ссылке и скопируйте её
+
+Для этого откройте файл двойным нажатием <kbd>ЛКМ</kbd> и перейдите в "Настройки доступа".
+
+<figure><img src="../../.gitbook/assets/resourcepack_google_drive_copy_link.png" alt="" width="374"><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Конвертируйте ссылку
+
+На данный момент это ссылка на веб-страницу для просмотра файла. Чтобы превратить её в ссылку на скачивание, её необходимо конвертировать. Это можно сделать с помощью [данного сайта](https://sites.google.com/site/gdocs2direct).
+
+<figure><img src="../../.gitbook/assets/resourcepack_google_drive_download_link.png" alt="" width="505"><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Установите ресурспак в мир по полученной ссылке
+
+`/world resourcepack add <ссылка>`
 {% endstep %}
 {% endstepper %}
