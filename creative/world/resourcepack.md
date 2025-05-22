@@ -80,7 +80,7 @@ description: >-
 
 Для установки собственного ресурспака в мир в первую очередь нужно выбрать ресурс, который будет использоваться в качестве хоста.
 
-В качестве примеров используем [Google Диск](https://drive.google.com/) и [GitHub](https://github.com/).
+Для примеров используем [Google Диск](https://drive.google.com/) и [GitHub](https://github.com/).
 
 #### Google Диск
 
@@ -105,6 +105,41 @@ description: >-
 На данный момент это ссылка на веб-страницу для просмотра файла. Чтобы превратить её в ссылку на скачивание, её необходимо конвертировать. Это можно сделать с помощью [данного сайта](https://sites.google.com/site/gdocs2direct).
 
 <figure><img src="../../.gitbook/assets/resourcepack_google_drive_download_link.png" alt="" width="505"><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Установите ресурспак в мир по полученной ссылке
+
+`/world resourcepack add <ссылка>`
+{% endstep %}
+{% endstepper %}
+
+#### GitHub
+
+{% stepper %}
+{% step %}
+### Создайте новый репозиторий
+
+Требуется аккаунт GitHub.
+
+Перейдите по [этой ссылке](https://github.com/new).\
+Затем достаточно указать название и нажать "Create repository".
+{% endstep %}
+
+{% step %}
+### Загрузите файл ресурспака
+
+Для этого нажмите по ссылке "uploading an existing file".
+
+<figure><img src="../../.gitbook/assets/resourcepack_github_upload.png" alt="" width="563"><figcaption></figcaption></figure>
+{% endstep %}
+
+{% step %}
+### Скопируйте ссылку на скачивание
+
+Откройте загруженный файл в репозитории и нажмите <kbd>ПКМ</kbd> по кнопке "Raw". В появившемся контекстном меню нажмите "Копировать адрес ссылки".
+
+<figure><img src="../../.gitbook/assets/resourcepack_github_download_link.png" alt="" width="362"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
