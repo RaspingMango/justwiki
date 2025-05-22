@@ -2,19 +2,19 @@
 
 ## Создание мира
 
-Находясь на спавне режима[^1] вам нужно открыть меню <img src="../.gitbook/assets/grass_block.png" alt="" data-size="line"> [**Мои миры**](#user-content-fn-2)[^2] и нажать на <img src="../.gitbook/assets/cyan_terracotta.png" alt="" data-size="line"> **Создать мир**. Вам представится выбор из четырёх типов мира.
+Находясь на спавне режима[^1] вам нужно открыть меню <img src="../../.gitbook/assets/grass_block.png" alt="" data-size="line"> [**Мои миры**](#user-content-fn-2)[^2] и нажать на <img src="../../.gitbook/assets/cyan_terracotta.png" alt="" data-size="line"> **Создать мир**. Вам представится выбор из четырёх типов мира.
 
-<table><thead><tr><th width="55" data-type="number">№</th><th width="299">Тип мира</th><th>Описание</th></tr></thead><tbody><tr><td>1</td><td>Пустой</td><td>Каменная платформа 32x32 блока.</td></tr><tr><td>2</td><td>Плоский</td><td>Ванильный плоский мир, 4 блока в высоту.</td></tr><tr><td>3</td><td>Кодинг*</td><td>Этаж редактора кода, растянутый во всю ширину мира.</td></tr><tr><td>4</td><td>Отладка*</td><td>Ванильный мир отладки. <a href="https://ru.minecraft.wiki/w/%D0%A0%D0%B5%D0%B6%D0%B8%D0%BC_%D0%BE%D1%82%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8"><img src="../.gitbook/assets/Minecraft_Wiki_Logo.png" alt="" data-size="line"></a></td></tr><tr><td>5</td><td>Губка Менгера*</td><td>Модель пятой итерации губки Менгера, воссозданная из блоков губки.</td></tr></tbody></table>
+<table><thead><tr><th width="55" data-type="number">№</th><th width="299">Тип мира</th><th>Описание</th></tr></thead><tbody><tr><td>1</td><td>Пустой</td><td>Каменная платформа 32x32 блока.</td></tr><tr><td>2</td><td>Плоский</td><td>Ванильный плоский мир, 4 блока в высоту.</td></tr><tr><td>3</td><td>Кодинг*</td><td>Этаж редактора кода, растянутый во всю ширину мира.</td></tr><tr><td>4</td><td>Отладка*</td><td>Ванильный мир отладки. <a href="https://ru.minecraft.wiki/w/%D0%A0%D0%B5%D0%B6%D0%B8%D0%BC_%D0%BE%D1%82%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8"><img src="../../.gitbook/assets/Minecraft_Wiki_Logo.png" alt="" data-size="line"></a></td></tr><tr><td>5</td><td>Губка Менгера*</td><td>Модель пятой итерации губки Менгера, воссозданная из блоков губки.</td></tr></tbody></table>
 
 \*Секретный тип мира, скрытый в меню.
 
 Нажатием <kbd>ПКМ</kbd> по типу мира откроются расширенные настройки, где можно выбрать размер и измерение для будущего мира. При выборе пустого типа мира можно выбрать также и биом: **бездна** или **равнины**.
 
-После создания мира ему присваивается свой ID. Это уникальный номер, который никак нельзя изменить. Посмотреть его можно в <img src="../.gitbook/assets/compass.png" alt="" data-size="line"> [**Настройках мира**](#user-content-fn-3)[^3], либо в меню <img src="../.gitbook/assets/grass_block.png" alt="" data-size="line"> [**Мои миры**](#user-content-fn-2)[^2].
+После создания мира ему присваивается свой ID. Это уникальный номер, который никак нельзя изменить. Посмотреть его можно в <img src="../../.gitbook/assets/compass.png" alt="" data-size="line"> [**Настройках мира**](#user-content-fn-3)[^3], либо в меню <img src="../../.gitbook/assets/grass_block.png" alt="" data-size="line"> [**Мои миры**](#user-content-fn-2)[^2].
 
 ## Управление миром
 
-При запуске мира в [режиме строительства](world.md#sostoyaniya-mira) вам выдаётся специальный предмет, открывающий <img src="../.gitbook/assets/compass.png" alt="" data-size="line"> [**Настройки мира**](#user-content-fn-3)[^3]. Но если вы находитесь в режиме игры, либо компаса по каким-либо причинам у вас нет, то данное меню можно открыть и другим способом — например, командой `/world` или `/plot`.
+При запуске мира в [режиме строительства](./#sostoyaniya-mira) вам выдаётся специальный предмет, открывающий <img src="../../.gitbook/assets/compass.png" alt="" data-size="line"> [**Настройки мира**](#user-content-fn-3)[^3]. Но если вы находитесь в режиме игры, либо компаса по каким-либо причинам у вас нет, то данное меню можно открыть и другим способом — например, командой `/world` или `/plot`.
 
 #### Меню настроек мира имеет следующий функционал:
 
@@ -22,10 +22,10 @@
 
 <summary>Изменение времени</summary>
 
-* <img src="../.gitbook/assets/light_blue_terracotta.png" alt="" data-size="line"> **Утро** (6:00 или 0 тиков)
-* <img src="../.gitbook/assets/yellow_terracotta.png" alt="" data-size="line"> **День** (12:00 или 6000 тиков)
-* <img src="../.gitbook/assets/orange_terracotta.png" alt="" data-size="line"> **Вечер** (18:00 или 13000 тиков)
-* <img src="../.gitbook/assets/blue_terracotta.png" alt="" data-size="line"> **Ночь** (0:00 или 18000 тиков)
+* <img src="../../.gitbook/assets/light_blue_terracotta.png" alt="" data-size="line"> **Утро** (6:00 или 0 тиков)
+* <img src="../../.gitbook/assets/yellow_terracotta.png" alt="" data-size="line"> **День** (12:00 или 6000 тиков)
+* <img src="../../.gitbook/assets/orange_terracotta.png" alt="" data-size="line"> **Вечер** (18:00 или 13000 тиков)
+* <img src="../../.gitbook/assets/blue_terracotta.png" alt="" data-size="line"> **Ночь** (0:00 или 18000 тиков)
 
 </details>
 
@@ -33,11 +33,11 @@
 
 <summary>Управление медиа</summary>
 
-* <img src="../.gitbook/assets/item_frame.png" alt="" data-size="line"> **Выбрать отображаемый предмет**
-* <img src="../.gitbook/assets/totem_of_undying.png" alt="" data-size="line"> **Выбрать категории**
-* <img src="../.gitbook/assets/name_tag.png" alt="" data-size="line"> **Реклама мира**
-* <img src="../.gitbook/assets/writable_book.png" alt="" data-size="line"> **Опубликовать мир**
-* <img src="../.gitbook/assets/barrier.png" alt="" data-size="line"> **Удалить мир из публичного доступа**
+* <img src="../../.gitbook/assets/item_frame.png" alt="" data-size="line"> **Выбрать отображаемый предмет**
+* <img src="../../.gitbook/assets/totem_of_undying.png" alt="" data-size="line"> **Выбрать категории**
+* <img src="../../.gitbook/assets/name_tag.png" alt="" data-size="line"> **Реклама мира**
+* <img src="../../.gitbook/assets/writable_book.png" alt="" data-size="line"> **Опубликовать мир**
+* <img src="../../.gitbook/assets/barrier.png" alt="" data-size="line"> **Удалить мир из публичного доступа**
 
 </details>
 
@@ -62,8 +62,8 @@
 
 <summary>Управление приватностью</summary>
 
-* <img src="../.gitbook/assets/oak_door.png" alt="" data-size="line"> **Публичный** (в мир может зайти любой игрок)
-* <img src="../.gitbook/assets/iron_door.png" alt="" data-size="line"> **Приватный** (в мир можете зайти только вы и игроки в белом списке)
+* <img src="../../.gitbook/assets/oak_door.png" alt="" data-size="line"> **Публичный** (в мир может зайти любой игрок)
+* <img src="../../.gitbook/assets/iron_door.png" alt="" data-size="line"> **Приватный** (в мир можете зайти только вы и игроки в белом списке)
 
 </details>
 
@@ -121,7 +121,7 @@
 
 <summary>Управление кодом</summary>
 
-Позволяет игрокам заходить в [редактор кода](editor/).
+Позволяет игрокам заходить в [редактор кода](../editor/).
 
 </details>
 
@@ -131,7 +131,7 @@
 
 Режим строительства устанавливается по умолчанию при создании мира. Если мир находится в режиме игры, то активировать режим строительства можно командой `/build`.
 
-Режим игры вызывается командой `/play`. При запуске мира в режиме игры, активируется код, расположенный в [специальном редакторе](editor/), в который можно переместиться при помощи команды `/dev`.
+Режим игры вызывается командой `/play`. При запуске мира в режиме игры, активируется код, расположенный в [специальном редакторе](../editor/), в который можно переместиться при помощи команды `/dev`.
 
 ### Команды
 
@@ -158,17 +158,17 @@
 
 ***
 
-| Команда                                 | Описание                                                                                                                                       |
-| --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| `/world`                                | Открыть меню управления миром.                                                                                                                 |
-| `/world resourcepack`                   | <p>Управление ресурспаками мира.<br></p><p>» Доступно только от <a href="https://justmc.io/shop">ранга</a> Moon.</p>                           |
-| `/dev`                                  | <p>Перейти в <a href="editor/">редактор кода</a>.<br>При указании ника игрока изменяется уровень его прав в категории «Управление кодом».‎</p> |
-| `/play`                                 | Перевести мир в режим игры.                                                                                                                    |
-| `/build`                                | <p>Перевести мир в режим строительства.<br>При указании ника игрока изменяется уровень его прав в категории «Управление строительством».</p>   |
-| [`/gamerule`](#user-content-fn-6)[^6]   | Изменить игровые правила мира.                                                                                                                 |
-| `/time`                                 | Изменить текущее время в мире.                                                                                                                 |
-| `/weather`                              | Изменить текущую погоду в мире.                                                                                                                |
-| [`/enviroment`](#user-content-fn-7)[^7] | Управление переменными и инвентарями игроков.                                                                                                  |
+| Команда                                 | Описание                                                                                                                                           |
+| --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `/world`                                | Открыть меню управления миром.                                                                                                                     |
+| `/world resourcepack`                   | <p>Управление <a href="resourcepack.md">ресурспаками</a> мира.<br></p><p>» Доступно только от <a href="https://justmc.io/shop">ранга</a> Moon.</p> |
+| `/dev`                                  | <p>Перейти в <a href="../editor/">редактор кода</a>.<br>При указании ника игрока изменяется уровень его прав в категории «Управление кодом».‎</p>  |
+| `/play`                                 | Перевести мир в режим игры.                                                                                                                        |
+| `/build`                                | <p>Перевести мир в режим строительства.<br>При указании ника игрока изменяется уровень его прав в категории «Управление строительством».</p>       |
+| [`/gamerule`](#user-content-fn-6)[^6]   | Изменить игровые правила мира.                                                                                                                     |
+| `/time`                                 | Изменить текущее время в мире.                                                                                                                     |
+| `/weather`                              | Изменить текущую погоду в мире.                                                                                                                    |
+| [`/enviroment`](#user-content-fn-7)[^7] | Управление переменными и инвентарями игроков.                                                                                                      |
 {% endtab %}
 
 {% tab title="Взаимодействие" %}
@@ -179,7 +179,7 @@
 | Команда                               | Описание                                                                                                                                                                                |
 | ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [`/spawn`](#user-content-fn-8)[^8]    | <p>Выйти из мира на спавн <a data-footnote-ref href="#user-content-fn-1">режима</a>.<br>Владелец мира может указать ник игрока, который впоследствии будет телепортирован на спавн.</p> |
-| [`/favorite`](#user-content-fn-9)[^9] | Добавить мир в [**Избранные миры**](world.md#menyu-imeet-sleduyushie-razdely).                                                                                                          |
+| [`/favorite`](#user-content-fn-9)[^9] | Добавить мир в [**Избранные миры**](./#menyu-imeet-sleduyushie-razdely).                                                                                                                |
 | [`/vote`](#user-content-fn-10)[^10]   | Проголосовать за мир.                                                                                                                                                                   |
 | `/world ad`                           | Прорекламировать мир в чате за 5 изумрудов.                                                                                                                                             |
 | `/world limit bar`                    | Вызвать боссбар, показывающий нагрузку на мир в реальном времени (TPS, MSPT и CPU).                                                                                                     |
@@ -277,14 +277,14 @@
 
 ## Меню миров
 
-Меню миров открывается нажатием <kbd>ЛКМ</kbd>/<kbd>ПКМ</kbd> по предмету <img src="../.gitbook/assets/compass.png" alt="" data-size="line"> [**Миры**](#user-content-fn-16)[^16] на спавне режима[^1] или командой `/worlds`. В этом меню расположены все опубликованные миры, которые можно отсортировать по категориям. Помимо этого, присутствует функция <img src="../.gitbook/assets/compass.png" alt="" data-size="line"> **Поиск миров**, позволяющая найти мир по его названию.
+Меню миров открывается нажатием <kbd>ЛКМ</kbd>/<kbd>ПКМ</kbd> по предмету <img src="../../.gitbook/assets/compass.png" alt="" data-size="line"> [**Миры**](#user-content-fn-16)[^16] на спавне режима[^1] или командой `/worlds`. В этом меню расположены все опубликованные миры, которые можно отсортировать по категориям. Помимо этого, присутствует функция <img src="../../.gitbook/assets/compass.png" alt="" data-size="line"> **Поиск миров**, позволяющая найти мир по его названию.
 
 #### Меню имеет следующие разделы:
 
-* <img src="../.gitbook/assets/map.png" alt="" data-size="line"> [**Миры онлайн**](#user-content-fn-17)[^17] — миры, в которые сейчас играют игроки.
-* <img src="../.gitbook/assets/paper.png" alt="" data-size="line"> [**Недавние миры**](#user-content-fn-18)[^18] — список миров, куда вы недавно заходили.
-* <img src="../.gitbook/assets/gold_block.png" alt="" data-size="line"> [**Избранные миры**](#user-content-fn-19)[^19] — список миров, избранных пользователем.
-* <img src="../.gitbook/assets/chest.png" alt="" data-size="line"> [**Мои миры**](#user-content-fn-2)[^2] — список ваших миров.
+* <img src="../../.gitbook/assets/map.png" alt="" data-size="line"> [**Миры онлайн**](#user-content-fn-17)[^17] — миры, в которые сейчас играют игроки.
+* <img src="../../.gitbook/assets/paper.png" alt="" data-size="line"> [**Недавние миры**](#user-content-fn-18)[^18] — список миров, куда вы недавно заходили.
+* <img src="../../.gitbook/assets/gold_block.png" alt="" data-size="line"> [**Избранные миры**](#user-content-fn-19)[^19] — список миров, избранных пользователем.
+* <img src="../../.gitbook/assets/chest.png" alt="" data-size="line"> [**Мои миры**](#user-content-fn-2)[^2] — список ваших миров.
 
 #### Команды Creative+, связанные с мирами:
 
@@ -298,9 +298,9 @@
 
 [^1]: Creative+
 
-[^2]: ![](../.gitbook/assets/my_worlds_menu.png)Количество доступных для создания миров зависит от [ранга](https://justmc.io/shop).
+[^2]: ![](../../.gitbook/assets/my_worlds_menu.png)Количество доступных для создания миров зависит от [ранга](https://justmc.io/shop).
 
-[^3]: ![](../.gitbook/assets/world_settings_menu.png)
+[^3]: ![](../../.gitbook/assets/world_settings_menu.png)
 
 [^4]: Можно заменить на: `/gm`
 
@@ -316,7 +316,7 @@
 
 [^10]: Можно заменить на: `/v`
 
-[^11]: ![](../.gitbook/assets/item_editor_menu.png)
+[^11]: ![](../../.gitbook/assets/item_editor_menu.png)
 
 [^12]: Можно заменить на: `/enchant`
 
@@ -326,10 +326,10 @@
 
 [^15]: Можно заменить на: `/trim`
 
-[^16]: ![](../.gitbook/assets/worlds_menu.png)![](../.gitbook/assets/all_worlds_menu.png)
+[^16]: ![](../../.gitbook/assets/worlds_menu.png)![](../../.gitbook/assets/all_worlds_menu.png)
 
-[^17]: ![](../.gitbook/assets/online_worlds_menu.png)
+[^17]: ![](../../.gitbook/assets/online_worlds_menu.png)
 
-[^18]: ![](../.gitbook/assets/history_worlds_menu.png)
+[^18]: ![](../../.gitbook/assets/history_worlds_menu.png)
 
-[^19]: ![](../.gitbook/assets/favorite_worlds_menu.png)
+[^19]: ![](../../.gitbook/assets/favorite_worlds_menu.png)

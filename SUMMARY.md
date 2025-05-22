@@ -13,7 +13,8 @@
 ## Creative+ <a href="#creative" id="creative"></a>
 
 * [О режиме](creative/about.md)
-* [Мир](creative/world.md)
+* [Мир](creative/world/README.md)
+  * [Ресурспак](creative/world/resourcepack.md)
 * [Редактор кода](creative/editor/README.md)
   * [Модуль](creative/editor/module.md)
   * [Блоки кода](creative/editor/blocks/README.md)

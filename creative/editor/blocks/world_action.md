@@ -345,33 +345,63 @@ layout:
     * <img src="../../../.gitbook/assets/gray_dye.png" alt="" data-size="line"> **Выключить**\
       `false`
 
-[^24]: * Обычное дерево
-    * Большое дерево
-    * Обычная ель
-    * Высокая ель
-    * Обычная берёза
-    * Дерево джунглей
-    * Маленькое дерево джунглей
-    * Дерево джунглей с какао-бобами
-    * Куст джунглей
-    * Красный гриб
-    * Коричневый гриб
-    * Болотное дерево
-    * Акация
-    * Тёмный дуб
-    * Огромная секвойя
-    * Огромная сосна
-    * Высокая берёза
-    * Дерево хоруса
-    * Багровый гриб
-    * Искажённый гриб
-    * Азалия
-    * Мангровое дерево
-    * Высокое мангровое дерево
-    * Вишня
+[^24]: **Тип дерева** `tree_type`:
 
-[^25]: * Номер стадии роста
-    * Процент роста
+    * <img src="../../../.gitbook/assets/oak_sapling.png" alt="" data-size="line"> **Обычное дерево**\
+      `tree`
+    * <img src="../../../.gitbook/assets/oak_sapling.png" alt="" data-size="line"> **Большое дерево**\
+      `big_tree`
+    * <img src="../../../.gitbook/assets/acacia_sapling.png" alt="" data-size="line"> **Обычная ель**\
+      `redwood`
+    * <img src="../../../.gitbook/assets/acacia_sapling.png" alt="" data-size="line"> **Высокая ель**\
+      `tall_redwood`
+    * <img src="../../../.gitbook/assets/birch_sapling.png" alt="" data-size="line"> **Обычная берёза**\
+      `birch`
+    * <img src="../../../.gitbook/assets/jungle_sapling.png" alt="" data-size="line"> **Дерево джунглей**\
+      `jungle`
+    * <img src="../../../.gitbook/assets/jungle_sapling.png" alt="" data-size="line"> **Маленькое дерево джунглей**\
+      `small_jungle`
+    * <img src="../../../.gitbook/assets/jungle_sapling.png" alt="" data-size="line"> **Дерево джунглей с какао-бобами**\
+      `cocoa_tree`
+    * <img src="../../../.gitbook/assets/jungle_sapling.png" alt="" data-size="line"> **Куст джунглей**\
+      `jungle_bush`
+    * <img src="../../../.gitbook/assets/red_mushroom.png" alt="" data-size="line"> **Красный гриб**\
+      `red_mushroom`
+    * <img src="../../../.gitbook/assets/brown_mushroom.png" alt="" data-size="line"> **Коричневый гриб**\
+      `brown_mushroom`
+    * <img src="../../../.gitbook/assets/oak_sapling.png" alt="" data-size="line"> **Болотное дерево**\
+      `swamp`
+    * <img src="../../../.gitbook/assets/acacia_sapling.png" alt="" data-size="line"> **Акация**\
+      `acacia`
+    * <img src="../../../.gitbook/assets/dark_oak_sapling.png" alt="" data-size="line"> **Тёмный дуб**\
+      `dark_oak`
+    * <img src="../../../.gitbook/assets/acacia_sapling.png" alt="" data-size="line"> **Огромная секвойя**\
+      `mega_redwood`
+    * <img src="../../../.gitbook/assets/spruce_wood.png" alt="" data-size="line"> **Огромная сосна**\
+      `mega_pine`
+    * <img src="../../../.gitbook/assets/birch_sapling.png" alt="" data-size="line"> **Высокая берёза**\
+      `tall_birch`
+    * <img src="../../../.gitbook/assets/chorus_plant.png" alt="" data-size="line"> **Дерево хоруса**\
+      `chorus_plant`
+    * <img src="../../../.gitbook/assets/crimson_fungus.png" alt="" data-size="line"> **Багровый гриб**\
+      `crimson_fungus`
+    * <img src="../../../.gitbook/assets/warped_fungus.png" alt="" data-size="line"> **Искажённый гриб**\
+      `warped_fungus`
+    * <img src="../../../.gitbook/assets/oak_sapling.png" alt="" data-size="line"> **Азалия**\
+      `azalea`
+    * <img src="../../../.gitbook/assets/mangrove_fence.png" alt="" data-size="line"> **Мангровое дерево**\
+      `mangrove`
+    * <img src="../../../.gitbook/assets/tall_grass.png" alt="" data-size="line"> **Высокое мангровое дерево**\
+      `tall_mangrove`
+    * <img src="../../../.gitbook/assets/cherry_sapling.png" alt="" data-size="line"> **Вишня**\
+      `cherry`
+
+[^25]: **Тип роста** `growth_type`:
+
+    * <img src="../../../.gitbook/assets/wooden_hoe.png" alt="" data-size="line"> **Номер стадии роста**\
+      `stage_number`
+    * <img src="../../../.gitbook/assets/short_grass.png" alt="" data-size="line"> **Процент роста**\
+      `percentage`
 
 [^26]: * Передняя
     * Задняя
