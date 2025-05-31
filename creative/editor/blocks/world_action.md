@@ -479,10 +479,16 @@ layout:
     * <img src="../../../.gitbook/assets/gold_nugget.png" alt="" data-size="line"> **Четвёртый**\
       `fourth`
 
-[^32]: * Задняя сторона
-    * Левая сторона
-    * Правая сторона
-    * Передняя сторона
+[^32]: **Сторона вазы** `side`:
+
+    * <img src="../../../.gitbook/assets/prize_pottery_sherd.png" alt="" data-size="line"> **Задняя сторона**\
+      `back`
+    * <img src="../../../.gitbook/assets/prize_pottery_sherd.png" alt="" data-size="line"> **Левая сторона**\
+      `left`
+    * <img src="../../../.gitbook/assets/sheaf_pottery_sherd.png" alt="" data-size="line"> **Правая сторона**\
+      `right`
+    * <img src="../../../.gitbook/assets/sheaf_pottery_sherd.png" alt="" data-size="line"> **Передняя сторона**\
+      `front`
 
 [^33]: * Может призывать
     * Не может призывать
