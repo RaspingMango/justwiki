@@ -490,14 +490,26 @@ layout:
     * <img src="../../../.gitbook/assets/sheaf_pottery_sherd.png" alt="" data-size="line"> **Передняя сторона**\
       `front`
 
-[^33]: * Может призывать
-    * Не может призывать
+[^33]: **Возможность призыва** `can_summon`:
 
-[^34]: * Кричащий
-    * Не кричащий
+    * <img src="../../../.gitbook/assets/lime_dye.png" alt="" data-size="line"> **Может призывать**\
+      `true`
+    * <img src="../../../.gitbook/assets/gray_dye.png" alt="" data-size="line"> **Не может призывать**\
+      `false`
 
-[^35]: * Включить
-    * Выключить
+[^34]: **Состояние** `shrieking`:
+
+    * <img src="../../../.gitbook/assets/lime_dye.png" alt="" data-size="line"> **Кричащий**\
+      `true`
+    * <img src="../../../.gitbook/assets/gray_dye.png" alt="" data-size="line"> **Не кричащий**\
+      `false`
+
+[^35]: **Активация** `powered`:
+
+    * <img src="../../../.gitbook/assets/lime_dye.png" alt="" data-size="line"> **Включить**\
+      `true`
+    * <img src="../../../.gitbook/assets/gray_dye.png" alt="" data-size="line"> **Выключить**\
+      `false`
 
 [^36]: * Да
     * Нет
