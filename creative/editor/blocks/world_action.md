@@ -525,10 +525,16 @@ layout:
     * <img src="../../../.gitbook/assets/gray_dye.png" alt="" data-size="line"> **Нет**\
       `false`
 
-[^38]: * Пустой
-    * Текстовый
-    * Стиль
-    * Обычный
+[^38]: **Тип формата** `format`:
+
+    * <img src="../../../.gitbook/assets/gray_dye.png" alt="" data-size="line"> **Пустой**\
+      `blank`
+    * <img src="../../../.gitbook/assets/book.png" alt="" data-size="line"> **Текстовый**\
+      `fixed`
+    * <img src="../../../.gitbook/assets/feather.png" alt="" data-size="line"> **Стиль**\
+      `styled`
+    * <img src="../../../.gitbook/assets/barrier.png" alt="" data-size="line"> **Обычный**\
+      `reset`
 
 [^39]: * Включено
     * Выключено
