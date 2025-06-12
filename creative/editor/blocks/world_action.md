@@ -162,7 +162,7 @@ layout:
 | Опция                                                                                                                                                                                       | Описание                                                                                                                                                       | Аргументы                                                                                                                                                                                                                                                                                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <p><img src="../../../.gitbook/assets/clock.png" alt="" data-size="line"> <strong>Установить время мира</strong><br><code>game_set_world_time</code></p>                                    | Устанавливает время мира в тиках.                                                                                                                              | [<img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line">](../arguments/number.md) **Время в тиках**                                                                                                                                                                                                                                                                        |
-| <p><img src="../../../.gitbook/assets/iron_pickaxe.png" alt="" data-size="line"> <strong>Установить выпадение блоков</strong><br><code>game_set_world_time</code></p>                       | Устанавливает правило в мире на выпадение блоков при их разрушении.                                                                                            | [<img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line">](../arguments/enum.md) **Выпадение блока** [**`->`**](#user-content-fn-39)[^39]                                                                                                                                                                                                                             |
+| <p><img src="../../../.gitbook/assets/iron_pickaxe.png" alt="" data-size="line"> <strong>Установить выпадение блоков</strong><br><code>game_set_block_drops_enabled</code></p>              | Устанавливает правило в мире на выпадение блоков при их разрушении.                                                                                            | [<img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line">](../arguments/enum.md) **Выпадение блоков** [**`->`**](#user-content-fn-39)[^39]                                                                                                                                                                                                                            |
 | <p><img src="../../../.gitbook/assets/skeleton_skull.png" alt="" data-size="line"> <strong>Установить сложность мира</strong><br><code>game_set_world_difficulty</code></p>                 | Устанавливает определённую сложность в мире.                                                                                                                   | [<img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line">](../arguments/enum.md) **Сложность** [**`->`**](#user-content-fn-40)[^40]                                                                                                                                                                                                                                   |
 | <p><img src="../../../.gitbook/assets/writable_book.png" alt="" data-size="line"> <strong>Установить игровое правило мира</strong><br><code>game_set_world_gamerule</code></p>              | <p>Устанавливает определённое игровое правило (gamerule) мира.<br><br>» Оставьте аргумент "Значение" пустым, чтобы сбросить его на состояние по умолчанию.</p> | <p><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Игровое правило</strong> <a data-footnote-ref href="#user-content-fn-41"><strong><code>-></code></strong></a><br><a href="../arguments/text.md"><img src="../../../.gitbook/assets/book.png" alt="" data-size="line"></a> <strong>Значение</strong></p>        |
 | <p><img src="../../../.gitbook/assets/water_bucket.png" alt="" data-size="line"> <strong>Установить погоду мира</strong><br><code>game_set_world_weather</code></p>                         | <p>Устанавливает погоду мира на определённое время.<br><br>» По умолчания, если не указать длительность, погода не будет изменяться.</p>                       | <p><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Тип погоды</strong> <a data-footnote-ref href="#user-content-fn-42"><strong><code>-></code></strong></a><br><a href="../arguments/number.md"><img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line"></a> <strong>Длительность</strong></p> |
@@ -174,9 +174,9 @@ layout:
 
 ***
 
-| Опция                                                                                                                                                          | Описание                                                            | Аргументы                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <p><img src="../../../.gitbook/assets/earth_head.png" alt="" data-size="line"> <strong>Отправить веб-запрос</strong><br><code>game_send_web_request</code></p> | Отправляет веб-запрос с выбранным методом и телом на выбранный URL. | <p><a href="../arguments/text.md"><img src="../../../.gitbook/assets/book.png" alt="" data-size="line"></a> <strong>URL</strong><br><a href="../arguments/text.md"><img src="../../../.gitbook/assets/book.png" alt="" data-size="line"></a> <strong>Тело запроса</strong><br><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Тип запроса</strong> <a data-footnote-ref href="#user-content-fn-43"><strong><code>-></code></strong></a><br><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Медиа тип запроса</strong> <a data-footnote-ref href="#user-content-fn-44"><strong><code>-></code></strong></a></p> |
+| Опция                                                                                                                                                          | Описание                                                            | Аргументы                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <p><img src="../../../.gitbook/assets/earth_head.png" alt="" data-size="line"> <strong>Отправить веб-запрос</strong><br><code>game_send_web_request</code></p> | Отправляет веб-запрос с выбранным методом и телом на выбранный URL. | <p><a href="../arguments/text.md"><img src="../../../.gitbook/assets/book.png" alt="" data-size="line"></a> <strong>URL</strong><br><a href="../arguments/text.md"><img src="../../../.gitbook/assets/book.png" alt="" data-size="line"></a> <strong>Тело запроса</strong><br><a href="../arguments/variable/dictionary.md"><img src="../../../.gitbook/assets/chest_minecart.png" alt="" data-size="line"></a> <strong>Заголовки запроса</strong><br><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Тип запроса</strong> <a data-footnote-ref href="#user-content-fn-43"><strong><code>-></code></strong></a><br><a href="../arguments/enum.md"><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"></a> <strong>Медиа тип запроса</strong> <a data-footnote-ref href="#user-content-fn-44"><strong><code>-></code></strong></a></p> |
 {% endtab %}
 {% endtabs %}
 
@@ -536,15 +536,27 @@ layout:
     * <img src="../../../.gitbook/assets/barrier.png" alt="" data-size="line"> **Обычный**\
       `reset`
 
-[^39]: * Включено
-    * Выключено
+[^39]: **Выпадение блоков** `enable`:
 
-[^40]: * Мирная
-    * Лёгкая
-    * Нормальная
-    * Сложная
+    * <img src="../../../.gitbook/assets/lime_dye.png" alt="" data-size="line"> **Включено**\
+      `true`
+    * <img src="../../../.gitbook/assets/gray_dye.png" alt="" data-size="line"> **Выключено**\
+      `false`
 
-[^41]: * Отключение рейдов (disableRaids)
+[^40]: **Сложность** `difficulty`:
+
+    * <img src="../../../.gitbook/assets/emerald.png" alt="" data-size="line"> **Мирная**\
+      `peaceful`
+    * <img src="../../../.gitbook/assets/wooden_sword.png" alt="" data-size="line"> **Лёгкая**\
+      `easy`
+    * <img src="../../../.gitbook/assets/iron_sword.png" alt="" data-size="line"> **Нормальная**\
+      `normal`
+    * <img src="../../../.gitbook/assets/diamond_sword.png" alt="" data-size="line"> **Сложная**\
+      `hard`
+
+[^41]: **Игровое правило** `gamerule`:
+
+    * Отключение рейдов (disableRaids)
     * Смена дня и ночи (doDaylightCycle)
     * Выпадение экипировки сущностей (doEntityDrops)
     * Распространение огня (doFireTick)
@@ -586,15 +598,33 @@ layout:
     * Исчезновение брошенного эндер-жемчуга при смерти (enderPearlsVanishOnDeath)
     * Распространение лозы (doVinesSpread)
 
-[^42]: * Ясная
-    * Дождливая
-    * Гроза
+[^42]: **Тип погоды** `weather_type`:
 
-[^43]: * GET
-    * HEAD
-    * POST
-    * PUT
-    * DELETE
+    * <img src="../../../.gitbook/assets/bucket.png" alt="" data-size="line"> **Ясная**\
+      `clear`
+    * <img src="../../../.gitbook/assets/water_bucket.png" alt="" data-size="line"> **Дождливая**\
+      `raining`
+    * <img src="../../../.gitbook/assets/nether_star.gif" alt="" data-size="line"> **Гроза**\
+      `thunder`
 
-[^44]: * Обычный текст (text/plain)
-    * JSON (application/json)
+[^43]: **Тип запроса** `request_type`:
+
+    * <img src="../../../.gitbook/assets/feather.png" alt="" data-size="line"> **GET**\
+      `get`
+    * <img src="../../../.gitbook/assets/feather.png" alt="" data-size="line"> **HEAD**\
+      `head`
+    * <img src="../../../.gitbook/assets/feather.png" alt="" data-size="line"> **POST**\
+      `post`
+    * <img src="../../../.gitbook/assets/feather.png" alt="" data-size="line"> **PUT**\
+      `put`
+    * <img src="../../../.gitbook/assets/feather.png" alt="" data-size="line"> **PATCH**\
+      `patch`
+    * <img src="../../../.gitbook/assets/feather.png" alt="" data-size="line"> **DELETE**\
+      `delete`
+
+[^44]: **Медиа тип запроса** `content_type`:
+
+    * <img src="../../../.gitbook/assets/writable_book.png" alt="" data-size="line"> **Обычный текст (text/plain)**\
+      `text_plain`
+    * <img src="../../../.gitbook/assets/bookshelf.png" alt="" data-size="line"> **JSON (application/json)**\
+      `application_json`
