@@ -23,5 +23,6 @@ description: Состав персонала режима на текущий м
 ## Хелперы
 
 * <img src="https://minotar.net/helm/37c2c483fcfe44749a5a5cb2933976a9/256.png" alt="" data-size="line"> **Imipramine** [Discord](https://discordapp.com/users/1286003906232455199)
+* <img src="https://minotar.net/helm/d340a77a7d6f4e529d41d0f550175167/256.png" alt="" data-size="line"> **MirchikM** [Discord](https://discordapp.com/users/1224301981368061965)
 * <img src="https://minotar.net/helm/5cd910ebbdfc49aa8948bedcc6a16481/256.png" alt="" data-size="line"> **vipa\_ch** [Discord](https://discordapp.com/users/924693312068255754)
 * <img src="https://minotar.net/helm/1b31c510bb124d37b68db3e8498f7c86/256.png" alt="" data-size="line"> **AntiHorus\_M** [Discord](https://discordapp.com/users/631788123646328832)

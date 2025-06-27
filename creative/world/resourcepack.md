@@ -21,13 +21,13 @@ description: >-
 
 ### Лимиты
 
-| Ранг   | Максимальный размер файла |
-| ------ | ------------------------- |
-| Moon   | 5 МБ                      |
-| Planet | 8 МБ                      |
-| Star   | 11 МБ                     |
-| Galaxy | 14 МБ                     |
-| Nova   | 17 МБ                     |
+| Ранг                                         | Максимальный размер файла |
+| -------------------------------------------- | ------------------------- |
+| <i class="fa-moon">:moon:</i> **Moon**       | 5 МБ                      |
+| <i class="fa-globe">:globe:</i> **Planet**   | 8 МБ                      |
+| <i class="fa-star">:star:</i> **Star**       | 11 МБ                     |
+| <i class="fa-galaxy">:galaxy:</i> **Galaxy** | 14 МБ                     |
+| <i class="fa-stars">:stars:</i> **Nova**     | 17 МБ                     |
 
 ## Установка
 
@@ -81,7 +81,7 @@ description: >-
 
 Для примеров используем [Google Диск](https://drive.google.com/) и [GitHub](https://github.com/).
 
-#### Google Диск
+#### <i class="fa-google-drive">:google-drive:</i> Google Диск
 
 {% stepper %}
 {% step %}
@@ -113,7 +113,7 @@ description: >-
 {% endstep %}
 {% endstepper %}
 
-#### GitHub
+#### <i class="fa-github">:github:</i> GitHub
 
 {% stepper %}
 {% step %}
