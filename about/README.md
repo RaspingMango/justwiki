@@ -25,12 +25,12 @@
 
 ## Официальные ресурсы
 
-* [Официальный сайт](https://justmc.io)
-* [Discord](https://discord.justmc.io)
-* [Telegram](https://t.me/justmc_news)
-* [VK](https://vk.com/justmc_community)
-* [YouTube](https://www.youtube.com/@justmc-server)
-* [GitLab](https://gitlab.com/justmc/justmc)
-* [GitHub](https://github.com/justmc-os)
+* <i class="fa-globe">:globe:</i> [Официальный сайт](https://justmc.io)
+* <i class="fa-discord">:discord:</i> [Discord](https://discord.justmc.io)
+* <i class="fa-telegram">:telegram:</i> [Telegram](https://t.me/justmc_news)
+* <i class="fa-vk">:vk:</i> [VK](https://vk.com/justmc_community)
+* <i class="fa-youtube">:youtube:</i> [YouTube](https://www.youtube.com/@justmc-server)
+* <i class="fa-gitlab">:gitlab:</i> [GitLab](https://gitlab.com/justmc/justmc)
+* <i class="fa-github">:github:</i> [GitHub](https://github.com/justmc-os)
 
 [^1]: Можно заменить на: `/ver`

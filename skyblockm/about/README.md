@@ -27,8 +27,8 @@ layout:
 
 ## Официальные ресурсы
 
-* [Discord](https://discord.gg/Hnvs29DNGN)
-* [Telegram](https://t.me/skyblockm)
+* <i class="fa-discord">:discord:</i> [Discord](https://discord.gg/Hnvs29DNGN)
+* <i class="fa-telegram">:telegram:</i> [Telegram](https://t.me/skyblockm)
 
 ***
 
