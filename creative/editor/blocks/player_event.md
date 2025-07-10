@@ -2,17 +2,6 @@
 description: >-
   Выполняет строку кода, когда игрок выполняет действие или действие выполнено
   над ним.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Событие игрока
@@ -120,7 +109,7 @@ layout:
 | <p><img src="../../../.gitbook/assets/cooked_chicken.png" alt="" data-size="line"> <strong>Игрок употребляет предмет</strong><br><code>player_consume_item</code></p>        | <p>Выполняет код, когда игрок съедает или выпивает предмет.<br><br>Работает с:<br>» Едой<br>» Зельями<br>» Молоком</p> | ![](../../../.gitbook/assets/symbol_red_barrier.png) **Отменяемое**     |
 | <p><img src="../../../.gitbook/assets/stone_pickaxe.png" alt="" data-size="line"> <strong>Игрок ломает предмет</strong><br><code>player_break_item</code></p>                | Выполняет код, когда игрок ломает предмет.                                                                             | ![](../../../.gitbook/assets/symbol_cyan_barrier.png) **Не отменяемое** |
 | <p><img src="../../../.gitbook/assets/writable_book.png" alt="" data-size="line"> <strong>Игрок изменяет книгу</strong><br><code>player_edit_book</code></p>                 | Выполняет код, когда игрок редактирует текст или подписывает Книгу с пером.                                            | ![](../../../.gitbook/assets/symbol_red_barrier.png) **Отменяемое**     |
-| <p><img src="../../../.gitbook/assets/fishing_rod.png" alt="" data-size="line"> <strong>Игрок рыбачит</strong><br><code>player_fish</code></p>                               | Выполняет код, когда игрок ловит что-либо на удочку.                                                                   | ![](../../../.gitbook/assets/symbol_red_barrier.png) **Отменяемое**     |
+| <p><img src="../../../.gitbook/assets/fishing_rod.png" alt="" data-size="line"> <strong>Игрок рыбачит</strong><br><code>player_fish</code></p>                               | Выполняет код, когда игрок рыбачит.                                                                                    | ![](../../../.gitbook/assets/symbol_red_barrier.png) **Отменяемое**     |
 | <p><img src="../../../.gitbook/assets/barrier.png" alt="" data-size="line"> <strong>Игрок перестаёт использовать предмет</strong><br><code>player_stop_using_item</code></p> | Выполняет код, когда игрок перестаёт использовать предмет.                                                             | ![](../../../.gitbook/assets/symbol_cyan_barrier.png) **Не отменяемое** |
 {% endtab %}
 

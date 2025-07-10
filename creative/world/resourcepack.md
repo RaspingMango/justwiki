@@ -21,13 +21,13 @@ description: >-
 
 ### Лимиты
 
-| Ранг                                         | Максимальный размер файла |
-| -------------------------------------------- | ------------------------- |
-| <i class="fa-moon">:moon:</i> **Moon**       | 5 МБ                      |
-| <i class="fa-globe">:globe:</i> **Planet**   | 8 МБ                      |
-| <i class="fa-star">:star:</i> **Star**       | 11 МБ                     |
-| <i class="fa-galaxy">:galaxy:</i> **Galaxy** | 14 МБ                     |
-| <i class="fa-stars">:stars:</i> **Nova**     | 17 МБ                     |
+| Ранг                                                       | Максимальный размер файла |
+| ---------------------------------------------------------- | ------------------------- |
+| <i class="fa-moon">:moon:</i> **Moon**                     | 5 МБ                      |
+| <i class="fa-planet-ringed">:planet-ringed:</i> **Planet** | 8 МБ                      |
+| <i class="fa-star">:star:</i> **Star**                     | 11 МБ                     |
+| <i class="fa-galaxy">:galaxy:</i> **Galaxy**               | 14 МБ                     |
+| <i class="fa-stars">:stars:</i> **Nova**                   | 17 МБ                     |
 
 ## Установка
 
