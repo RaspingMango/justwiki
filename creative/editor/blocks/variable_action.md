@@ -1,16 +1,5 @@
 ---
 description: Используется для взаимодействия с переменными.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Действие с переменной
@@ -30,7 +19,7 @@ layout:
 
 ### Опции
 
-{% tabs %}
+{% tabs fullWidth="true" %}
 {% tab title="Присвоение значений" %}
 <img src="../../../.gitbook/assets/iron_block.png" alt="" data-size="line"> **Различный операции присвоения.**
 

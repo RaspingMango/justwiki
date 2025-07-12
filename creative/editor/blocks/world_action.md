@@ -1,16 +1,5 @@
 ---
 description: Выполняет действия, связанные с миром.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Действие над миром
@@ -30,7 +19,7 @@ layout:
 
 ### Опции
 
-{% tabs %}
+{% tabs fullWidth="true" %}
 {% tab title="Создание сущностей" %}
 <img src="../../../.gitbook/assets/sheep_spawn_egg.png" alt="" data-size="line"> **Действия, которые создают сущностей в мире.**
 
