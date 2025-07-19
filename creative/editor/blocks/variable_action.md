@@ -155,20 +155,39 @@ description: Используется для взаимодействия с п�
     * <img src="../../../.gitbook/assets/lime_wool.png" alt="" data-size="line"> **Локальные**\
       `local`
 
-[^5]: * По умолчанию
-    * Обычное округление
-    * Округлить до меньшего
-    * Округлить до большего
+[^5]: **Режим деления** `division_mode`:
 
-[^6]: * Остаток от деления (оставляет знак делимого)
-    * Остаток по модулю (оставляет знак делителя)
+    * <img src="../../../.gitbook/assets/ender_pearl.png" alt="" data-size="line"> **По умолчанию**\
+      `default`
+    * <img src="../../../.gitbook/assets/oak_pressure_plate.png" alt="" data-size="line"> **Обычное округление**\
+      `round_to_int`
+    * <img src="../../../.gitbook/assets/heavy_weighted_pressure_plate.png" alt="" data-size="line"> **Округлить до меньшего**\
+      `floor`
+    * <img src="../../../.gitbook/assets/light_weighted_pressure_plate.png" alt="" data-size="line"> **Округлить до большего**\
+      `ceil`
 
-[^7]: * Обычное округление
-    * Округление до меньшего
-    * Округление до большего
+[^6]: **Режим работы** `remainder_mode`:
 
-[^8]: * Целое
-    * Дробное
+    * <img src="../../../.gitbook/assets/purple_dye.png" alt="" data-size="line"> **Остаток от деления (оставляет знак делимого)**\
+      `remainder`
+    * <img src="../../../.gitbook/assets/pink_dye.png" alt="" data-size="line"> **Остаток по модулю (оставляет знак делителя)**\
+      `modulo`
+
+[^7]: **Способ округления** `round_type`:
+
+    * <img src="../../../.gitbook/assets/oak_pressure_plate.png" alt="" data-size="line"> **Обычное округление**\
+      `round`
+    * <img src="../../../.gitbook/assets/heavy_weighted_pressure_plate.png" alt="" data-size="line"> **Округление до меньшего**\
+      `floor`
+    * <img src="../../../.gitbook/assets/light_weighted_pressure_plate.png" alt="" data-size="line"> **Округление до большего**\
+      `ceil`
+
+[^8]: **Тип числа** `integer`:
+
+    * <img src="../../../.gitbook/assets/lime_dye.png" alt="" data-size="line"> **Целое**\
+      `true`
+    * <img src="../../../.gitbook/assets/gray_dye.png" alt="" data-size="line"> **Дробное**\
+      `false`
 
 [^9]: * ИЛИ (or)
     * И (and)

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
-
 # Блок
 
 <figure><img src="../../../.gitbook/assets/chiseled_stone_bricks.png" alt="" width="150"><figcaption><p>Условное обозначение</p></figcaption></figure>

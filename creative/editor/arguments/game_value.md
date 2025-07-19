@@ -2,17 +2,6 @@
 description: >-
   Автоматически определённое значение, которое зависит от текущего состояния
   игры (например, местоположение игрока).
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Игровое значение

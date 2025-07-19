@@ -1,16 +1,5 @@
 ---
 description: Выполняет код, когда в мире происходит действие.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Событие мира

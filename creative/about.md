@@ -2,17 +2,6 @@
 description: >-
   Creative+ позволяет любому игроку создать свою собственную мини-игру или
   играть в уже готовые игры от других игроков.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # О режиме

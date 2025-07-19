@@ -2,17 +2,6 @@
 description: >-
   Может хранить в себе все типы значений. Задать значение можно при помощи
   действия "установить переменную".
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Переменная

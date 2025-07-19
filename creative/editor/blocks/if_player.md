@@ -2,17 +2,6 @@
 description: >-
   Выполняет код внутри поршней, если игрок соблюдает условие, указанное на
   табличке.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Если игрок

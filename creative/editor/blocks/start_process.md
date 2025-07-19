@@ -2,17 +2,6 @@
 description: >-
   Вызывает строку кода, связанную с блоком процесса. Строка кода, где вызывается
   процесс, будет продолжать свою работу, даже если сам процесс не завершился.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Запустить процесс

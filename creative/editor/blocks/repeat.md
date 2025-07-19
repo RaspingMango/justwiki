@@ -1,16 +1,5 @@
 ---
 description: Повторяет код внутри поршней в зависимости от выставленных условий.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Повторение

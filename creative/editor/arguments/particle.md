@@ -1,16 +1,5 @@
 ---
 description: Используется для указания аргументов типа частица.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Эффект частиц

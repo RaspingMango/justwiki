@@ -2,17 +2,6 @@
 description: >-
   Создаёт выборку из сущностей, с которой можно будет работать до тех пор, пока
   вы не сбросите выборку.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Выбрать цель

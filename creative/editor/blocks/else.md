@@ -2,17 +2,6 @@
 description: >-
   Выполняет код внутри поршней, если условие, привязанное к этому блоку,
   неверно.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Иначе

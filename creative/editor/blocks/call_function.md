@@ -3,17 +3,6 @@ description: >-
   Вызывает строку кода, связанную с блоком функции. Строка кода, где вызывается
   функция, не будет продолжена до тех пор, пока функция не завершит своё
   выполнение.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Вызвать функцию

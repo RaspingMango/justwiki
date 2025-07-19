@@ -1,16 +1,5 @@
 ---
 description: Выполняет код внутри поршней, если указанное условие верно.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Если переменная

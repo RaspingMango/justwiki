@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
-
 # Словарь
 
 <figure><img src="../../../../.gitbook/assets/chest_minecart.png" alt="" width="150"><figcaption><p>Условное обозначение</p></figcaption></figure>

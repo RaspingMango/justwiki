@@ -2,17 +2,6 @@
 description: >-
   Выполняет строку кода, когда сущность выполняет действие или действие
   выполнено над ней.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Событие сущности

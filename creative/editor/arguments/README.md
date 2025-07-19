@@ -1,16 +1,5 @@
 ---
 description: Список всех аргументов.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Аргументы

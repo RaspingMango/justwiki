@@ -2,17 +2,6 @@
 description: >-
   Контролирует выполнение кода внутри поршней, может проверять наличие ошибки
   или затрату по времени на выполнение кода.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Контроллер

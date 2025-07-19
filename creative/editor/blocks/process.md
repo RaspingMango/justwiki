@@ -1,16 +1,5 @@
 ---
 description: Хранит строку кода, которую можно вызвать с помощью блока "Запустить процесс".
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Процесс
