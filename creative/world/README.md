@@ -205,7 +205,7 @@
 
 {% hint style="info" %}
 Доступно только от ранга [Star](https://justmc.io/shop).\
-В качестве альтернативы, на сервере разрешено использовать модификации наподобие [IBE Editor](https://modrinth.com/mod/ibe-editor).
+В качестве альтернативы, на сервере разрешено использовать модификации наподобие [Simple Item Editor](https://modrinth.com/mod/simple-item-editor).
 {% endhint %}
 
 | Команда                                     | Описание                                                      |
