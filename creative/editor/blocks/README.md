@@ -7,7 +7,7 @@ description: Список всех блоков кода.
 * [<img src="../../../.gitbook/assets/diamond_block.png" alt="" data-size="line"> **Событие игрока**](player_event.md)
 * [<img src="../../../.gitbook/assets/gold_block.png" alt="" data-size="line"> **Событие сущности**](entity_event.md)
 * [<img src="../../../.gitbook/assets/redstone_block.png" alt="" data-size="line"> **Событие мира**](world_event.md)
-* [<img src="../../../.gitbook/assets/oak_planks.png" alt="" data-size="line"> **Действие над игроком**](player_action.md)
+* [<img src="../../../.gitbook/assets/cobblestone.png" alt="" data-size="line"> **Действие над игроком**](player_action.md)
 * [<img src="../../../.gitbook/assets/mossy_cobblestone.png" alt="" data-size="line"> **Действие над сущностью**](entity_action.md)
 * [<img src="../../../.gitbook/assets/netherrack.png" alt="" data-size="line"> **Действие над миром**](world_action.md)
 * [<img src="../../../.gitbook/assets/iron_block.png" alt="" data-size="line"> **Действие с переменной**](variable_action.md)
