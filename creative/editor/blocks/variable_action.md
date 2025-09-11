@@ -157,7 +157,7 @@ description: Используется для взаимодействия с п�
 
 [^5]: **Режим деления** `division_mode`:
 
-    * <img src="../../../.gitbook/assets/ender_pearl.png" alt="" data-size="line"> **По умолчанию**\
+    * <img src="../../../.gitbook/assets/ender_pearl.png" alt="" data-size="line"> **Без округления**\
       `default`
     * <img src="../../../.gitbook/assets/oak_pressure_plate.png" alt="" data-size="line"> **Обычное округление**\
       `round_to_int`
