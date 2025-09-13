@@ -13,7 +13,6 @@ description: Состав персонала сервера на текущий 
 * <img src="https://minotar.net/helm/e2bfcfa854a04659838873219acf5c92/256.png" alt="" data-size="line"> **pxlymorphism** [Discord](https://discordapp.com/users/239720486961938432)
 * <img src="https://minotar.net/helm/316d5dff51124405aa546bd6945737ad/256.png" alt="" data-size="line"> **FeldGear** [Discord](https://discordapp.com/users/284948282994720770)
 * <img src="https://minotar.net/helm/3044a4092f984e31805d2da5c49f7cff/256.png" alt="" data-size="line"> **LeonidM** [Discord](https://discordapp.com/users/323503212764069890)
-* <img src="https://minotar.net/helm/ac91b41043b64a509ea227a69e43ff90/256.png" alt="" data-size="line"> **Sem97nik5** [Discord](https://discordapp.com/users/351355575440900097)
 
 ## Разработчики
 
