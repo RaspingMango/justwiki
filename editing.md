@@ -46,6 +46,16 @@ hidden: true
 {% endstep %}
 
 {% step %}
+### Опубликуйте сайт
+
+Выложите свою версию сайта в открытый доступ.
+
+<figure><img src=".gitbook/assets/gitbook_publish.png" alt="" width="547"><figcaption><p>Нажмите кнопку "Publish to the web".</p></figcaption></figure>
+
+После того, как вы опубликовали сайт, скопируйте ссылку на него.
+{% endstep %}
+
+{% step %}
 ### Создайте запрос на слияние
 
 Перейдите на страницу своего форка JustWiki на GitHub.
@@ -56,7 +66,7 @@ hidden: true
 
 <figure><img src=".gitbook/assets/github_pull_request_summary.png" alt="" width="563"><figcaption></figcaption></figure>
 
-По желанию, можете добавить описание своему запросу на слияние. Затем нажмите **Create pull request**.
+Вставьте скопированную ссылку на вашу версию сайта в описание. По желанию, можете также перечислить свои изменения в описании. Затем нажмите **Create pull request**.
 
 В результате ваш запрос пройдёт модерацию и будет принят при условии, что все внесённые вами изменения корректны.
 {% endstep %}
