@@ -43,3 +43,9 @@ description: >-
 ## Рекомендуемые дополнения
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>🔧 <strong>JustHelper</strong></td><td>Модификация, которая помогает ориентироваться по редактору кода и быстро находить потерянные элементы в большом коде.</td><td></td><td><a href="https://modrinth.com/mod/justhelper">https://modrinth.com/mod/justhelper</a></td></tr><tr><td>🔧 <strong>JustUtils</strong></td><td>Модификация, повышающая удобство кодинга и перемещение по редактору кода.</td><td></td><td><a href="https://modrinth.com/mod/justutils">https://modrinth.com/mod/justutils</a></td></tr><tr><td>🔧 <strong>JMC-Codespace</strong></td><td>Модификация, добавляющая больше возможностей для кодинга.</td><td></td><td><a href="https://modrinth.com/mod/jmc-codespace">https://modrinth.com/mod/jmc-codespace</a></td></tr></tbody></table>
+
+## См. также
+
+{% embed url="https://youtu.be/miTm8WVWyss?si=" %}
+Подробное видеоруководство по режиму от игрока сервера.
+{% endembed %}
