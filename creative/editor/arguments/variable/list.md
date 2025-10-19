@@ -1,7 +1,12 @@
+---
+description: Значение, используемое для хранения множества значений.
+---
+
 # Список
 
-<figure><img src="../../../../.gitbook/assets/ender_chest.png" alt="" width="150"><figcaption><p>Условное обозначение</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/guster_banner_pattern.png" alt=""><figcaption></figcaption></figure>
 
+**Команда получения:** `/array`\
 **Ячейка:** <img src="../../../../.gitbook/assets/yellow_stained_glass_pane.png" alt="" data-size="line">\
 **Текстовый идентификатор:** `array`
 

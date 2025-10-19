@@ -2,6 +2,23 @@
 icon: house
 cover: .gitbook/assets/jw_banner.png
 coverY: 0
+layout:
+  width: wide
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: false
 ---
 
 # Главная страница

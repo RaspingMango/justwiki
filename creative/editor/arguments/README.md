@@ -20,7 +20,8 @@ description: Список всех аргументов.
 * [<img src="../../../.gitbook/assets/phantom_membrane.png" alt="" data-size="line"> **Эффект частиц**](particle.md)
 * [<img src="../../../.gitbook/assets/dragon_breath.png" alt="" data-size="line"> **Зелье**](potion.md)
 * [<img src="../../../.gitbook/assets/magma_cream.png" alt="" data-size="line"> **Переменная**](variable/)
-* [<img src="../../../.gitbook/assets/ender_chest.png" alt="" data-size="line"> **Список**](variable/list.md)
+* [<img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"> **Параметр**](parameter.md)
+* [<img src="../../../.gitbook/assets/guster_banner_pattern.png" alt="" data-size="line"> **Список**](variable/list.md)
 * [<img src="../../../.gitbook/assets/chest_minecart.png" alt="" data-size="line"> **Словарь**](variable/dictionary.md)
 * [<img src="../../../.gitbook/assets/name_tag.png" alt="" data-size="line"> **Игровое значение**](game_value.md)
 * <img src="../../../.gitbook/assets/white_dye.png" alt="" data-size="line"> [**Любое значение**](#user-content-fn-2)[^2]

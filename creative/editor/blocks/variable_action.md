@@ -69,7 +69,7 @@ description: Используется для взаимодействия с п�
 {% endtab %}
 
 {% tab title="Действия со списками" %}
-<p align="center"><img src="../../../.gitbook/assets/ender_chest.png" alt="" data-size="line"> <strong>Различные действия для манипуляции со списками.</strong></p>
+<p align="center"><img src="../../../.gitbook/assets/guster_banner_pattern.png" alt="" data-size="line"> <strong>Различные действия для манипуляции со списками.</strong></p>
 
 ***
 

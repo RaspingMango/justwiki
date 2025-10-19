@@ -50,6 +50,7 @@
     * [Эффект частиц](creative/editor/arguments/particle.md)
     * [Зелье](creative/editor/arguments/potion.md)
     * [Переменная](creative/editor/arguments/variable/README.md)
+    * [Параметр](creative/editor/arguments/parameter.md)
     * [Список](creative/editor/arguments/variable/list.md)
     * [Словарь](creative/editor/arguments/variable/dictionary.md)
     * [Игровое значение](creative/editor/arguments/game_value.md)
