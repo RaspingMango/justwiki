@@ -1,5 +1,19 @@
 ---
 description: Выполняет действия над игроком или над группой игроков.
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
 ---
 
 # Действие над игроком
