@@ -1,7 +1,7 @@
 ---
 description: Используется для взаимодействия с переменными.
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:
@@ -33,9 +33,9 @@ layout:
 
 ### Опции
 
-{% tabs fullWidth="true" %}
+{% tabs fullWidth="false" %}
 {% tab title="Присвоение значений" %}
-<p align="center"><img src="../../../.gitbook/assets/iron_block.png" alt="" data-size="line"> <strong>Различные операции присвоения.</strong></p>
+<img src="../../../.gitbook/assets/iron_block.png" alt="" data-size="line"> **Различные операции присвоения.**
 
 ***
 
@@ -43,7 +43,7 @@ layout:
 {% endtab %}
 
 {% tab title="Числовые операции" %}
-<p align="center"><img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line"> <strong>Различные числовые операции.</strong></p>
+<img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line"> **Различные числовые операции.**
 
 ***
 
@@ -51,7 +51,7 @@ layout:
 {% endtab %}
 
 {% tab title="Операции над текстом" %}
-<p align="center"><img src="../../../.gitbook/assets/writable_book.png" alt="" data-size="line"> <strong>Различные операции над текстом.</strong></p>
+<img src="../../../.gitbook/assets/writable_book.png" alt="" data-size="line"> **Различные операции над текстом.**
 
 ***
 
@@ -59,7 +59,7 @@ layout:
 {% endtab %}
 
 {% tab title="Операции над стилизуемым текстом" %}
-<p align="center"><img src="../../../.gitbook/assets/knowledge_book.png" alt="" data-size="line"> <strong>Различные операции над стилизуемым текстом.</strong></p>
+<img src="../../../.gitbook/assets/knowledge_book.png" alt="" data-size="line"> **Различные операции над стилизуемым текстом.**
 
 ***
 
@@ -67,7 +67,7 @@ layout:
 {% endtab %}
 
 {% tab title="Операции над местоположениями" %}
-<p align="center"><img src="../../../.gitbook/assets/map.png" alt="" data-size="line"> <strong>Различные операции над местоположениями.</strong></p>
+<img src="../../../.gitbook/assets/map.png" alt="" data-size="line"> **Различные операции над местоположениями.**
 
 ***
 

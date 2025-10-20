@@ -19,9 +19,9 @@ description: Выполняет действия, связанные с миро
 
 ### Опции
 
-{% tabs fullWidth="true" %}
+{% tabs fullWidth="false" %}
 {% tab title="Создание сущностей" %}
-<p align="center"><img src="../../../.gitbook/assets/sheep_spawn_egg.png" alt="" data-size="line"> <strong>Действия, которые создают сущностей в мире.</strong></p>
+<img src="../../../.gitbook/assets/sheep_spawn_egg.png" alt="" data-size="line"> **Действия, которые создают сущностей в мире.**
 
 ***
 
@@ -29,7 +29,7 @@ description: Выполняет действия, связанные с миро
 {% endtab %}
 
 {% tab title="Действия с блоками" %}
-<p align="center"><img src="../../../.gitbook/assets/bricks.png" alt="" data-size="line"> <strong>Действия, которые взаимодействуют с миром и блоками.</strong></p>
+<img src="../../../.gitbook/assets/bricks.png" alt="" data-size="line"> **Действия, которые взаимодействуют с миром и блоками.**
 
 ***
 
@@ -37,7 +37,7 @@ description: Выполняет действия, связанные с миро
 {% endtab %}
 
 {% tab title="Действия с событиями" %}
-<p align="center"><img src="../../../.gitbook/assets/diamond.png" alt="" data-size="line"> <strong>Действия, которые изменяют поведение события.</strong></p>
+<img src="../../../.gitbook/assets/diamond.png" alt="" data-size="line"> **Действия, которые изменяют поведение события.**
 
 ***
 
@@ -45,7 +45,7 @@ description: Выполняет действия, связанные с миро
 {% endtab %}
 
 {% tab title="Действия со скорбордами" %}
-<p align="center"><img src="../../../.gitbook/assets/knowledge_book.png" alt="" data-size="line"> <strong>Действия, которые создают или изменяют скорборды.</strong></p>
+<img src="../../../.gitbook/assets/knowledge_book.png" alt="" data-size="line"> **Действия, которые создают или изменяют скорборды.**
 
 ***
 
@@ -53,7 +53,7 @@ description: Выполняет действия, связанные с миро
 {% endtab %}
 
 {% tab title="Настройки мира" %}
-<p align="center"><img src="../../../.gitbook/assets/anvil.png" alt="" data-size="line"> <strong>Действия, которые взаимодействуют на мир.</strong></p>
+<img src="../../../.gitbook/assets/anvil.png" alt="" data-size="line"> **Действия, которые взаимодействуют на мир.**
 
 ***
 
@@ -61,7 +61,7 @@ description: Выполняет действия, связанные с миро
 {% endtab %}
 
 {% tab title="Веб-действия" %}
-<p align="center"><img src="../../../.gitbook/assets/earth_head.png" alt="" data-size="line"> <strong>Действия, которые взаимодействуют с интернет-ресурсами.</strong></p>
+<img src="../../../.gitbook/assets/earth_head.png" alt="" data-size="line"> **Действия, которые взаимодействуют с интернет-ресурсами.**
 
 ***
 

@@ -1,7 +1,7 @@
 ---
 description: Выполняет действия над игроком или над группой игроков.
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:
@@ -33,9 +33,9 @@ layout:
 
 ### Опции
 
-{% tabs fullWidth="true" %}
+{% tabs fullWidth="false" %}
 {% tab title="Управление инвентарём" %}
-<p align="center"><img src="../../../.gitbook/assets/chest.png" alt="" data-size="line"> <strong>Выдача, удаление, установка и сохранение предметов.</strong></p>
+<img src="../../../.gitbook/assets/chest.png" alt="" data-size="line"> **Выдача, удаление, установка и сохранение предметов.**
 
 ***
 
@@ -43,7 +43,7 @@ layout:
 {% endtab %}
 
 {% tab title="Коммуникация" %}
-<p align="center"><img src="../../../.gitbook/assets/jungle_sign.png" alt="" data-size="line"> <strong>Отображение текста, отправка сообщений и проигрывание эффектов.</strong></p>
+<img src="../../../.gitbook/assets/jungle_sign.png" alt="" data-size="line"> **Отображение текста, отправка сообщений и проигрывание эффектов.**
 
 ***
 
@@ -51,7 +51,7 @@ layout:
 {% endtab %}
 
 {% tab title="Инвентарные меню" %}
-<p align="center"><img src="../../../.gitbook/assets/painting.png" alt="" data-size="line"> <strong>Отображение и изменение предметов в инвентарном меню.</strong></p>
+<img src="../../../.gitbook/assets/painting.png" alt="" data-size="line"> **Отображение и изменение предметов в инвентарном меню.**
 
 ***
 
@@ -59,7 +59,7 @@ layout:
 {% endtab %}
 
 {% tab title="Параметры" %}
-<p align="center"><img src="../../../.gitbook/assets/apple.png" alt="" data-size="line"> <strong>Изменение параметров игрока, такие как здоровье, голод, опыт и другое.</strong></p>
+<img src="../../../.gitbook/assets/apple.png" alt="" data-size="line"> **Изменение параметров игрока, такие как здоровье, голод, опыт и другое.**
 
 ***
 
@@ -67,7 +67,7 @@ layout:
 {% endtab %}
 
 {% tab title="Настройки" %}
-<p align="center"><img src="../../../.gitbook/assets/anvil.png" alt="" data-size="line"> <strong>Базовые настройки игрока, такие как режим игры, полёт и другое.</strong></p>
+<img src="../../../.gitbook/assets/anvil.png" alt="" data-size="line"> **Базовые настройки игрока, такие как режим игры, полёт и другое.**
 
 ***
 
@@ -75,7 +75,7 @@ layout:
 {% endtab %}
 
 {% tab title="Передвижение" %}
-<p align="center"><img src="../../../.gitbook/assets/leather_boots.png" alt="" data-size="line"> <strong>Запуск, телепортация и другие взаимодействия, связанные с перемещением игрока.</strong></p>
+<img src="../../../.gitbook/assets/leather_boots.png" alt="" data-size="line"> **Запуск, телепортация и другие взаимодействия, связанные с перемещением игрока.**
 
 ***
 
@@ -83,7 +83,7 @@ layout:
 {% endtab %}
 
 {% tab title="Мир" %}
-<p align="center"><img src="../../../.gitbook/assets/spectral_arrow.png" alt="" data-size="line"> <strong>Отображение визуальных эффектов в мире, связанные с игроком.</strong></p>
+<img src="../../../.gitbook/assets/spectral_arrow.png" alt="" data-size="line"> **Отображение визуальных эффектов в мире, связанные с игроком.**
 
 ***
 
@@ -91,7 +91,7 @@ layout:
 {% endtab %}
 
 {% tab title="Частицы" %}
-<p align="center"><img src="../../../.gitbook/assets/white_dye.png" alt="" data-size="line"> <strong>Отображение различных эффектов частиц для игроков.</strong></p>
+<img src="../../../.gitbook/assets/white_dye.png" alt="" data-size="line"> **Отображение различных эффектов частиц для игроков.**
 
 ***
 
@@ -99,7 +99,7 @@ layout:
 {% endtab %}
 
 {% tab title="Внешний вид" %}
-<p align="center"><img src="../../../.gitbook/assets/player_head.png" alt="" data-size="line"> <strong>Действия, которые изменяют внешний вид игрока.</strong></p>
+<img src="../../../.gitbook/assets/player_head.png" alt="" data-size="line"> **Действия, которые изменяют внешний вид игрока.**
 
 ***
 
@@ -107,7 +107,7 @@ layout:
 {% endtab %}
 
 {% tab title="Разное" %}
-<p align="center"><img src="../../../.gitbook/assets/bedrock.png" alt="" data-size="line"> <strong>Действия, которые относятся к другим категориям.</strong></p>
+<img src="../../../.gitbook/assets/bedrock.png" alt="" data-size="line"> **Действия, которые относятся к другим категориям.**
 
 ***
 
