@@ -15,6 +15,7 @@
 | `/editor drops <on/off>`                         | Включение/выключение выпадения предметов из блоков кода.                                                                                |
 | `/editor floor <add/remove>`                     | Добавление/удаление этажа кода.                                                                                                         |
 | `/editor items`                                  | Восстановить все предметы редактора кода в инвентаре.                                                                                   |
+| `/editor refactor rename <function/process>`     | Переименовать функцию или процесс.                                                                                                      |
 | `/editor save-location <on/off>`                 | Запоминать текущее местоположение в редакторе кода.                                                                                     |
 | `/editor time <day/midnight/night/noon>`         | Изменить время в редакторе кода.                                                                                                        |
 | `/editor tp <floor/function/process/координаты>` | Телепортироваться в любое место в редакторе кода.                                                                                       |
@@ -132,7 +133,7 @@
 
 * [<img src="../../.gitbook/assets/book.png" alt="" data-size="line"> **Текст**](arguments/text.md) — значение, используемое для указания текстовых аргументов.
 * [<img src="../../.gitbook/assets/slime_ball.png" alt="" data-size="line"> **Число**](arguments/number.md) — значение, используемое для указания числовых аргументов.
-* [<img src="../../.gitbook/assets/paper.png" alt="" data-size="line"> **Местоположение**](arguments/location.md) — значение, используемое для указания аргументов типа местоположение.
+* [<img src="../../.gitbook/assets/map.png" alt="" data-size="line"> **Местоположение**](arguments/location.md) — значение, используемое для указания аргументов типа местоположение.
 * [<img src="../../.gitbook/assets/prismarine_shard.png" alt="" data-size="line"> **Вектор**](arguments/vector.md) — значение, используемое для указания аргументов типа вектор.
 * [<img src="../../.gitbook/assets/nautilus_shell.png" alt="" data-size="line"> **Звук**](arguments/sound.md) — значение, используемое для указания аргументов типа звук.
 * [<img src="../../.gitbook/assets/phantom_membrane.png" alt="" data-size="line"> **Эффект частиц**](arguments/particle.md) — значение, используемое для указания аргументов типа частица.

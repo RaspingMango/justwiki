@@ -14,7 +14,7 @@ description: Список всех аргументов.
 
 * [<img src="../../../.gitbook/assets/book.png" alt="" data-size="line"> **Текст**](text.md)
 * [<img src="../../../.gitbook/assets/slime_ball.png" alt="" data-size="line"> **Число**](number.md)
-* [<img src="../../../.gitbook/assets/paper.png" alt="" data-size="line"> **Местоположение**](location.md)
+* [<img src="../../../.gitbook/assets/map.png" alt="" data-size="line"> **Местоположение**](location.md)
 * [<img src="../../../.gitbook/assets/prismarine_shard.png" alt="" data-size="line"> **Вектор**](vector.md)
 * [<img src="../../../.gitbook/assets/nautilus_shell.png" alt="" data-size="line"> **Звук**](sound.md)
 * [<img src="../../../.gitbook/assets/phantom_membrane.png" alt="" data-size="line"> **Эффект частиц**](particle.md)
