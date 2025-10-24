@@ -3,10 +3,10 @@ icon: house
 cover: .gitbook/assets/jw_banner.png
 coverY: 0
 layout:
-  width: wide
+  width: default
   cover:
     visible: true
-    size: hero
+    size: full
   title:
     visible: true
   description:

@@ -75,7 +75,7 @@ layout:
 {% endtab %}
 
 {% tab title="Операции над предметами" %}
-<p align="center"><img src="../../../.gitbook/assets/item_frame.png" alt="" data-size="line"> <strong>Различные операции над предметами.</strong></p>
+<img src="../../../.gitbook/assets/item_frame.png" alt="" data-size="line"> **Различные операции над предметами.**
 
 ***
 
@@ -83,7 +83,7 @@ layout:
 {% endtab %}
 
 {% tab title="Действия со списками" %}
-<p align="center"><img src="../../../.gitbook/assets/guster_banner_pattern.png" alt="" data-size="line"> <strong>Различные действия для манипуляции со списками.</strong></p>
+<img src="../../../.gitbook/assets/guster_banner_pattern.png" alt="" data-size="line"> **Различные действия для манипуляции со списками.**
 
 ***
 
@@ -91,7 +91,7 @@ layout:
 {% endtab %}
 
 {% tab title="Действия над словарями" %}
-<p align="center"><img src="../../../.gitbook/assets/chest_minecart.png" alt="" data-size="line"> <strong>Различные действия для манипуляции со словарями.</strong></p>
+<img src="../../../.gitbook/assets/chest_minecart.png" alt="" data-size="line"> **Различные действия для манипуляции со словарями.**
 
 ***
 
@@ -99,7 +99,7 @@ layout:
 {% endtab %}
 
 {% tab title="Действия над частицами" %}
-<p align="center"><img src="../../../.gitbook/assets/white_dye.png" alt="" data-size="line"> <strong>Различные действия над частицами.</strong></p>
+<img src="../../../.gitbook/assets/white_dye.png" alt="" data-size="line"> **Различные действия над частицами.**
 
 ***
 
@@ -107,7 +107,7 @@ layout:
 {% endtab %}
 
 {% tab title="Действия над миром" %}
-<p align="center"><img src="../../../.gitbook/assets/spectral_arrow.png" alt="" data-size="line"> <strong>Различные действия над миром.</strong></p>
+<img src="../../../.gitbook/assets/spectral_arrow.png" alt="" data-size="line"> **Различные действия над миром.**
 
 ***
 
@@ -115,7 +115,7 @@ layout:
 {% endtab %}
 
 {% tab title="Прочие действия" %}
-<p align="center"><img src="../../../.gitbook/assets/bedrock.png" alt="" data-size="line"> <strong>Действия, относящиеся к другим категориям.</strong></p>
+<img src="../../../.gitbook/assets/bedrock.png" alt="" data-size="line"> **Действия, относящиеся к другим категориям.**
 
 ***
 
@@ -123,7 +123,7 @@ layout:
 {% endtab %}
 
 {% tab title="Действия над векторами" %}
-<p align="center"><img src="../../../.gitbook/assets/prismarine_shard.png" alt="" data-size="line"> <strong>Различные операции над векторами.</strong></p>
+<img src="../../../.gitbook/assets/prismarine_shard.png" alt="" data-size="line"> **Различные операции над векторами.**
 
 ***
 
