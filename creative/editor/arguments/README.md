@@ -4,7 +4,7 @@ description: Список всех аргументов.
 
 # Аргументы
 
-* [<img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"> **Маркер**](enum.md)
+* [<img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"> **Маркер**](parameter/enum.md)
 * [<img src="../../../.gitbook/assets/item_frame.png" alt="" data-size="line"> **Предмет**](item.md)
 * [<img src="../../../.gitbook/assets/chiseled_stone_bricks.png" alt="" data-size="line"> **Блок**](block.md)
 
@@ -20,7 +20,7 @@ description: Список всех аргументов.
 * [<img src="../../../.gitbook/assets/phantom_membrane.png" alt="" data-size="line"> **Эффект частиц**](particle.md)
 * [<img src="../../../.gitbook/assets/dragon_breath.png" alt="" data-size="line"> **Зелье**](potion.md)
 * [<img src="../../../.gitbook/assets/magma_cream.png" alt="" data-size="line"> **Переменная**](variable/)
-* [<img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"> **Параметр**](parameter.md)
+* [<img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"> **Параметр**](parameter/)
 * [<img src="../../../.gitbook/assets/guster_banner_pattern.png" alt="" data-size="line"> **Список**](variable/list.md)
 * [<img src="../../../.gitbook/assets/chest_minecart.png" alt="" data-size="line"> **Словарь**](variable/dictionary.md)
 * [<img src="../../../.gitbook/assets/name_tag.png" alt="" data-size="line"> **Игровое значение**](game_value.md)

@@ -1,6 +1,6 @@
 # Маркер
 
-<figure><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" width="150"><figcaption><p>Условное обозначение</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/heart_of_the_sea.png" alt="" width="150"><figcaption><p>Условное обозначение</p></figcaption></figure>
 
 **Текстовый идентификатор:** `enum`
 
@@ -21,4 +21,4 @@
 
 #### Пример использования:
 
-<figure><img src="../../../.gitbook/assets/preview_enum.png" alt="" width="563"><figcaption><p>Маркер "Формат времени" предлагает 3 варианта: "Наносекунды", "Микросекунды" и "Миллисекунды".</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/preview_enum.png" alt="" width="563"><figcaption><p>Маркер "Формат времени" предлагает 3 варианта: "Наносекунды", "Микросекунды" и "Миллисекунды".</p></figcaption></figure>

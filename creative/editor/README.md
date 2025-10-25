@@ -127,7 +127,7 @@
 
 ### Аргументы
 
-Многие блоки кода имеют над собой хранилище (сундук или бочку). Оно открывает меню аргументов выбранной вами опции в блоке кода. Некоторые аргументы представляют из себя [<img src="../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"> **Маркер**](arguments/enum.md) — контекстное меню, где из предложенных вариантов предлагается выбрать подходящий. Но встречаются и пустые ячейки, зачастую они предназначены для значений. Каждая такая ячейка выделена снизу определённым цветом и подписана названием значения, которое требуется в неё положить.
+Многие блоки кода имеют над собой хранилище (сундук или бочку). Оно открывает меню аргументов выбранной вами опции в блоке кода. Некоторые аргументы представляют из себя [<img src="../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"> **Маркер**](arguments/parameter/enum.md) — контекстное меню, где из предложенных вариантов предлагается выбрать подходящий. Но встречаются и пустые ячейки, зачастую они предназначены для значений. Каждая такая ячейка выделена снизу определённым цветом и подписана названием значения, которое требуется в неё положить.
 
 #### Список значений:
 
@@ -139,7 +139,7 @@
 * [<img src="../../.gitbook/assets/phantom_membrane.png" alt="" data-size="line"> **Эффект частиц**](arguments/particle.md) — значение, используемое для указания аргументов типа частица.
 * [<img src="../../.gitbook/assets/dragon_breath.png" alt="" data-size="line"> **Зелье**](arguments/potion.md) — значение, используемое для указания аргументов типа зелье.
 * [<img src="../../.gitbook/assets/magma_cream.png" alt="" data-size="line"> **Переменная**](arguments/variable/) — предмет, который может хранить в себе все типы значений. Задать значение можно при помощи действия "установить переменную".
-* [<img src="../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"> **Параметр**](arguments/parameter.md) — используется для передачи значений в [<img src="../../.gitbook/assets/lapis_block.png" alt="" data-size="line"> **Функцию**](blocks/function.md) из [<img src="../../.gitbook/assets/lapis_ore.png" alt="" data-size="line"> **Вызова функции**](blocks/call_function.md). Создаёт строчную переменную с таким же именем.
+* [<img src="../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"> **Параметр**](arguments/parameter/) — используется для передачи значений в [<img src="../../.gitbook/assets/lapis_block.png" alt="" data-size="line"> **Функцию**](blocks/function.md) из [<img src="../../.gitbook/assets/lapis_ore.png" alt="" data-size="line"> **Вызова функции**](blocks/call_function.md). Создаёт строчную переменную с таким же именем.
 * [<img src="../../.gitbook/assets/guster_banner_pattern.png" alt="" data-size="line"> **Список**](arguments/variable/list.md) — значение, используемое для хранения множества значений.
 * [<img src="../../.gitbook/assets/chest_minecart.png" alt="" data-size="line"> **Словарь**](arguments/variable/dictionary.md) — значение, используемое для хранения множества значений в формате словаря (ключ=значение).
 * [<img src="../../.gitbook/assets/name_tag.png" alt="" data-size="line"> **Игровое значение**](arguments/game_value.md) — автоматически определённое значение, которое зависит от текущего состояния игры (например, местоположение игрока).

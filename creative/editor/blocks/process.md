@@ -19,7 +19,7 @@ description: Хранит строку кода, которую можно вы�
 
 #### Дополнительные аргументы процесса:
 
-* [<img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line">](../arguments/enum.md) **Отображать процесс в меню вызова** [**`->`**](#user-content-fn-1)[^1]
+* [<img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line">](../arguments/parameter/enum.md) **Отображать процесс в меню вызова** [**`->`**](#user-content-fn-1)[^1]
 * [<img src="../../../.gitbook/assets/item_frame.png" alt="" data-size="line">](../arguments/item.md) **Значок процесса**
 * [<img src="../../../.gitbook/assets/book.png" alt="" data-size="line">](../arguments/text.md) **Описание процесса**
 

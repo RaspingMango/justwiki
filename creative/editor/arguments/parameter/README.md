@@ -20,7 +20,7 @@ layout:
 
 # Параметр
 
-<figure><img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" width="150"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/heart_of_the_sea.png" alt="" width="150"><figcaption></figcaption></figure>
 
 **Текстовый идентификатор:** `parameter`
 
