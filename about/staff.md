@@ -22,6 +22,8 @@ description: Состав персонала сервера на текущий 
   └ [Creative+](../creative/about.md).
 * <img src="https://minotar.net/helm/3eb77e9000824aa880be77879aa6b306/256.png" alt="" data-size="line"> **unidok** [Discord](https://discordapp.com/users/693392944274604052)\
   └ JustBot, [Creative+](broken-reference), BedWars.
+* <img src="https://minotar.net/helm/820c0a09a79a43498aee5671d737125d/256.png" alt="" data-size="line"> **2M3V** [Discord](https://discordapp.com/users/1153737024432513056)\
+  └ LuckyWars.
 
 ## Модераторы
 
