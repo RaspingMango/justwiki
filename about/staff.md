@@ -21,7 +21,7 @@ description: Состав персонала сервера на текущий 
 * <img src="https://minotar.net/helm/1f1d2f1e233944c5a0571f7acaaa8153/256.png" alt="" data-size="line"> **White\_Wolf\_\_** [Discord](https://discordapp.com/users/778041773809205258)\
   └ [Creative+](../creative/about.md).
 * <img src="https://minotar.net/helm/3eb77e9000824aa880be77879aa6b306/256.png" alt="" data-size="line"> **unidok** [Discord](https://discordapp.com/users/693392944274604052)\
-  └ JustBot, [Creative+](broken-reference), BedWars.
+  └ JustBot, [Creative+](/broken/pages/muPo6u2dfJFypBA6p4Ry), BedWars.
 * <img src="https://minotar.net/helm/820c0a09a79a43498aee5671d737125d/256.png" alt="" data-size="line"> **2M3V** [Discord](https://discordapp.com/users/1153737024432513056)\
   └ LuckyWars.
 

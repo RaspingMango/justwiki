@@ -17,7 +17,7 @@ description: Внёсшие вклад в развитие режима.
 * <img src="https://minotar.net/helm/68ee99c175b9433cbcba72891e42b7ca/256.png" alt="" data-size="line"> **erty9** [Discord](https://discordapp.com/users/1016402980855087246)\
   └ Помощник с алгосами.
 * <img src="https://minotar.net/helm/bf71b36b463943e5a4fddd1b4dcc0e37/256.png" alt="" data-size="line"> **Xikki**\
-  └ Помощник с графикой (MAILA, градиентные фоны чата)
+  └ Помощник с графикой (MAILA, градиентные фоны чата).
 * <img src="https://minotar.net/helm/7cd9ab8a956c4e2a979eeebe0bb014b1/256.png" alt="" data-size="line"> **SoSeDiK**\
   └ Помощник с ачивками.
 * <img src="https://minotar.net/helm/a92396df2ccf4e1e9468df6cbc30d3c4/256.png" alt="" data-size="line"> **ArtBorax** [Discord](https://discordapp.com/users/166520788269137920)\
