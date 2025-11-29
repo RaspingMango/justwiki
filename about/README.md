@@ -1,6 +1,6 @@
 # О сервере
 
-**JustMC** начал свою работу в 2018 году и активно развивается по сей день. На данный момент сервер имеет 2 уникальных режима: [Creative+](../creative/about.md) и [SkyBlockM](../skyblockm/about/).
+**JustMC** начал свою работу в 2018 году и активно развивается по сей день. На данный момент сервер имеет 2 уникальных режима — [Creative+](../creative/about.md) и [SkyBlockM](../skyblockm/about/), а также мини-игры — BedWars и LuckyWars.
 
 {% embed url="https://youtu.be/inE3DI0Ix04?feature=shared" %}
 
