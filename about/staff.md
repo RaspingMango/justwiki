@@ -40,6 +40,7 @@ description: Состав персонала сервера на текущий 
 * <img src="https://minotar.net/helm/7d9aa7c6986d4d63a0ea7842200c69b1/256.png" alt="" data-size="line"> **RaspingMango637** [Discord](https://discordapp.com/users/208242168823808001) [Telegram](https://t.me/RaspingMango)
 * <img src="https://mc-heads.net/avatar/1aac1fa5e793985fcf7ac0ffebdd32bd0da4d699e8140560302a88275bfc150b/" alt="" data-size="line"> **cocomard0088** [Discord](https://discordapp.com/users/1196131473707765812)
 * <img src="https://minotar.net/helm/ca7eb822c24f4ad38e377e31e30c556f/256.png" alt="" data-size="line"> **Bebeika** [Discord](https://discordapp.com/users/445197088980992015)
+* <img src="https://minotar.net/helm/7c6b4b0e06124dacb2e2a1c97653f8df/256.png" alt="" data-size="line"> **AethorWar** [Discord](https://discordapp.com/users/837283696616669204)
 
 ## Локализаторы
 
