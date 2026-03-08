@@ -1,19 +1,5 @@
 ---
 description: Выполняет действия над сущностью или над группой сущностей.
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
-  metadata:
-    visible: true
 ---
 
 # Действие над сущностью
