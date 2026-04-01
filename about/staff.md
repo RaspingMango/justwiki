@@ -31,7 +31,6 @@ description: Состав персонала сервера на текущий 
 
 * <img src="https://minotar.net/helm/ca34b487238c4ad89b7a77e40123a08a/256.png" alt="" data-size="line"> **Miwo4ka** [Discord](https://discordapp.com/users/1114548370351071272)\
   └ Старший модератор: отвечает за текущий состав саппортов и модераторов.
-* <img src="https://minotar.net/helm/8de63aa3e15f414b9f21ff0de0303f62/256.png" alt="" data-size="line"> **Firchex** [Discord](https://discordapp.com/users/267275356539584522)
 * <img src="https://minotar.net/helm/23b4a538f0934fc79c0d41d1b5283a57/256.png" alt="" data-size="line">  **jAngelius** [Discord](https://discordapp.com/users/567791580744908946)
 * <img src="https://minotar.net/helm/1db52dfa165042f1aac89ce973028936/256.png" alt="" data-size="line"> **Bumbukio** [Discord](https://discordapp.com/users/702865132509986957)
 * <img src="https://minotar.net/helm/ec6a8e141b1149639ad66593c44ff655/256.png" alt="" data-size="line"> **koi9ia** [Discord](https://discordapp.com/users/853741418882662420)
