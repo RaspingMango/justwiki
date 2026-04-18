@@ -2,11 +2,28 @@
 icon: house
 cover: .gitbook/assets/jw_banner.png
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: false
+  metadata:
+    visible: false
+  tags:
+    visible: true
 ---
 
 # Главная страница
-
-## Добро пожаловать!
 
 Вы находитесь на публичной энциклопедии по серверу JustMC.
 
