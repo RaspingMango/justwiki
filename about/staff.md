@@ -42,6 +42,7 @@ description: Состав персонала сервера на текущий 
 * <img src="https://mc-heads.net/avatar/1aac1fa5e793985fcf7ac0ffebdd32bd0da4d699e8140560302a88275bfc150b/" alt="" data-size="line"> **cocomard0088** [Discord](https://discordapp.com/users/1196131473707765812)
 * <img src="https://minotar.net/helm/ca7eb822c24f4ad38e377e31e30c556f/256.png" alt="" data-size="line"> **Bebeika** [Discord](https://discordapp.com/users/445197088980992015)
 * <img src="https://minotar.net/helm/7c6b4b0e06124dacb2e2a1c97653f8df/256.png" alt="" data-size="line"> **AethorWar** [Discord](https://discordapp.com/users/837283696616669204)
+* <img src="https://minotar.net/helm/3f5e238dcd664fea9184412b636c6079/256.png" alt="" data-size="line"> **436max** [Discord](https://discordapp.com/users/732271317851701258)
 
 ## Локализаторы
 
