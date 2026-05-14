@@ -12,7 +12,7 @@ description: Состав персонала сервера на текущий 
 * <img src="https://minotar.net/helm/08f5a876addc435599cc91c7fb2aa2b0/256.png" alt="" data-size="line"> **rqbik** [Discord](https://discordapp.com/users/531527252442087425) [Telegram](https://t.me/rqbik)
 * <img src="https://minotar.net/helm/e2bfcfa854a04659838873219acf5c92/256.png" alt="" data-size="line"> **pxlymorphism** [Discord](https://discordapp.com/users/239720486961938432)
 * <img src="https://minotar.net/helm/316d5dff51124405aa546bd6945737ad/256.png" alt="" data-size="line"> **FeldGear** [Discord](https://discordapp.com/users/284948282994720770)
-* <img src="https://minotar.net/helm/3044a4092f984e31805d2da5c49f7cff/256.png" alt="" data-size="line"> **LeonidM** [Discord](https://discordapp.com/users/323503212764069890)
+* <img src="https://minotar.net/helm/3044a4092f984e31805d2da5c49f7cff/256.png" alt="" data-size="line"> **LeonidM** [Discord](https://discordapp.com/users/323503212764069890) [**`sʙᴍ`**](#user-content-fn-1)[^1]
 
 ## Разработчики
 
@@ -42,7 +42,8 @@ description: Состав персонала сервера на текущий 
 * <img src="https://mc-heads.net/avatar/1aac1fa5e793985fcf7ac0ffebdd32bd0da4d699e8140560302a88275bfc150b/" alt="" data-size="line"> **cocomard0088** [Discord](https://discordapp.com/users/1196131473707765812)
 * <img src="https://minotar.net/helm/ca7eb822c24f4ad38e377e31e30c556f/256.png" alt="" data-size="line"> **Bebeika** [Discord](https://discordapp.com/users/445197088980992015)
 * <img src="https://minotar.net/helm/7c6b4b0e06124dacb2e2a1c97653f8df/256.png" alt="" data-size="line"> **AethorWar** [Discord](https://discordapp.com/users/837283696616669204)
-* <img src="https://minotar.net/helm/3f5e238dcd664fea9184412b636c6079/256.png" alt="" data-size="line"> **436max** [Discord](https://discordapp.com/users/732271317851701258)
+* <img src="https://mc-heads.net/avatar/67b657de52434911a354d308e8cdb5bb9c3fbdb07ec49268ce5c544cb02dfc7a/" alt="" data-size="line"> **Eclipsed1188** [Discord](https://discordapp.com/users/1478847118855770273)
+* <img src="https://minotar.net/helm/3f5e238dcd664fea9184412b636c6079/256.png" alt="" data-size="line"> **436max** [Discord](https://discordapp.com/users/732271317851701258) [**`sʙᴍ`**](#user-content-fn-1)[^1]
 
 ## Локализаторы
 
@@ -52,3 +53,5 @@ description: Состав персонала сервера на текущий 
 ## SMM
 
 * <img src="https://minotar.net/helm/9ac4a65a-82d0-4785-b011-a152f8b851ad/256.png" alt="" data-size="line"> **Flok\_Boom** [Discord](https://discordapp.com/users/445419542664183808)
+
+[^1]: Персонал SkyBlockM. Не ведёт деятельность на других режимах.
