@@ -789,8 +789,9 @@ description: Выполняет действия над игроком или н
 
     * <img src="../../../.gitbook/assets/apple.png" alt="" data-size="line"> **Скин Mojang**\
       `mojang`
-    * <img src="../../../.gitbook/assets/golden_apple.png" alt="" data-size="line"> **Скин JustMC** `server`
-    * ![](../../../.gitbook/assets/enchanted_golden_apple.gif) **Скин JustMC (по умолчанию)**\
+    * <img src="../../../.gitbook/assets/golden_apple.png" alt="" data-size="line"> **Скин JustMC**\
+      `server`
+    * <img src="../../../.gitbook/assets/enchanted_golden_apple.gif" alt="" data-size="line"> **Скин JustMC (по умолчанию)**\
       `server_default`
 
 [^59]: **Тип анимации** `animation`:
