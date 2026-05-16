@@ -437,6 +437,8 @@ description: Выполняет действия над сущностью ил�
       `mojang`
     * <img src="../../../.gitbook/assets/golden_apple.png" alt="" data-size="line"> **Скин JustMC**\
       `server`
+    * <img src="../../../.gitbook/assets/enchanted_golden_apple.gif" alt="" data-size="line"> **Скин JustMC (по умолчанию)**\
+      `server_default`
 
 [^12]: **Цвет сущности** `color`:
 
