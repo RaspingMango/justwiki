@@ -125,6 +125,8 @@ description: Используется для взаимодействия с п�
       `save`
     * <img src="../../../.gitbook/assets/lime_wool.png" alt="" data-size="line"> **Локальная**\
       `local`
+    * <img src="../../../.gitbook/assets/light_blue_wool.png" alt="" data-size="line"> **Строчная**\
+      `line`
 
 [^2]: **Режим сравнения** `match`:
 
@@ -154,6 +156,8 @@ description: Используется для взаимодействия с п�
       `save`
     * <img src="../../../.gitbook/assets/lime_wool.png" alt="" data-size="line"> **Локальные**\
       `local`
+    * <img src="../../../.gitbook/assets/light_blue_wool.png" alt="" data-size="line"> **Строчные**\
+      `line`
 
 [^5]: **Режим деления** `division_mode`:
 
