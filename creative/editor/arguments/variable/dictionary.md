@@ -10,7 +10,8 @@ description: >-
 
 **Команда получения:** `/map`\
 **Ячейка:** <img src="../../../../.gitbook/assets/brown_stained_glass_pane.png" alt="" data-size="line">\
-**Текстовый идентификатор:** `map`
+**Текстовый идентификатор:** `map`\
+**Лимит:** 10 тыс.
 
 ***
 

@@ -8,7 +8,8 @@ description: Значение, используемое для хранения 
 
 **Команда получения:** `/array`\
 **Ячейка:** <img src="../../../../.gitbook/assets/yellow_stained_glass_pane.png" alt="" data-size="line">\
-**Текстовый идентификатор:** `array`
+**Текстовый идентификатор:** `array`\
+**Лимит:** 20 тыс.
 
 ***
 
