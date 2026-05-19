@@ -39,13 +39,12 @@ description: Состав персонала сервера на текущий 
 ## Саппорты
 
 * <img src="https://minotar.net/helm/7d9aa7c6986d4d63a0ea7842200c69b1/256.png" alt="" data-size="line"> **RaspingMango637** [Discord](https://discordapp.com/users/208242168823808001) [Telegram](https://t.me/RaspingMango)
-* <img src="https://mc-heads.net/avatar/1aac1fa5e793985fcf7ac0ffebdd32bd0da4d699e8140560302a88275bfc150b/" alt="" data-size="line"> **cocomard0088** [Discord](https://discordapp.com/users/1196131473707765812)
+* <img src="https://minotar.net/helm/b5fcae10679e4df887f47bf0a5f5b4b5/256.png" alt="" data-size="line"> **Admasub** [Discord](https://discordapp.com/users/1196131473707765812)
 * <img src="https://minotar.net/helm/ca7eb822c24f4ad38e377e31e30c556f/256.png" alt="" data-size="line"> **Bebeika** [Discord](https://discordapp.com/users/445197088980992015)
 * <img src="https://minotar.net/helm/7c6b4b0e06124dacb2e2a1c97653f8df/256.png" alt="" data-size="line"> **AethorWar** [Discord](https://discordapp.com/users/837283696616669204)
 * <img src="https://mc-heads.net/avatar/67b657de52434911a354d308e8cdb5bb9c3fbdb07ec49268ce5c544cb02dfc7a/" alt="" data-size="line"> **Eclipsed1188** [Discord](https://discordapp.com/users/1478847118855770273)
 * <img src="https://minotar.net/helm/8c46bcfe50a84684b30937b7449757c9/256.png" alt="" data-size="line"> **kot\_v\_sapogax2** [Discord](https://discordapp.com/users/1185198722498445335)
 * <img src="https://minotar.net/helm/9313b9fa04434aa19cd7bc8d01519d80/256.png" alt="" data-size="line"> **Zoga\_com** [Discord](https://discordapp.com/users/681845447547289690)
-* <img src="https://minotar.net/helm/3f5e238dcd664fea9184412b636c6079/256.png" alt="" data-size="line"> **436max** [Discord](https://discordapp.com/users/732271317851701258) [**`sʙᴍ`**](#user-content-fn-1)[^1]
 
 ## Локализаторы
 
