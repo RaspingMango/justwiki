@@ -31,7 +31,6 @@ description: Состав персонала сервера на текущий 
 
 * <img src="https://minotar.net/helm/ca34b487238c4ad89b7a77e40123a08a/256.png" alt="" data-size="line"> **Miwo4ka** [Discord](https://discordapp.com/users/1114548370351071272)\
   └ Старший модератор: отвечает за текущий состав саппортов и модераторов.
-* <img src="https://minotar.net/helm/23b4a538f0934fc79c0d41d1b5283a57/256.png" alt="" data-size="line"> **jAngelius** [Discord](https://discordapp.com/users/567791580744908946)
 * <img src="https://minotar.net/helm/1db52dfa165042f1aac89ce973028936/256.png" alt="" data-size="line"> **Bumbukio** [Discord](https://discordapp.com/users/702865132509986957)
 * <img src="https://minotar.net/helm/ec6a8e141b1149639ad66593c44ff655/256.png" alt="" data-size="line"> **koi9ia** [Discord](https://discordapp.com/users/853741418882662420)
 * <img src="https://minotar.net/helm/c26ee7ea41ff42918528a860913cf855/256.png" alt="" data-size="line"> **Collumy** [Discord](https://discordapp.com/users/742616969659940874)
@@ -40,7 +39,6 @@ description: Состав персонала сервера на текущий 
 
 * <img src="https://minotar.net/helm/7d9aa7c6986d4d63a0ea7842200c69b1/256.png" alt="" data-size="line"> **RaspingMango637** [Discord](https://discordapp.com/users/208242168823808001) [Telegram](https://t.me/RaspingMango)
 * <img src="https://minotar.net/helm/b5fcae10679e4df887f47bf0a5f5b4b5/256.png" alt="" data-size="line"> **Admasub** [Discord](https://discordapp.com/users/1196131473707765812)
-* <img src="https://minotar.net/helm/ca7eb822c24f4ad38e377e31e30c556f/256.png" alt="" data-size="line"> **Bebeika** [Discord](https://discordapp.com/users/445197088980992015)
 * <img src="https://minotar.net/helm/7c6b4b0e06124dacb2e2a1c97653f8df/256.png" alt="" data-size="line"> **AethorWar** [Discord](https://discordapp.com/users/837283696616669204)
 * <img src="https://mc-heads.net/avatar/67b657de52434911a354d308e8cdb5bb9c3fbdb07ec49268ce5c544cb02dfc7a/" alt="" data-size="line"> **Eclipsed1188** [Discord](https://discordapp.com/users/1478847118855770273)
 * <img src="https://minotar.net/helm/8c46bcfe50a84684b30937b7449757c9/256.png" alt="" data-size="line"> **kot\_v\_sapogax2** [Discord](https://discordapp.com/users/1185198722498445335)
