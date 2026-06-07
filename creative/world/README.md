@@ -191,7 +191,7 @@
 
 ***
 
-### Head Database (HDB)
+#### Head Database (HDB)
 
 | Команда       | Описание                                                  |
 | ------------- | --------------------------------------------------------- |
@@ -201,7 +201,7 @@
 
 ***
 
-### Редактор предметов
+#### Редактор предметов
 
 {% hint style="info" %}
 Доступно только от ранга [Star](https://justmc.io/shop).\
@@ -227,7 +227,7 @@
 
 ***
 
-### WorldEdit (FAWE)
+#### WorldEdit (FAWE)
 
 {% hint style="info" %}
 Более подробную информацию о командах WorldEdit можно получить с помощью команды `//help`.
@@ -302,7 +302,7 @@
 
 [^2]: ![](../../.gitbook/assets/my_worlds_menu.png)Количество доступных для создания миров зависит от [ранга](https://justmc.io/shop).
 
-[^3]: ![](../../.gitbook/assets/world_settings_menu.png)
+[^3]: <img src="../../.gitbook/assets/world_settings_menu.png" alt="" data-size="original">
 
 [^4]: Можно заменить на: `/gm`
 
@@ -318,7 +318,7 @@
 
 [^10]: Можно заменить на: `/v`
 
-[^11]: ![](../../.gitbook/assets/item_editor_menu.png)
+[^11]: <img src="../../.gitbook/assets/item_editor_menu.png" alt="" data-size="original">
 
 [^12]: Можно заменить на: `/enchant`
 
@@ -328,10 +328,10 @@
 
 [^15]: Можно заменить на: `/trim`
 
-[^16]: ![](../../.gitbook/assets/worlds_menu.png)![](../../.gitbook/assets/all_worlds_menu.png)
+[^16]: <img src="../../.gitbook/assets/worlds_menu.png" alt="" data-size="original"><img src="../../.gitbook/assets/all_worlds_menu.png" alt="" data-size="original">
 
-[^17]: ![](../../.gitbook/assets/online_worlds_menu.png)
+[^17]: <img src="../../.gitbook/assets/online_worlds_menu.png" alt="" data-size="original">
 
-[^18]: ![](../../.gitbook/assets/history_worlds_menu.png)
+[^18]: <img src="../../.gitbook/assets/history_worlds_menu.png" alt="" data-size="original">
 
-[^19]: ![](../../.gitbook/assets/favorite_worlds_menu.png)
+[^19]: <img src="../../.gitbook/assets/favorite_worlds_menu.png" alt="" data-size="original">

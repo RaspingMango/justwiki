@@ -26,6 +26,6 @@ description: Список всех аргументов.
 * [<img src="../../../.gitbook/assets/name_tag.png" alt="" data-size="line"> **Игровое значение**](game_value.md)
 * <img src="../../../.gitbook/assets/white_dye.png" alt="" data-size="line"> [**Любое значение**](#user-content-fn-2)[^2]
 
-[^1]: ![](../../../.gitbook/assets/values_menu.png)
+[^1]: <img src="../../../.gitbook/assets/values_menu.png" alt="" data-size="original">
 
 [^2]: Представляет из себя любое значение из перечисленных выше.

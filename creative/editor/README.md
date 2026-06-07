@@ -227,7 +227,7 @@
 {% endtab %}
 {% endtabs %}
 
-[^1]: ![](../../.gitbook/assets/manipulator_menu.png)
+[^1]: <img src="../../.gitbook/assets/manipulator_menu.png" alt="" data-size="original">
 
 [^2]: * `+a` — унарный плюс;
     * `!a` — логическая инверсия;

@@ -78,7 +78,7 @@ description: Позволяет сохранить выбранные строк
 | `/module loadUrl` [`<force>`](#user-content-fn-3)[^3] `<ID>` | Загрузить модуль по URL.                            |
 | `/module remove <module>`                                    | Безвозвратно удалить свой модуль.                   |
 
-[^1]: ![](../../.gitbook/assets/modules_menu.png)
+[^1]: <img src="../../.gitbook/assets/modules_menu.png" alt="" data-size="original">
 
 [^2]: ![](../../.gitbook/assets/my_modules_menu.png)Количество доступных для создания модулей зависит от [ранга](https://justmc.io/shop).
 
