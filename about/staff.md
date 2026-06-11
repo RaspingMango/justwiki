@@ -9,7 +9,7 @@ description: Состав персонала сервера на текущий 
 * <img src="https://minotar.net/helm/acece2d222484d929104662c9fc3e52c/256.png" alt="" data-size="line"> **Zingeer** [Discord](https://discordapp.com/users/336551231382093824)\
   └ Владелец сервера.
 * <img src="https://minotar.net/helm/4d3316ef4cba4f41bf782f29e95022ce/256.png" alt="" data-size="line"> **\_Goles\_** [Discord](https://discordapp.com/users/335711248639459328)
-* <img src="https://minotar.net/helm/08f5a876addc435599cc91c7fb2aa2b0/256.png" alt="" data-size="line"> **rqbik** [Discord](https://discordapp.com/users/531527252442087425) [Telegram](https://t.me/rqbik)
+* <img src="https://minotar.net/helm/08f5a876addc435599cc91c7fb2aa2b0/256.png" alt="" data-size="line"> **rqbik** [Discord](https://discordapp.com/users/531527252442087425)
 * <img src="https://minotar.net/helm/e2bfcfa854a04659838873219acf5c92/256.png" alt="" data-size="line"> **pxlymorphism** [Discord](https://discordapp.com/users/239720486961938432)
 * <img src="https://minotar.net/helm/316d5dff51124405aa546bd6945737ad/256.png" alt="" data-size="line"> **FeldGear** [Discord](https://discordapp.com/users/284948282994720770)
 * <img src="https://minotar.net/helm/3044a4092f984e31805d2da5c49f7cff/256.png" alt="" data-size="line"> **LeonidM** [Discord](https://discordapp.com/users/323503212764069890) [**`sʙᴍ`**](#user-content-fn-1)[^1]
@@ -34,6 +34,7 @@ description: Состав персонала сервера на текущий 
 * <img src="https://minotar.net/helm/1db52dfa165042f1aac89ce973028936/256.png" alt="" data-size="line"> **Bumbukio** [Discord](https://discordapp.com/users/702865132509986957)
 * <img src="https://minotar.net/helm/ec6a8e141b1149639ad66593c44ff655/256.png" alt="" data-size="line"> **koi9ia** [Discord](https://discordapp.com/users/853741418882662420)
 * <img src="https://minotar.net/helm/c26ee7ea41ff42918528a860913cf855/256.png" alt="" data-size="line"> **Collumy** [Discord](https://discordapp.com/users/742616969659940874)
+* <img src="https://minotar.net/helm/8c46bcfe50a84684b30937b7449757c9/256.png" alt="" data-size="line"> **kot\_v\_sapogax2** [Discord](https://discordapp.com/users/1185198722498445335)
 
 ## Саппорты
 
@@ -41,7 +42,6 @@ description: Состав персонала сервера на текущий 
 * <img src="https://minotar.net/helm/b5fcae10679e4df887f47bf0a5f5b4b5/256.png" alt="" data-size="line"> **Admasub** [Discord](https://discordapp.com/users/1196131473707765812)
 * <img src="https://minotar.net/helm/7c6b4b0e06124dacb2e2a1c97653f8df/256.png" alt="" data-size="line"> **AethorWar** [Discord](https://discordapp.com/users/837283696616669204)
 * <img src="https://mc-heads.net/avatar/67b657de52434911a354d308e8cdb5bb9c3fbdb07ec49268ce5c544cb02dfc7a/" alt="" data-size="line"> **Eclipsed1188** [Discord](https://discordapp.com/users/1478847118855770273)
-* <img src="https://minotar.net/helm/8c46bcfe50a84684b30937b7449757c9/256.png" alt="" data-size="line"> **kot\_v\_sapogax2** [Discord](https://discordapp.com/users/1185198722498445335)
 * <img src="https://minotar.net/helm/9313b9fa04434aa19cd7bc8d01519d80/256.png" alt="" data-size="line"> **Zoga\_com** [Discord](https://discordapp.com/users/681845447547289690)
 
 ## Локализаторы
