@@ -158,17 +158,7 @@
 
 ***
 
-| Команда                                 | Описание                                                                                                                                           |
-| --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `/world`                                | Открыть меню управления миром.                                                                                                                     |
-| `/world resourcepack`                   | <p>Управление <a href="resourcepack.md">ресурспаками</a> мира.<br></p><p>» Доступно только от <a href="https://justmc.io/shop">ранга</a> Moon.</p> |
-| `/dev`                                  | <p>Перейти в <a href="../editor/">редактор кода</a>.<br>При указании ника игрока изменяется уровень его прав в категории «Управление кодом».‎</p>  |
-| `/play`                                 | Перевести мир в режим игры.                                                                                                                        |
-| `/build`                                | <p>Перевести мир в режим строительства.<br>При указании ника игрока изменяется уровень его прав в категории «Управление строительством».</p>       |
-| [`/gamerule`](#user-content-fn-6)[^6]   | Изменить игровые правила мира.                                                                                                                     |
-| `/time`                                 | Изменить текущее время в мире.                                                                                                                     |
-| `/weather`                              | Изменить текущую погоду в мире.                                                                                                                    |
-| [`/enviroment`](#user-content-fn-7)[^7] | Управление переменными и инвентарями игроков.                                                                                                      |
+<table data-search="false"><thead><tr><th>Команда</th><th>Описание</th></tr></thead><tbody><tr><td><code>/world</code></td><td>Открыть меню управления миром.</td></tr><tr><td><code>/world name</code></td><td>Изменить название мира.</td></tr><tr><td><a data-footnote-ref href="#user-content-fn-6"><code>/world time</code></a></td><td>Изменить текущее время в мире.</td></tr><tr><td><code>/world lock</code></td><td>Закрыть мир для посещения другими игроками.</td></tr><tr><td><code>/world unlock</code></td><td>Открыть мир для посещения другими игроками.</td></tr><tr><td><code>/world resourcepack</code></td><td><p>Управление <a href="resourcepack.md">ресурспаками</a> мира.<br></p><p>» Доступно только от <a href="https://justmc.io/shop">ранга</a> Moon.</p></td></tr><tr><td><code>/world whitelist</code></td><td>Добавить игрока в белый список мира.</td></tr><tr><td><code>/world blacklist</code></td><td>Добавить игрока в чёрный список мира.</td></tr><tr><td><code>/dev</code></td><td>Перейти в <a href="../editor/">редактор кода</a>.<br>При указании ника игрока изменяется уровень его прав в категории «Управление кодом».‎</td></tr><tr><td><code>/play</code></td><td>Перевести мир в режим игры.</td></tr><tr><td><code>/build</code></td><td>Перевести мир в режим строительства.<br>При указании ника игрока изменяется уровень его прав в категории «Управление строительством».</td></tr><tr><td><a data-footnote-ref href="#user-content-fn-7"><code>/gamerule</code></a></td><td>Изменить игровые правила мира.</td></tr><tr><td><code>/weather</code></td><td>Изменить текущую погоду в мире.</td></tr><tr><td><a data-footnote-ref href="#user-content-fn-8"><code>/enviroment</code></a></td><td>Управление переменными и инвентарями игроков.</td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Взаимодействие" %}
@@ -176,14 +166,14 @@
 
 ***
 
-| Команда                               | Описание                                                                                                                                                                                |
-| ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [`/spawn`](#user-content-fn-8)[^8]    | <p>Выйти из мира на спавн <a data-footnote-ref href="#user-content-fn-1">режима</a>.<br>Владелец мира может указать ник игрока, который впоследствии будет телепортирован на спавн.</p> |
-| [`/favorite`](#user-content-fn-9)[^9] | Добавить мир в [**Избранные миры**](./#menyu-imeet-sleduyushie-razdely).                                                                                                                |
-| [`/vote`](#user-content-fn-10)[^10]   | Проголосовать за мир.                                                                                                                                                                   |
-| `/world ad`                           | Прорекламировать мир в чате за 5 изумрудов.                                                                                                                                             |
-| `/world limit bar`                    | Вызвать боссбар, показывающий нагрузку на мир в реальном времени (TPS, MSPT и CPU).                                                                                                     |
-| `/world limit profile`                | Показать профайлинг лимитов.                                                                                                                                                            |
+| Команда                                 | Описание                                                                                                                                                                                |
+| --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [`/spawn`](#user-content-fn-9)[^9]      | <p>Выйти из мира на спавн <a data-footnote-ref href="#user-content-fn-1">режима</a>.<br>Владелец мира может указать ник игрока, который впоследствии будет телепортирован на спавн.</p> |
+| [`/favorite`](#user-content-fn-10)[^10] | Добавить мир в [**Избранные миры**](./#menyu-imeet-sleduyushie-razdely).                                                                                                                |
+| [`/vote`](#user-content-fn-11)[^11]     | Проголосовать за мир.                                                                                                                                                                   |
+| `/world ad`                             | Прорекламировать мир в чате за 5 изумрудов.                                                                                                                                             |
+| `/world limit bar`                      | Вызвать боссбар, показывающий нагрузку на мир в реальном времени (TPS, MSPT и CPU).                                                                                                     |
+| `/world limit profile`                  | Показать профайлинг лимитов.                                                                                                                                                            |
 {% endtab %}
 
 {% tab title="Вспомогательные инструменты" %}
@@ -208,22 +198,7 @@
 В качестве альтернативы, на сервере разрешено использовать модификации наподобие [Simple Item Editor](https://modrinth.com/mod/simple-item-editor).
 {% endhint %}
 
-| Команда                                     | Описание                                                      |
-| ------------------------------------------- | ------------------------------------------------------------- |
-| `/item`                                     | Открыть [меню редактора предметов](#user-content-fn-11)[^11]. |
-| `/item color`                               | Придать цвет окрашиваемому предмету.                          |
-| `/item count`                               | Установить определённое количество предметов в слоте.         |
-| `/item durability`                          | Изменить значение поломки предмету.                           |
-| `/item emptyname`                           | Очистить название предмета.                                   |
-| [`/item enchant`](#user-content-fn-12)[^12] | Установить зачарование предмету.                              |
-| `/item equip`                               | Поместить предмет в слоты для брони.                          |
-| [`/item lore`](#user-content-fn-13)[^13]    | Редактировать описание предмета.                              |
-| `/item material`                            | Заменить предмет на другой, сохранив все показатели.          |
-| `/item modeldata`                           | Редактировать значение ModelData.                             |
-| [`/item rename`](#user-content-fn-14)[^14]  | Переименовать предмет.                                        |
-| `/item send`                                | Отправить предмет игроку в инвентарь.                         |
-| [`/item trim`](#user-content-fn-15)[^15]    | Применить кузнечный шаблон к элементу брони.                  |
-| `/item unbreakable`                         | Установить неразрушимость предмету.                           |
+<table data-search="false"><thead><tr><th>Команда</th><th>Описание</th></tr></thead><tbody><tr><td><code>/item</code></td><td>Открыть <a data-footnote-ref href="#user-content-fn-12">меню редактора предметов</a>.</td></tr><tr><td><code>/item color</code></td><td>Придать цвет окрашиваемому предмету.</td></tr><tr><td><code>/item count</code></td><td>Установить определённое количество предметов в слоте.</td></tr><tr><td><code>/item durability</code></td><td>Изменить значение поломки предмету.</td></tr><tr><td><code>/item emptyname</code></td><td>Очистить название предмета.</td></tr><tr><td><a data-footnote-ref href="#user-content-fn-13"><code>/item enchant</code></a></td><td>Установить зачарование предмету.</td></tr><tr><td><code>/item equip</code></td><td>Поместить предмет в слоты для брони.</td></tr><tr><td><a data-footnote-ref href="#user-content-fn-14"><code>/item lore</code></a></td><td>Редактировать описание предмета.</td></tr><tr><td><code>/item material</code></td><td>Заменить предмет на другой, сохранив все показатели.</td></tr><tr><td><code>/item modeldata</code></td><td>Редактировать значение ModelData.</td></tr><tr><td><a data-footnote-ref href="#user-content-fn-15"><code>/item rename</code></a></td><td>Переименовать предмет.</td></tr><tr><td><code>/item send</code></td><td>Отправить предмет игроку в инвентарь.</td></tr><tr><td><a data-footnote-ref href="#user-content-fn-16"><code>/item trim</code></a></td><td>Применить кузнечный шаблон к элементу брони.</td></tr><tr><td><code>/item unbreakable</code></td><td>Установить неразрушимость предмету.</td></tr></tbody></table>
 
 ***
 
@@ -278,13 +253,13 @@
 
 ## Меню миров
 
-Меню миров открывается нажатием <kbd>ЛКМ</kbd>/<kbd>ПКМ</kbd> по предмету <img src="../../.gitbook/assets/compass.png" alt="" data-size="line"> [**Миры**](#user-content-fn-16)[^16] на спавне режима[^1] или командой `/worlds`. В этом меню расположены все опубликованные миры, которые можно отсортировать по категориям. Помимо этого, присутствует функция <img src="../../.gitbook/assets/compass.png" alt="" data-size="line"> **Поиск миров**, позволяющая найти мир по его названию.
+Меню миров открывается нажатием <kbd>ЛКМ</kbd>/<kbd>ПКМ</kbd> по предмету <img src="../../.gitbook/assets/compass.png" alt="" data-size="line"> [**Миры**](#user-content-fn-17)[^17] на спавне режима[^1] или командой `/worlds`. В этом меню расположены все опубликованные миры, которые можно отсортировать по категориям. Помимо этого, присутствует функция <img src="../../.gitbook/assets/compass.png" alt="" data-size="line"> **Поиск миров**, позволяющая найти мир по его названию.
 
 #### Меню имеет следующие разделы:
 
-* <img src="../../.gitbook/assets/map.png" alt="" data-size="line"> [**Миры онлайн**](#user-content-fn-17)[^17] — миры, в которые сейчас играют игроки.
-* <img src="../../.gitbook/assets/paper.png" alt="" data-size="line"> [**Недавние миры**](#user-content-fn-18)[^18] — список миров, куда вы недавно заходили.
-* <img src="../../.gitbook/assets/gold_block.png" alt="" data-size="line"> [**Избранные миры**](#user-content-fn-19)[^19] — список миров, избранных пользователем.
+* <img src="../../.gitbook/assets/map.png" alt="" data-size="line"> [**Миры онлайн**](#user-content-fn-18)[^18] — миры, в которые сейчас играют игроки.
+* <img src="../../.gitbook/assets/paper.png" alt="" data-size="line"> [**Недавние миры**](#user-content-fn-19)[^19] — список миров, куда вы недавно заходили.
+* <img src="../../.gitbook/assets/gold_block.png" alt="" data-size="line"> [**Избранные миры**](#user-content-fn-20)[^20] — список миров, избранных пользователем.
 * <img src="../../.gitbook/assets/chest.png" alt="" data-size="line"> [**Мои миры**](#user-content-fn-2)[^2] — список ваших миров.
 
 #### Команды Creative+, связанные с мирами:
@@ -310,30 +285,32 @@
 
 [^5]: Можно заменить на: `/tp`
 
-[^6]: Можно заменить на: `/gr`
+[^6]: Можно заменить на: `/time`
 
-[^7]: Можно заменить на: `/env`
+[^7]: Можно заменить на: `/gr`
 
-[^8]: Можно заменить на: `/s`
+[^8]: Можно заменить на: `/env`
 
-[^9]: Можно заменить на: `/fav`
+[^9]: Можно заменить на: `/s`
 
-[^10]: Можно заменить на: `/v`
+[^10]: Можно заменить на: `/fav`
 
-[^11]: <img src="../../.gitbook/assets/item_editor_menu.png" alt="" data-size="original">
+[^11]: Можно заменить на: `/v`
 
-[^12]: Можно заменить на: `/enchant`
+[^12]: <img src="../../.gitbook/assets/item_editor_menu.png" alt="" data-size="original">
 
-[^13]: Можно заменить на: `/lore`
+[^13]: Можно заменить на: `/enchant`
 
-[^14]: Можно заменить на: `/rename`
+[^14]: Можно заменить на: `/lore`
 
-[^15]: Можно заменить на: `/trim`
+[^15]: Можно заменить на: `/rename`
 
-[^16]: <img src="../../.gitbook/assets/worlds_menu.png" alt="" data-size="original"><img src="../../.gitbook/assets/all_worlds_menu.png" alt="" data-size="original">
+[^16]: Можно заменить на: `/trim`
 
-[^17]: <img src="../../.gitbook/assets/online_worlds_menu.png" alt="" data-size="original">
+[^17]: <img src="../../.gitbook/assets/worlds_menu.png" alt="" data-size="original"><img src="../../.gitbook/assets/all_worlds_menu.png" alt="" data-size="original">
 
-[^18]: <img src="../../.gitbook/assets/history_worlds_menu.png" alt="" data-size="original">
+[^18]: <img src="../../.gitbook/assets/online_worlds_menu.png" alt="" data-size="original">
 
-[^19]: <img src="../../.gitbook/assets/favorite_worlds_menu.png" alt="" data-size="original">
+[^19]: <img src="../../.gitbook/assets/history_worlds_menu.png" alt="" data-size="original">
+
+[^20]: <img src="../../.gitbook/assets/favorite_worlds_menu.png" alt="" data-size="original">
