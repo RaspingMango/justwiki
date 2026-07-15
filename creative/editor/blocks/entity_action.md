@@ -279,19 +279,7 @@ description: Выполняет действия над сущностью ил�
 
 Нажатием <kbd>Shift</kbd> + <kbd>ПКМ</kbd> по блоку кода открывается меню селекторов, позволяющее выбрать цель, по отношению к которой будет воспроизведено действие.
 
-| Селектор                                                                                            | Описание                                                                                                                                                 |
-| --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="../../../.gitbook/assets/nether_star.gif" alt="" data-size="line"> **Текущая цель**       | Игроки, мобы и существа выбранные с помощью [<img src="../../../.gitbook/assets/purpur_block.png" alt="" data-size="line"> **Выбрать цель**](select.md). |
-| <img src="../../../.gitbook/assets/potato.png" alt="" data-size="line"> **Сущность по умолчанию**   | Сущность, которая спровоцировала данное событие.                                                                                                         |
-| <img src="../../../.gitbook/assets/iron_sword.png" alt="" data-size="line"> **Убийца**              | Сущность, которая убила жертву в данном событии.                                                                                                         |
-| <img src="../../../.gitbook/assets/stone_sword.png" alt="" data-size="line"> **Атакующая сущность** | Сущность, которая атаковала жертву в данном событии.                                                                                                     |
-| <img src="../../../.gitbook/assets/bow.png" alt="" data-size="line"> **Стрелок**                    | Сущность, которая выстрелила в данном событии.                                                                                                           |
-| <img src="../../../.gitbook/assets/arrow.png" alt="" data-size="line"> **Снаряд стрелка**           | Выбирает сущность, которую запустил стрелок.                                                                                                             |
-| <img src="../../../.gitbook/assets/skeleton_skull.png" alt="" data-size="line"> **Жертва**          | Сущность, которая получила урон или умерла в данном событии.                                                                                             |
-| <img src="../../../.gitbook/assets/ender_eye.png" alt="" data-size="line"> **Случайная сущность**   | Случайная сущность в мире.                                                                                                                               |
-| <img src="../../../.gitbook/assets/diamond_block.png" alt="" data-size="line"> **Все мобы**         | Все мобы в мире.                                                                                                                                         |
-| <img src="../../../.gitbook/assets/beacon.png" alt="" data-size="line"> **Все сущности**            | Все сущности в мире.                                                                                                                                     |
-| <img src="../../../.gitbook/assets/turtle_egg.png" alt="" data-size="line"> **Последняя сущность**  | Последняя появившаяся сущность в мире.                                                                                                                   |
+<table data-search="false"><thead><tr><th>Селектор</th><th>Описание</th></tr></thead><tbody><tr><td><img src="../../../.gitbook/assets/nether_star.gif" alt="" data-size="line"> <strong>Текущая цель</strong></td><td>Игроки, мобы и существа выбранные с помощью <a href="select.md"><img src="../../../.gitbook/assets/purpur_block.png" alt="" data-size="line"> <strong>Выбрать цель</strong></a>.</td></tr><tr><td><img src="../../../.gitbook/assets/potato.png" alt="" data-size="line"> <strong>Сущность по умолчанию</strong></td><td>Сущность, которая спровоцировала данное событие.</td></tr><tr><td><img src="../../../.gitbook/assets/iron_sword.png" alt="" data-size="line"> <strong>Убийца</strong></td><td>Сущность, которая убила жертву в данном событии.</td></tr><tr><td><img src="../../../.gitbook/assets/stone_sword.png" alt="" data-size="line"> <strong>Атакующая сущность</strong></td><td>Сущность, которая атаковала жертву в данном событии.</td></tr><tr><td><img src="../../../.gitbook/assets/bow.png" alt="" data-size="line"> <strong>Стрелок</strong></td><td>Сущность, которая выстрелила в данном событии.</td></tr><tr><td><img src="../../../.gitbook/assets/arrow.png" alt="" data-size="line"> <strong>Снаряд стрелка</strong></td><td>Выбирает сущность, которую запустил стрелок.</td></tr><tr><td><img src="../../../.gitbook/assets/skeleton_skull.png" alt="" data-size="line"> <strong>Жертва</strong></td><td>Сущность, которая получила урон или умерла в данном событии.</td></tr><tr><td><img src="../../../.gitbook/assets/ender_eye.png" alt="" data-size="line"> <strong>Случайная сущность</strong></td><td>Случайная сущность в мире.</td></tr><tr><td><img src="../../../.gitbook/assets/diamond_block.png" alt="" data-size="line"> <strong>Все мобы</strong></td><td>Все мобы в мире.</td></tr><tr><td><img src="../../../.gitbook/assets/beacon.png" alt="" data-size="line"> <strong>Все сущности</strong></td><td>Все сущности в мире.</td></tr><tr><td><img src="../../../.gitbook/assets/turtle_egg.png" alt="" data-size="line"> <strong>Последняя сущность</strong></td><td>Последняя появившаяся сущность в мире.</td></tr></tbody></table>
 
 [^1]: **Исцелить существо** `heal_to_max`:
 
@@ -877,8 +865,7 @@ description: Выполняет действия над сущностью ил�
 
     * <img src="../../../.gitbook/assets/lime_dye.png" alt="" data-size="line"> **Нет**\
       `true`
-
-    - <img src="../../../.gitbook/assets/gray_dye.png" alt="" data-size="line"> **Да**\
+    * <img src="../../../.gitbook/assets/gray_dye.png" alt="" data-size="line"> **Да**\
       `false`
 
 [^40]: **Агрессивность** `aggressive`:
@@ -1313,24 +1300,23 @@ description: Выполняет действия над сущностью ил�
       `circling`
     * <img src="../../../.gitbook/assets/stone.png" alt="" data-size="line"> **Уворот**\
       `strafing`
-
-    - <img src="../../../.gitbook/assets/stone.png" alt="" data-size="line"> **Полёт к порталу**\
+    * <img src="../../../.gitbook/assets/stone.png" alt="" data-size="line"> **Полёт к порталу**\
       `fly_to_portal`
-    - <img src="../../../.gitbook/assets/stone.png" alt="" data-size="line"> **Приземление на портал**\
+    * <img src="../../../.gitbook/assets/stone.png" alt="" data-size="line"> **Приземление на портал**\
       `land_on_portal`
-    - <img src="../../../.gitbook/assets/stone.png" alt="" data-size="line"> **Покидание портала**\
+    * <img src="../../../.gitbook/assets/stone.png" alt="" data-size="line"> **Покидание портала**\
       `leave_portal`
-    - <img src="../../../.gitbook/assets/stone.png" alt="" data-size="line"> **Атака дыханием**\
+    * <img src="../../../.gitbook/assets/stone.png" alt="" data-size="line"> **Атака дыханием**\
       `breath_attack`
-    - <img src="../../../.gitbook/assets/stone.png" alt="" data-size="line"> **Поиск цели для атаки дыханием**\
+    * <img src="../../../.gitbook/assets/stone.png" alt="" data-size="line"> **Поиск цели для атаки дыханием**\
       `search_for_breath_attack_target`
-    - <img src="../../../.gitbook/assets/stone.png" alt="" data-size="line"> **Крик перед атакой**\
+    * <img src="../../../.gitbook/assets/stone.png" alt="" data-size="line"> **Крик перед атакой**\
       `roar_before_attack`
-    - <img src="../../../.gitbook/assets/stone.png" alt="" data-size="line"> **Атака на игрока**\
+    * <img src="../../../.gitbook/assets/stone.png" alt="" data-size="line"> **Атака на игрока**\
       `charge_player`
-    - <img src="../../../.gitbook/assets/stone.png" alt="" data-size="line"> **Смерть**\
+    * <img src="../../../.gitbook/assets/stone.png" alt="" data-size="line"> **Смерть**\
       `dying`
-    - <img src="../../../.gitbook/assets/stone.png" alt="" data-size="line"> **Полёт**\
+    * <img src="../../../.gitbook/assets/stone.png" alt="" data-size="line"> **Полёт**\
       `hover`
 
 [^93]: **Тип руки** `hand`:
