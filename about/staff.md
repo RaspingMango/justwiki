@@ -46,6 +46,7 @@ description: Состав персонала сервера на текущий 
 
 * <img src="https://minotar.net/helm/9313b9fa04434aa19cd7bc8d01519d80/256.png" alt="" data-size="line"> **Zoga\_com** [Discord](https://discordapp.com/users/681845447547289690)
 * <img src="https://minotar.net/helm/7d9aa7c6986d4d63a0ea7842200c69b1/256.png" alt="" data-size="line"> **RaspingMango637** [Discord](https://discordapp.com/users/208242168823808001) [Telegram](https://t.me/RaspingMango)
+* <img src="https://minotar.net/helm/8c46bcfe50a84684b30937b7449757c9/256.png" alt="" data-size="line"> **kot\_v\_sapogax2** [Discord](https://discordapp.com/users/1185198722498445335)
 
 ## SMM
 
