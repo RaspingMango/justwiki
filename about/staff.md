@@ -12,7 +12,7 @@ description: Состав персонала сервера на текущий 
 * <img src="https://minotar.net/helm/08f5a876addc435599cc91c7fb2aa2b0/256.png" alt="" data-size="line"> **rqbik** [Discord](https://discordapp.com/users/531527252442087425)
 * <img src="https://minotar.net/helm/e2bfcfa854a04659838873219acf5c92/256.png" alt="" data-size="line"> **pxlymorphism** [Discord](https://discordapp.com/users/239720486961938432)
 * <img src="https://minotar.net/helm/316d5dff51124405aa546bd6945737ad/256.png" alt="" data-size="line"> **FeldGear** [Discord](https://discordapp.com/users/284948282994720770)
-* <img src="https://minotar.net/helm/3044a4092f984e31805d2da5c49f7cff/256.png" alt="" data-size="line"> **LeonidM** [Discord](https://discordapp.com/users/323503212764069890) [**`sʙᴍ`**](#user-content-fn-1)[^1]
+* <img src="https://minotar.net/helm/3044a4092f984e31805d2da5c49f7cff/256.png" alt="" data-size="line"> **LeonidM** [Discord](https://discordapp.com/users/323503212764069890)
 
 ## Разработчики
 
@@ -41,6 +41,7 @@ description: Состав персонала сервера на текущий 
 * <img src="https://minotar.net/helm/7c6b4b0e06124dacb2e2a1c97653f8df/256.png" alt="" data-size="line"> **AethorWar** [Discord](https://discordapp.com/users/837283696616669204)
 * <img src="https://mc-heads.net/avatar/67b657de52434911a354d308e8cdb5bb9c3fbdb07ec49268ce5c544cb02dfc7a/" alt="" data-size="line"> **Eclipsed1188** [Discord](https://discordapp.com/users/1478847118855770273)
 * <img src="https://minotar.net/helm/9313b9fa04434aa19cd7bc8d01519d80/256.png" alt="" data-size="line"> **Zoga\_com** [Discord](https://discordapp.com/users/681845447547289690)
+* <img src="https://mc-heads.net/avatar/d89d9d3b3b19ec5b7928f744380ed86fcd9e0f80039ec767d8de3d141984adf7/" alt="" data-size="line"> **Dr\_Lonex7232** [Discord](https://discordapp.com/users/1447115144046841856)
 
 ## Локализаторы
 
@@ -51,5 +52,3 @@ description: Состав персонала сервера на текущий 
 ## SMM
 
 * <img src="https://minotar.net/helm/9ac4a65a-82d0-4785-b011-a152f8b851ad/256.png" alt="" data-size="line"> **Flok\_Boom** [Discord](https://discordapp.com/users/445419542664183808)
-
-[^1]: Персонал SkyBlockM. Не ведёт деятельность на других режимах.
