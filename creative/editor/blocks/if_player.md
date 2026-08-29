@@ -47,6 +47,7 @@ description: >-
 | <p><img src="../../../.gitbook/assets/tinted_glass.png" alt="" data-size="line"> <strong>Отображается в списке игроков сервера</strong><br><code>if_player_is_allow_server_listing</code></p> | Проверяет, включена ли настройка "Показывать в списках" у игрока.   |
 | <p><img src="../../../.gitbook/assets/yellow_dye.png" alt="" data-size="line"> <strong>Имеет цвета в чате</strong><br><code>if_player_chat_colors_enabled</code></p>                          | Проверяет, включена ли настройка "Цвета в чате" у игрока.           |
 | <p><img src="../../../.gitbook/assets/hopper.png" alt="" data-size="line"> <strong>Имеет фильтр слов</strong><br><code>if_player_text_filtering_enabled</code></p>                            | Проверяет, включен ли фильтр слов от Mojang у игрока.               |
+| <p><img src="../../../.gitbook/assets/diamond.png" alt="" data-size="line"> <strong>Игрок перемещён на сервер</strong><br><code>if_player_is_transferred</code></p>                           | Проверяет, перемещён ли игрок с другого сервера.                    |
 {% endtab %}
 
 {% tab title="Условия местоположения" %}
