@@ -2,7 +2,7 @@
 
 ## Создание мира
 
-Находясь на спавне режима[^1] вам нужно открыть меню <img src="../../.gitbook/assets/grass_block.png" alt="" data-size="line"> [**Мои миры**](#user-content-fn-2)[^2] и нажать на <img src="../../.gitbook/assets/cyan_terracotta.png" alt="" data-size="line"> **Создать мир**. Вам представится выбор из четырёх типов мира.
+Находясь на спавне режима[^1] вам нужно открыть меню <img src="../../.gitbook/assets/grass_block.png" alt="" data-size="line"> [**Мои миры**](#user-content-fn-2)[^2] и нажать на <img src="../../.gitbook/assets/cyan_terracotta.png" alt="" data-size="line"> **Создать мир**. Вам представится выбор из шести типов мира.
 
 <table><thead><tr><th width="55" data-type="number">№</th><th width="299">Тип мира</th><th>Описание</th></tr></thead><tbody><tr><td>1</td><td>Пустой</td><td>Каменная платформа 32x32 блока.</td></tr><tr><td>2</td><td>Плоский</td><td>Ванильный плоский мир, 4 блока в высоту.</td></tr><tr><td>3</td><td>Кодинг*</td><td>Этаж редактора кода, растянутый во всю ширину мира.</td></tr><tr><td>4</td><td>Отладка*</td><td>Ванильный мир отладки. <a href="https://ru.minecraft.wiki/w/%D0%A0%D0%B5%D0%B6%D0%B8%D0%BC_%D0%BE%D1%82%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8"><img src="../../.gitbook/assets/Minecraft_Wiki_Logo.png" alt="" data-size="line"></a></td></tr><tr><td>5</td><td>Губка Менгера*</td><td>Модель губки Менгера, воссозданная из блоков губки.</td></tr><tr><td>6</td><td>Лабиринт*</td><td>Лабиринт из голубого бетона, 16 блоков в высоту.</td></tr></tbody></table>
 
