@@ -8,7 +8,6 @@ description: Состав персонала сервера на текущий 
 
 * <img src="https://minotar.net/helm/acece2d222484d929104662c9fc3e52c/256.png" alt="" data-size="line"> **Zingeer** [Discord](https://discordapp.com/users/336551231382093824)\
   └ Владелец сервера.
-* <img src="https://minotar.net/helm/4d3316ef4cba4f41bf782f29e95022ce/256.png" alt="" data-size="line"> **\_Goles\_** [Discord](https://discordapp.com/users/335711248639459328)
 * <img src="https://minotar.net/helm/08f5a876addc435599cc91c7fb2aa2b0/256.png" alt="" data-size="line"> **rqbik** [Discord](https://discordapp.com/users/531527252442087425)
 * <img src="https://minotar.net/helm/e2bfcfa854a04659838873219acf5c92/256.png" alt="" data-size="line"> **pxlymorphism** [Discord](https://discordapp.com/users/239720486961938432)
 * <img src="https://minotar.net/helm/316d5dff51124405aa546bd6945737ad/256.png" alt="" data-size="line"> **FeldGear** [Discord](https://discordapp.com/users/284948282994720770)
