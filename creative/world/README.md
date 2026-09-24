@@ -18,58 +18,86 @@
 
 #### Меню настроек мира имеет следующий функционал:
 
+<figure><img src="../../.gitbook/assets/world_settings_menu (1).png" alt="" width="528"><figcaption></figcaption></figure>
+
 <details>
 
-<summary>Изменение времени</summary>
+<summary><img src="../../.gitbook/assets/arms_up_pottery_sherd.png" alt="" data-size="line"> <strong>Управление правами игроков</strong></summary>
 
-* <img src="../../.gitbook/assets/light_blue_terracotta.png" alt="" data-size="line"> **Утро** (6:00 или 0 тиков)
-* <img src="../../.gitbook/assets/yellow_terracotta.png" alt="" data-size="line"> **День** (12:00 или 6000 тиков)
-* <img src="../../.gitbook/assets/orange_terracotta.png" alt="" data-size="line"> **Вечер** (18:00 или 13000 тиков)
-* <img src="../../.gitbook/assets/blue_terracotta.png" alt="" data-size="line"> **Ночь** (0:00 или 18000 тиков)
+* <img src="../../.gitbook/assets/villager_spawn_egg.png" alt="" data-size="line"> **Игроки онлайн**\
+  └ Все игроки, находящиеся на данный момент в мире.
+* <img src="../../.gitbook/assets/black_dye.png" alt="" data-size="line"> **Чёрный список**\
+  └ Игроки, занесённые в этот список, не могут заходить в мир.
+* <img src="../../.gitbook/assets/white_dye.png" alt="" data-size="line"> **Белый список**\
+  └ Игроки из этого списка могут заходить в закрытый мир.
+* <img src="../../.gitbook/assets/feather.png" alt="" data-size="line"> **Управление полётом**\
+  └ Игроки из этого списка могут летать в мире, используя команду `/fly`.
+* <img src="../../.gitbook/assets/brick.png" alt="" data-size="line"> **Разрешение на строительство**\
+  └ Игроки из этого списка имеют доступ к творческому режиму.
+* <img src="../../.gitbook/assets/command_block_minecart.png" alt="" data-size="line"> **Разрешение на код**\
+  └ Игрокам из этого списка предоставлено право использовать [редактор кода](../editor/).
+* <img src="../../.gitbook/assets/warden_spawn_egg.png" alt="" data-size="line"> **Операторы**\
+  └ Игроки из этого списка имеют полные права в мире.
 
 </details>
 
 <details>
 
-<summary>Управление медиа</summary>
+<summary><img src="../../.gitbook/assets/compass.png" alt="" data-size="line"> <strong>Управление основными параметрами</strong></summary>
 
-* <img src="../../.gitbook/assets/item_frame.png" alt="" data-size="line"> **Выбрать отображаемый предмет**
-* <img src="../../.gitbook/assets/totem_of_undying.png" alt="" data-size="line"> **Выбрать категории**
-* <img src="../../.gitbook/assets/name_tag.png" alt="" data-size="line"> **Реклама мира**
-* <img src="../../.gitbook/assets/writable_book.png" alt="" data-size="line"> **Опубликовать мир**
-* <img src="../../.gitbook/assets/barrier.png" alt="" data-size="line"> **Удалить мир из публичного доступа**
+#### <img src="../../.gitbook/assets/clock.png" alt="" data-size="line"> Время
 
-</details>
+* **Утро** (6:00 или 0 тиков)
+* **День** (12:00 или 6000 тиков)
+* **Вечер** (18:00 или 13000 тиков)
+* **Ночь** (0:00 или 18000 тиков)
 
-<details>
+#### <img src="../../.gitbook/assets/shulker_shell.png" alt="" data-size="line"> Размер мира
 
-<summary>Изменение точки возрождения</summary>
+Укажите размер, написав нужное число в чат. Максимальный размер мира зависит от вашего [ранга](https://justmc.io/shop).
+
+#### <img src="../../.gitbook/assets/ender_pearl.png" alt="" data-size="line"> Точка возрождения
 
 * Нажатие <kbd>ЛКМ</kbd> — установить на текущую позицию
 * Нажатие <kbd>ПКМ</kbd> — сбросить на стандартную позицию
 
+#### <img src="../../.gitbook/assets/filled_map.png" alt="" data-size="line"> Реклама мира
+
+Отправляет в глобальный чат рекламное сообщение, стоимостью в 5 изумрудов.
+
+#### <img src="../../.gitbook/assets/bamboo_sign.png" alt="" data-size="line"> Дополнительный ID
+
+Позволяет установить миру кастомный ID, стоимостью в 150 изумрудов.
+
+#### <img src="../../.gitbook/assets/writable_book.png" alt="" data-size="line"> Публикация мира
+
+Позволяет разместить мир в списке опубликованных миров. [Подробнее...](./#publikaciya-mira-1)
+
+#### <img src="../../.gitbook/assets/totem_of_undying.png" alt="" data-size="line"> Выбор категорий
+
+Позволяет выбрать категории, которым соответствует ваш мир.
+
 </details>
 
 <details>
 
-<summary>Изменение размера мира</summary>
+<summary><img src="../../.gitbook/assets/guster_banner_pattern.png" alt="" data-size="line"> <strong>Игровые правила мира</strong></summary>
 
-Укажите размер, написав нужное число в чат. Максимальный размер мира зависит от вашего [ранга](https://justmc.io/shop).
-
-</details>
-
-<details>
-
-<summary>Управление приватностью</summary>
-
-* <img src="../../.gitbook/assets/oak_door.png" alt="" data-size="line"> **Публичный** (в мир может зайти любой игрок)
-* <img src="../../.gitbook/assets/iron_door.png" alt="" data-size="line"> **Приватный** (в мир можете зайти только вы и игроки в белом списке)
+Work in progress
 
 </details>
 
 <details>
 
-<summary>Изменение названия мира</summary>
+<summary><img src="../../.gitbook/assets/item_frame.png" alt="" data-size="line"> <strong>Изменение иконки мира</strong></summary>
+
+Возьмите на курсор предмет и кликните им по этой ячейке.
+
+</details>
+
+<details>
+
+<summary><img src="../../.gitbook/assets/name_tag.png" alt="" data-size="line"> <strong>Изменение названия мира</strong></summary>
 
 Напишите название мира в чат.\
 \
@@ -79,49 +107,10 @@
 
 <details>
 
-<summary>Управление чёрным списком</summary>
+<summary><strong>Управление приватностью</strong></summary>
 
-Игроки, занесённые в чёрный список, не смогут зайти в ваш мир.
-
-</details>
-
-<details>
-
-<summary>Управление белым списком</summary>
-
-Игроки, включённые в белый список, будут обладать множеством прав в вашем мире.
-
-</details>
-
-<details>
-
-<summary>Просмотр игроков онлайн (в мире)</summary>
-
-Показывает, кто на данный момент находится в вашем мире.
-
-</details>
-
-<details>
-
-<summary>Управление полётом</summary>
-
-Позволяет игрокам летать.
-
-</details>
-
-<details>
-
-<summary>Управление строительством</summary>
-
-Переводит игроков в творческий режим.
-
-</details>
-
-<details>
-
-<summary>Управление кодом</summary>
-
-Позволяет игрокам заходить в [редактор кода](../editor/).
+* <img src="../../.gitbook/assets/oak_door.png" alt="" data-size="line"> **Публичный** (в мир может зайти любой игрок)
+* <img src="../../.gitbook/assets/iron_door.png" alt="" data-size="line"> **Приватный** (в мир можете зайти только вы, операторы и игроки в белом списке)
 
 </details>
 
