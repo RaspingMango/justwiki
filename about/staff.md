@@ -38,9 +38,9 @@ description: Состав персонала сервера на текущий 
 
 * <img src="https://minotar.net/helm/7d9aa7c6986d4d63a0ea7842200c69b1/256.png" alt="" data-size="line"> **RaspingMango637** [Discord](https://discordapp.com/users/208242168823808001) [Telegram](https://t.me/RaspingMango)
 * <img src="https://minotar.net/helm/b5fcae10679e4df887f47bf0a5f5b4b5/256.png" alt="" data-size="line"> **Admasub** [Discord](https://discordapp.com/users/1196131473707765812)
-* <img src="https://minotar.net/helm/7c6b4b0e06124dacb2e2a1c97653f8df/256.png" alt="" data-size="line"> **AethorWar** [Discord](https://discordapp.com/users/837283696616669204)
 * <img src="https://mc-heads.net/avatar/67b657de52434911a354d308e8cdb5bb9c3fbdb07ec49268ce5c544cb02dfc7a/" alt="" data-size="line"> **Eclipsed1188** [Discord](https://discordapp.com/users/1478847118855770273)
 * <img src="https://mc-heads.net/avatar/d89d9d3b3b19ec5b7928f744380ed86fcd9e0f80039ec767d8de3d141984adf7/" alt="" data-size="line"> **Dr\_Lonex7232** [Discord](https://discordapp.com/users/1447115144046841856)
+* <img src="https://mc-heads.net/avatar/4f665c2610c8e88cc7bad3b5ac64a24db0de7734bee986b9d91a55fd5175851a/" alt="" data-size="line"> **TheFollippers** [Discord](https://discordapp.com/users/1260877583122432111)
 
 ## Локализаторы
 
