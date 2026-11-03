@@ -31,7 +31,6 @@ description: Состав персонала сервера на текущий 
 * <img src="https://minotar.net/helm/1f1d2f1e233944c5a0571f7acaaa8153/256.png" alt="" data-size="line"> **White\_Wolf\_\_** [Discord](https://discordapp.com/users/778041773809205258)
 * <img src="https://minotar.net/helm/23b4a538f0934fc79c0d41d1b5283a57/256.png" alt="" data-size="line"> **jAngelius** [Discord](https://discordapp.com/users/567791580744908946)
 * <img src="https://minotar.net/helm/ec6a8e141b1149639ad66593c44ff655/256.png" alt="" data-size="line"> **koi9ia** [Discord](https://discordapp.com/users/853741418882662420)
-* <img src="https://minotar.net/helm/c26ee7ea41ff42918528a860913cf855/256.png" alt="" data-size="line"> **Collumy** [Discord](https://discordapp.com/users/742616969659940874)
 * <img src="https://minotar.net/helm/8c46bcfe50a84684b30937b7449757c9/256.png" alt="" data-size="line"> **kot\_v\_sapogax2** [Discord](https://discordapp.com/users/1185198722498445335)
 * <img src="https://minotar.net/helm/9313b9fa04434aa19cd7bc8d01519d80/256.png" alt="" data-size="line"> **Zoga\_com** [Discord](https://discordapp.com/users/681845447547289690)
 * <img src="https://mc-heads.net/avatar/67b657de52434911a354d308e8cdb5bb9c3fbdb07ec49268ce5c544cb02dfc7a/" alt="" data-size="line"> **Eclipsed1188** [Discord](https://discordapp.com/users/1478847118855770273)
