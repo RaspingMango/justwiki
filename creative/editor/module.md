@@ -40,18 +40,20 @@ description: Позволяет сохранить выбранные строк
 
 <details>
 
-<summary>Доступность модуля</summary>
+<summary>Категория</summary>
 
-* <img src="../../.gitbook/assets/iron_door.png" alt="" data-size="line"> **Приватный** (модуль можете установить только вы)
-* <img src="../../.gitbook/assets/oak_door.png" alt="" data-size="line"> **Публичный** (модуль виден всем игрокам и каждый может его установить)
+Позволяет изменить категорию.
 
 </details>
 
 <details>
 
-<summary>Категория</summary>
+<summary>Доступность модуля</summary>
 
-Позволяет изменить категорию.
+* <img src="../../.gitbook/assets/oak_door.png" alt="" data-size="line"> **Публичный** (модуль виден всем игрокам и каждый может его установить)
+* <img src="../../.gitbook/assets/spruce_door.png" alt="" data-size="line"> **В каталоге** (модуль есть в меню модулей, но скачать его код с сайта нельзя)
+* <img src="../../.gitbook/assets/birch_door.png" alt="" data-size="line"> **Скрытый** (модуля нет в списке модулей, но его может установить любой, кто знает его ID)
+* <img src="../../.gitbook/assets/iron_door.png" alt="" data-size="line"> **Приватный** (модуль можете установить только вы)
 
 </details>
 
