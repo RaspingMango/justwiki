@@ -53,6 +53,7 @@
       * [Маркер](creative/editor/arguments/parameter/enum.md)
     * [Список](creative/editor/arguments/variable/list.md)
     * [Словарь](creative/editor/arguments/variable/dictionary.md)
+    * [Ячейка](creative/editor/arguments/cell.md)
     * [Игровое значение](creative/editor/arguments/game_value.md)
 
 ## SkyBlockM

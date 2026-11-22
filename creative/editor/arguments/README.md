@@ -23,6 +23,7 @@ description: Список всех аргументов.
 * [<img src="../../../.gitbook/assets/heart_of_the_sea.png" alt="" data-size="line"> **Параметр**](parameter/)
 * [<img src="../../../.gitbook/assets/guster_banner_pattern.png" alt="" data-size="line"> **Список**](variable/list.md)
 * [<img src="../../../.gitbook/assets/chest_minecart.png" alt="" data-size="line"> **Словарь**](variable/dictionary.md)
+* [<img src="../../../.gitbook/assets/green_bundle.png" alt="" data-size="line"> **Ячейка**](cell.md)
 * [<img src="../../../.gitbook/assets/name_tag.png" alt="" data-size="line"> **Игровое значение**](game_value.md)
 * <img src="../../../.gitbook/assets/white_dye.png" alt="" data-size="line"> [**Любое значение**](#user-content-fn-2)[^2]
 

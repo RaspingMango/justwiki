@@ -51,3 +51,7 @@ description: Состав персонала сервера на текущий 
 ## SMM
 
 * <img src="https://minotar.net/helm/9ac4a65a-82d0-4785-b011-a152f8b851ad/256.png" alt="" data-size="line"> **Flok\_Boom** [Discord](https://discordapp.com/users/445419542664183808)
+
+## Строители
+
+* <img src="https://minotar.net/helm/3e265da970f54b4db4796e17ab10a608/256.png" alt="" data-size="line"> **lilname** [Discord](https://discordapp.com/users/363267028263632906)
